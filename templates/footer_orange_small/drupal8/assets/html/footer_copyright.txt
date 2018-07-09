@@ -1,0 +1,3 @@
+<div class = "block-content footer-copyright-content">
+  CMS BOTS <span> &#169; Copyright 2015 </span>
+</div>

@@ -1,0 +1,20 @@
+{
+  "platform": {
+    "htbs2": true,
+    "drupal8": true,
+    "drupal7": true
+  },
+  "author": {
+    "name": "adalarasu d",
+    "twitter": "https://twitter.com/adalquardz",
+    "facebook": "https://www.facebook.com/adalarasu",
+    "linkedin": "https://www.linkedin.com/in/adalarasu/",
+    "github": "https://github.com/quardz",
+    "website": "http://quardz.com"
+  },
+  "name": "Header menu yellow",
+  "machine_name": "header_menu_yellow",
+  "style_id": "103",
+  "region": "Header",
+  "created": "1420182574"
+}

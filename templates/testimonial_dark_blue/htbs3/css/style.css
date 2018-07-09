@@ -1,0 +1,77 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Testimonial / Testimonial dark blue----------------*/
+/*--------------------------------------------------------------------------*/
+.testimonial-dark-blue {
+  padding-top: 26px;
+  padding-bottom: 30px;
+  font-family: roboto;
+}
+
+.testimonial-dark-blue h2{
+  font-weight: lighter;
+  font-size: 34px;
+  margin-bottom: 15px;
+}
+
+.testimonial-dark-blue .item {
+  padding: 19px;
+}
+
+.testimonial-dark-blue .inner-box {
+  display: flex;
+}
+
+.testimonial-dark-blue .testi-image {
+  padding: 0px;
+  overflow: hidden;
+  display: inline-block;
+  align-items: stretch;
+}
+
+.testimonial-dark-blue .testi-image img{
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  /* margin: auto auto; */
+  position: none;
+  max-width: 100%;
+  height: auto;
+  max-height:100%;
+}
+
+.testimonial-dark-blue .testi-body {
+  display: block;
+  font-weight: lighter;
+  padding-top: 12px;
+  font-size: 15px;
+  line-height: 22px;
+  padding-bottom: 3px;
+}
+ 
+.testimonial-dark-blue .testi-name-designation {
+  font-size: 21px;
+  font-weight: normal;
+}
+
+.testimonial-dark-blue .testi-name-designation span{
+  font-size: 13px;
+  font-style: italic;
+}
+
+.mobile-carousel-controls {
+  padding: 0px 18px;
+}
+
+.mobile-carousel-controls span {
+  width: 50%;
+  float: left;
+  font-size: 25px;
+  text-align: center;
+  font-weight: lighter;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+/*--------------------------------------------------------------------------*/
+/*------------    Ends : Testimonial / Testimonial dark blue----------------*/
+/*--------------------------------------------------------------------------*/

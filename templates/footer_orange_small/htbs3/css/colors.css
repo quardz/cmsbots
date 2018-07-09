@@ -1,0 +1,19 @@
+
+footer#footer .footer-subscribe {
+  background-color: #E77E23;
+}
+footer#footer .footer-copyright-menu,
+footer#footer .footer-subscribe .subscribe-form-submit{
+  background-color: #d25400;
+  border-color: #d25400;
+}
+footer#footer .footer-copyright-menu,
+footer#footer .footer-subscribe .form-control-static,
+footer#footer .footer-subscribe .subscribe-form-submit,
+footer#footer .footer-menu ul li a{
+  color: #ffffff;
+}
+footer#footer .footer-menu ul li a:hover,
+footer#footer .footer-menu ul li a:focus {
+  background-color: transparent;
+}

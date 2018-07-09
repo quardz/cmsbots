@@ -1,0 +1,79 @@
+.footer-orange-small .footer-copyright-menu{
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+}
+
+.footer-orange-small .footer-subscribe {
+  padding-top: 46px;
+  padding-bottom: 48px;
+}
+
+.footer-orange-small .footer-subscribe .subscribe-form-submit{
+  border: 2px solid;
+}  
+
+.footer-orange-small .footer-subscribe .title-wrap {
+  margin-bottom: 15px;  
+}
+
+.footer-orange-small .footer-subscribe #contact_email {
+  width: 66.66%;
+  border-radius: 0px;
+  font-size: 1em;
+  font-weight: normal;
+}
+
+.footer-orange-small .footer-copyright .footer-copyright-content {
+  font-size: 1.3em;
+  font-weight: normal;
+}
+
+.footer-orange-small .footer-copyright .footer-copyright-content span{
+  font-size: 0.70em;
+  font-weight: normal;
+  margin-left: 8px;
+}
+
+.footer-orange-small .footer-subscribe .form-control-static {
+  font-size: 1.7em;
+  padding-top: 1px;
+  font-weight: lighter;
+} 
+ 
+.footer-orange-small .footer-subscribe .subscribe-form-submit {
+  width: 33.33%;
+  display:inline-block;
+  border-radius: 1px;
+  float: right;
+  height: 46px;
+  font-size: 1.1em;
+  font-weight: normal;
+}
+
+.footer-orange-small .footer-copyright {
+  padding-top: 13px;
+  padding-left: 0px;
+  padding-bottom: 10px;
+}
+
+.footer-orange-small .footer-menu {
+  padding-right: 0px;
+  margin-top: 6px;
+}
+
+.footer-orange-small .footer-menu ul {
+  float: right;
+}
+
+.footer-orange-small .footer-menu ul li a{
+  padding: 10px 10px;
+  font-weight: normal;
+  font-size: 1.1em;
+  text-transform: uppercase;
+}
+
+.footer-orange-small .footer-menu ul li a:hover,
+.footer-orange-small .footer-menu ul li a:focus {
+  background: transparent;
+  text-decoration: underline;
+}

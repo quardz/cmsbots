@@ -1,0 +1,12 @@
+--2018-07-07 11:04:53--  http://q2test.s3.amazonaws.com/img/style/screenshots/features_1_0_0.jpg
+Resolving q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)... 52.216.98.27
+Connecting to q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)|52.216.98.27|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67405 (66K) [image/jpeg]
+Saving to: 'features_1_0_0.jpg'
+
+     0K .......... .......... .......... .......... .......... 75% 98.6K 0s
+    50K .......... .....                                      100% 13.1M=0.5s
+
+2018-07-07 11:04:54 (129 KB/s) - 'features_1_0_0.jpg' saved [67405/67405]
+

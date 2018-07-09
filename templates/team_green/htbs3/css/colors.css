@@ -1,0 +1,61 @@
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Team / Team Green -----------------------*/
+/*--------------------------------------------------------------------------*/
+.team-green {
+  background-color: #ffffff;
+}
+
+body .team-green {
+  color: #4b4b4b;
+}
+
+.team-green .team-header {
+  color: #ffffff;
+}
+
+.team-green .team-header h2 {
+  background-color: #35BC9C;
+  color: #ffffff;
+}
+
+.team-green .team-header .desc {
+  background-color: #f7f7f7;
+  color: #4b4b4b;
+}
+
+.team-green .item:hover .team-content {
+  background-color: #35BC9C;
+  color: #ffffff;
+}
+
+.team-green .team-name{
+  color: #35BC9C;
+}
+
+.team-green .item:hover .team-name{
+  color: #ffffff;
+}
+
+.team-green .team-social a{
+  color: #B5B5B5;
+  background-color: #EEEEEE;
+}
+
+.team-green .team-social li:hover a{
+  color: #ffffff;
+  background-color: #35BC9C;
+}
+
+.mobile-carousel-controls span {
+  color: #ffffff;
+  background-color: #35BC9C;
+}
+
+.mobile-carousel-controls span:hover {
+  background-color: #353535;
+  color: #ffffff;
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Team / Team Green  -------------------------*/
+/*--------------------------------------------------------------------------*/
+ 

@@ -1,0 +1,10 @@
+mbase_region_menu_style_orientation_footer: mb-menu-vertical
+mbase_region_menu_child_display_footer: mb-menu-dropno
+mbase_region_menu_style_orientation_footer_menu1: mb-menu-vertical
+mbase_region_menu_child_display_footer_menu1: mb-menu-dropno
+mbase_region_menu_style_orientation_footer_menu2: mb-menu-vertical
+mbase_region_menu_child_display_footer_menu2: mb-menu-dropno
+mbase_region_menu_style_orientation_footer_signup: mb-menu-vertical
+mbase_region_menu_child_display_footer_signup: mb-menu-dropno
+mbase_region_menu_style_orientation_footer_copyright: mb-menu-horizontal
+mbase_region_menu_child_display_footer_copyright: mb-menu-dropno

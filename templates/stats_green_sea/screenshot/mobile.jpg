@@ -1,0 +1,12 @@
+--2018-07-07 11:05:45--  http://q2test.s3.amazonaws.com/img/mobilescreens/stats_green_sea_mobile.jpg
+Resolving q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)... 52.216.17.248
+Connecting to q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)|52.216.17.248|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 59735 (58K) [image/jpeg]
+Saving to: 'stats_green_sea_mobile.jpg'
+
+     0K .......... .......... .......... .......... .......... 85% 99.9K 0s
+    50K ........                                              100% 29.9M=0.5s
+
+2018-07-07 11:05:46 (116 KB/s) - 'stats_green_sea_mobile.jpg' saved [59735/59735]
+

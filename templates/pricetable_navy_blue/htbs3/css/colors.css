@@ -1,0 +1,48 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : PriceTable / Price table navy blue  ---------------*/
+/*--------------------------------------------------------------------------*/
+.price-pricetable-navy-blue {
+  background-color:#ffffff;
+}
+
+.price-pricetable-navy-blue h2,
+.price-pricetable-navy-blue h3{ 
+  color:#2D3C51;
+}
+
+.price-pricetable-navy-blue .price-price {
+  background-color: #E5E5E5;
+}
+
+.price-pricetable-navy-blue .price-features {
+  background-color: #F5F5F5;
+}  
+
+.price-pricetable-navy-blue .price-price>span {
+  border-left-color: #2C3D4F;
+}
+
+.price-pricetable-navy-blue .price-price .price-cost {
+  color: #242424; 
+}
+
+.price-pricetable-navy-blue .price-content {
+  background-color:#E5E5E5;
+} 
+
+.price-pricetable-navy-blue .btn {
+  background-color: #fffffff;
+  color: #2C3D4F;
+  border-color:#E5E5E5;
+}
+
+.price-pricetable-navy-blue .price-box:hover .btn {
+  background-color: #2C3D4F;
+  color: #ffffff;
+  border-color: #2C3D4F;
+}  
+/*--------------------------------------------------------------------------*/
+/*------------  End : PriceTable / Price table navy blue  ------------------*/
+/*--------------------------------------------------------------------------*/
+  

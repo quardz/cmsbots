@@ -1,0 +1,65 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Testimonial / Testimonial green  ------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) { 
+.testimonial-green {
+  padding-top: 10px;
+  padding-bottom: 10px;
+ }
+ 
+ .testimonial-green h2 { 
+  font-size: 29px;
+  padding-bottom: 15px;
+}
+
+.testimonial-green .testi-body {
+  font-size: 16px;
+  line-height: 160%;
+}
+
+.testimonial-green .testi-name-designation {
+  margin-top: 0px;
+}
+ 
+.testimonial-grey-black .testi-arrow {
+  display:none;
+}
+
+.testimonial-grey-black .testi-body-wrap {
+  display: block;
+  float: left;
+}
+
+.testimonial-grey-black .testi-name-designation {
+  text-align: center;
+  display: block;
+  margin-top: 10px;
+  float: right;
+  width: 100%;
+}
+
+.testimonial-grey-black  .carousel-control.right {
+  right: 48%;
+  left: auto;
+  width: 15px;
+  text-align: center;
+  bottom: 30px;
+  /* background: orange !important; */
+  top: auto;
+}
+
+.testimonial-grey-black  .carousel-control.left {
+  right: 52%;
+  left: auto;
+  width: 15px;
+  text-align: center;
+  bottom: 30px;
+  /* background: orange !important; */
+  top: auto;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Testimonial / Testimonial green  ---------------------*/
+/*--------------------------------------------------------------------------*/

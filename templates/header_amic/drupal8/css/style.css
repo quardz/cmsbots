@@ -1,0 +1,88 @@
+body.navbar-is-fixed-top {
+  padding-top: 0px !important;
+}
+body.not-front.navbar-is-fixed-top {
+  padding-top: 70px !important;
+}
+
+body.path-frontpage header#navbar.scrolled,
+header#navbar {
+  opacity: 0.9;
+}
+body.path-frontpage.navbar-is-static-top header#navbar{
+  position: absolute;
+  width: 100%;
+}
+#navbar {
+  font-family: roboto;
+  opacity: 0.9;
+  min-height: 50px;
+  padding-top: 0px;
+  border: 0px;
+}
+#navbar .navbar-nav>li  {
+  margin-top:10px;
+}
+#navbar .navbar-nav>li>a {
+  text-transform: uppercase;
+  font-size: 1.1em;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#navbar .navbar-nav>li>a.menu-highlight {
+  font-size: 1em;
+  text-transform: none;
+}
+#navbar .navbar-toggle {
+  border-radius: 0px;
+}
+a.logo {
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+a.logo img {
+  height: 40px;
+  width: auto;
+}
+.header-amic-content {
+  background-image: url(images/css-header-header-amic-main-background.jpg); 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-height:650px;
+  font-family:roboto;
+}
+.header-amic-content .main-title{
+  margin-top: 145px;
+  font-size:3em;
+}
+.header-amic-content .main-desc{
+  margin-top: 5px;
+  font-size: 1.5em;
+}
+ 
+.header-amic-content .block-icon-circle {
+  display: inline-block;
+  font-size: 4em;
+  border-radius: 50%;
+  width: 90px;
+  height: 90px;
+}
+.header-amic-content .block-icon-circle:hover  {
+  opacity: 0.9;
+}  
+.header-amic-content .block-text{
+  display: block;
+  font-size: 2em;
+}
+.header-amic-content .block-desc{
+  display: block;
+}
+.header-amic-content .content-block-group {
+  margin-top:50px;
+}

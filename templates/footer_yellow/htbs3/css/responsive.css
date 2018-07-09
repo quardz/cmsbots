@@ -1,0 +1,30 @@
+@media (max-width: 767px) {
+
+.footer-yellow {
+  padding-bottom: 30px;
+  padding-top: 30px;
+}  
+
+.price-pricetable-blue .price-box .price-features {
+  height: 10px;
+  padding-bottom: 0px;
+  overflow: hidden;
+}
+
+.price-pricetable-blue .price-box:hover .price-features {
+  height: auto;
+  padding-bottom: 70px;
+  overflow: visible;
+}
+
+.footer-yellow .footer-social .block-content  .follow-link-wrapper-heading {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.footer-yellow .footer-social .block-content .follow-link-wrapper a {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+}

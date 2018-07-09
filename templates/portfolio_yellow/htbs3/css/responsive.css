@@ -1,0 +1,43 @@
+
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Portfolio / Portfolio yellow  -----------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) {  
+
+.portfolio-yellow  .carousel-inner {
+  padding: 0px;
+  margin: 0;
+}
+
+.portfolio-yellow  .carousel-inner .item {
+  margin: 0;
+}
+
+.portfolio-yellow .team-inner {
+  padding: 0;
+}
+
+.portfolio-yellow .mix {
+  padding: 0;
+}
+
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+
+.portfolio-yellow #mixitup-options ul.option-set li {
+  font-size: 1.1em;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.portfolio-yellow #mixitup-options ul.option-set li {
+  margin-right: 10px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Portfolio / Portfolio yellow  --------------*/
+/*--------------------------------------------------------------------------*/

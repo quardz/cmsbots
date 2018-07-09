@@ -1,0 +1,91 @@
+
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Portfolio / Portfolio blue  -------------*/
+/*--------------------------------------------------------------------------*/
+.portfolio-blue {
+  padding-bottom: 23px;
+}
+
+.portfolio-blue .screen-sm #mixitup-container .mix,
+.portfolio-blue .screen-md #mixitup-container .mix,
+.portfolio-blue .screen-lg #mixitup-container .mix{
+  display: none;
+}
+
+.portfolio-blue  #mixitup-options {
+  margin-top: 50px;
+  margin-bottom: 0px;
+}
+
+.portfolio-blue #mixitup-options ul.option-set {
+  padding: 0px;
+}
+
+.portfolio-blue #mixitup-options ul.option-set li {
+  list-style: none;
+  margin-left: 0px;
+  margin-right: 20px; 
+  border: 1px solid;
+  font-size: 1.2em;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 21px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.portfolio-blue .mix {
+  padding-bottom: 8px;
+}
+
+.portfolio-blue .mix img {
+  width: 100%;
+  height: auto;
+}
+  
+.portfolio-blue .mix .inner-box .portf-image {
+  display: block;
+  margin-left: 0px;
+}
+
+.portfolio-blue .mix .inner-box .portf-title {
+  display: block;
+  margin-left: 0px;
+  margin-top: 4px;
+}
+
+.portfolio-blue .mix .inner-box .portf-title a {
+  font-size: 2em;
+  text-decoration: none;
+}
+
+.portfolio-blue .mix .inner-box .portf-desc  {
+  font-size: 1.1em;
+  letter-spacing: 0.2px;
+  display: block;
+  margin-left: 0px;
+  margin-bottom: 20px;
+}
+
+.portfolio-blue .carousel-inner {
+  width: auto;
+}
+
+.mobile-carousel-controls {
+  padding: 15px;
+}
+
+.mobile-carousel-controls span {
+  width: 50%;
+  float: left;
+  font-size: 25px;
+  text-align: center;
+  font-weight: lighter;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Portfolio / Portfolio blue  ----------------*/
+/*--------------------------------------------------------------------------*/

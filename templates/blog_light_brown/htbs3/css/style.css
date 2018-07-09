@@ -1,0 +1,135 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Blognews / Blog light brown  ----------------------*/
+/*--------------------------------------------------------------------------*/
+.blog-light-brown {
+  font-family: 'Roboto';
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.blog-light-brown .blog-item {
+  margin-bottom: 30px;
+  height: 135px;
+  max-height: 160px;
+}
+
+.blog-light-brown .view-header {
+  padding-left: 0px;
+}
+
+.blog-light-brown .blog-readmore {
+  padding-bottom: 15px;
+}
+
+.blog-light-brown .blog-readmore a {
+  font-size: 1.5em;
+  font-weight: lighter;
+  text-decoration: none;
+}
+
+.blog-light-brown h2{
+  font-size: 2.3em;
+  font-weight: normal;
+}
+
+.blog-light-brown .blog-block-title {
+  padding-left: 0px;
+}
+
+.blog-light-brown .blog-image {
+  max-height: 160px;
+  overflow: hidden;
+  margin-left: 0 !important;
+  padding-left: 0px;
+  padding-right: 0px;
+  height: 135px;
+}
+
+.blog-light-brown .blog-content-right  {
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-right: 20px;
+  height: 135px;
+}
+
+.blog-light-brown .blog-meta {
+  height: 135px;
+}
+
+.blog-light-brown .blog-posted {
+  text-align: center;
+  height: 136px;
+  border-radius: 0px;
+  margin-left: 0px;
+}
+
+.blog-light-brown .date-day {
+  width: 100%;
+  display: block; 
+  height: 20%;
+  padding-top: 3%;
+  font-size: 2em;
+}
+
+.blog-light-brown .date-month{
+  width: 100%;
+  display: block;
+  height: 20%;
+  padding-top: 0%;
+  font-size: 1.9em;
+  font-weight: lighter;
+  margin-bottom: 10%;
+}
+
+.blog-light-brown .date-year{
+  width: 100%;
+  display: block;
+  height: 25%;
+  font-size: 1.8em;
+  font-weight: lighter;
+  margin-top: 20%;
+}
+
+.blog-light-brown .blog-title a{
+  font-size: 1.7em;
+  text-decoration: none;
+}
+
+.blog-light-brown .blog-author{
+  font-size: 17px;
+}
+
+.blog-light-brown .blog-author i{
+  font-size: 14px;
+  padding-right: 6px;
+}
+
+.blog-light-brown  .blog-desc{
+  font-size: 1.2em;
+  padding-top: 6px;
+}
+
+.blog-light-brown .mobile-carousel-controls {
+  padding: 15px;
+}
+
+.blog-light-brown .mobile-carousel-controls span {
+  width: 50%;
+  float: left;
+  font-size: 25px;
+  text-align: center;
+  font-weight: lighter;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.blog-light-brown .carousel-inner {
+  width:auto;
+}
+
+.blog-light-brown .well {
+  background-image: none;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Blognews / Blog light brown  -------------------------*/
+/*--------------------------------------------------------------------------*/

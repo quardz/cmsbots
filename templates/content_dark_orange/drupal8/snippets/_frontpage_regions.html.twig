@@ -1,0 +1,13 @@
+    {% if page.hpc_features_orange %}
+      <section class = "content-dark-orange hpc_features_orange">
+         <div class = "{{ container }}">
+        {{ page.hpc_features_orange }}
+          </div>
+      </section>
+    {% elseif snippet.hpc_features_orange %}
+      <section class = "content-dark-orange hpc_features_orange">
+         <div class = "{{ container }}">
+        {{ snippet.hpc_features_orange }}
+          </div>
+      </section>
+    {% endif %}

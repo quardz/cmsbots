@@ -1,0 +1,91 @@
+@media (min-width: 768px) and (max-width: 1169px) {
+
+.footer-dark-green .footer-message .footer-message-title h2 {
+  padding-left: 15px;
+}
+
+.footer-dark-green .footer-message .footer-message-content {
+  padding-left: 15px;
+}
+
+}
+
+@media (max-width: 767px) {
+
+.footer-dark-green {
+  padding-top: 5px;
+  padding-bottom: 30px;
+}
+
+.footer-dark-green .footer-message .block-content {
+  padding-left: 2%;
+  padding-right: 2%;
+  font-size: 1.15em;
+}
+
+.footer-dark-green .footer-menus-signup {
+  text-align: center;
+}
+
+.footer-dark-green .footer-menu ul li a {
+  line-height: 1.6em;
+  margin-bottom: 0px;
+}  
+
+.footer-dark-green .footer-signup {
+  text-align: center;
+  padding-top: 0px;
+  margin-top: 30px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+}
+
+.footer-dark-green .footer-signup-title {
+ padding-top: 1px;
+}
+
+.footer-dark-green .footer-menus-signup .title h2 {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+.footer-dark-green .footer-message .block-content {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.footer-dark-green #mainchimp-subscribe {
+  border-bottom: 0px;
+}
+
+.footer-dark-green #contact_email {
+  border: none;
+  width: 90%;
+  display: inline;
+}
+
+.footer-dark-green .subscribe-form-submit {
+  display: inline;
+  width: 90%;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.footer-dark-green .footer-copyright {
+  text-align: center; 
+}
+
+.footer-dark-green .footer-menus-signup .title h2,
+.footer-dark-green .footer-message h2.title,
+.footer-dark-green .footer-signup .title h2 {
+  padding-bottom: 3px;
+}
+
+.footer-dark-green .footer-message, .footer-dark-green .footer-menus, .footer-dark-green .footer-signup {
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+
+}

@@ -1,0 +1,135 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Team / Team dark green  ---------------------------*/
+/*--------------------------------------------------------------------------*/
+.team-dark-green {
+  font-family: roboto;
+  padding-top: 30px;
+  padding-bottom: 15px;
+}
+
+.team-dark-green .team-header {
+  margin-bottom: 32px;
+  display: block;
+  float: left;
+  font-size: 17px;
+  font-weight: lighter;
+}
+
+.team-dark-green .team-inner{
+  padding: 15px;
+  overflow: hidden;
+}
+
+.team-dark-green  h2 {
+  font-size: 25px;
+  margin-bottom: 2px;
+  font-weight: normal;
+}
+
+.team-dark-green .view-header .team-header-desc {
+  font-size: 1.2em;
+  margin-bottom: 45px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.team-dark-green .team-image img {
+  width: 100%;
+  height: auto;
+}
+
+.team-dark-green .team-social {
+ text-align: center;
+}
+
+.team-dark-green .team-social ul{
+  margin-top: -44px;
+  padding-left: 0px;
+}
+
+.team-dark-green .team-social li {
+  border: 1px solid;
+  display: inline-block;
+  height: 30px;
+  list-style: outside none none;
+  margin-left: 7px;
+  margin-right: 7px;
+  padding-top: 3px;
+  width: 30px;
+}
+
+.team-dark-green .team-social a {
+  display: block;
+  font-size: 1.2em;
+  text-decoration: none;
+}
+
+.team-dark-green .team-social .Linkedin:before {
+  font-family: FontAwesome;
+  content: "\f0e1";
+}
+
+.team-dark-green .team-social .Twitter:before {
+  font-family: FontAwesome;
+  content: "\f099";
+}
+
+.team-dark-green .team-social .Facebook:before {
+  font-family: FontAwesome;
+  content: "\f09a";
+}
+
+.team-dark-green .team-social .Google:before {
+  font-family: FontAwesome;
+  content: "\f0d5";
+}
+
+.team-dark-green .team-name-designation {
+  margin-top: 27px;
+  border-bottom: 1px solid;
+  margin-bottom: 16px;
+}
+
+.team-dark-green .team-name {
+  font-size: 1.8em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.team-dark-green .team-designation {
+  font-size: 1.2em;
+  font-weight: normal;
+  margin-left: 15px;
+  display: inline-block;
+  margin-bottom: 14px;
+}
+
+.team-dark-green .team-body {
+  font-size: 17px;
+}
+
+.team-dark-green .carousel-inner {
+  width: auto;
+}
+
+.mobile-carousel-controls {
+  padding: 30px;
+  padding-bottom: 15px;
+}
+
+.mobile-carousel-controls span {
+  width: 50%;
+  float: left;
+  font-size: 25px;
+  text-align: center;
+  font-weight: lighter;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.team-dark-green .item {
+  margin-bottom: 20px;
+}
+/*--------------------------------------------------------------------------*/
+/*---------------  End : Team / Team dark green  ---------------------------*/
+/*--------------------------------------------------------------------------*/

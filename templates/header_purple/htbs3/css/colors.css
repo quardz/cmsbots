@@ -1,0 +1,80 @@
+body.front.navbar-is-static-top header#navbar,
+body.front.navbar-is-static-top header#navbar.affix,
+body.front header#navbar.navbar-fixed-top.affix-top,
+header#navbar ul.dropdown-menu a,
+header#navbar .navbar-nav > li > a:focus,
+header#navbar .navbar-nav > li > a:hover,
+.navbar-default .navbar-toggle:focus, 
+.navbar-default .navbar-toggle:hover,
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover,
+header#navbar ul.dropdown-menu a:focus,
+header#navbar ul.dropdown-menu a:hover,
+header#navbar ul.dropdown-menu a.active,
+header#navbar.navbar-fixed-top {
+  background-color: transparent;
+}  
+header#navbar .navbar-nav > li > a:focus, 
+header#navbar .navbar-nav > li > a:hover {
+  color:#ac92ed;
+}
+body.not-front header#navbar,
+header#navbar.navbar-fixed-top.affix,
+header#navbar ul.dropdown-menu,
+header#navbar.navbar-inverse,
+header#navbar.navbar-default,
+body.front.navbar-is-static-top .navbar-default .navbar-toggle .icon-bar,
+header#navbar .navbar-toggle .icon-bar,
+.header-purple-content  .subscribe-button {
+  background-color: #ac92eb;
+}
+body.front .affix.navbar-default .navbar-toggle,
+header#navbar #navigation ul > li .active,
+body.front.navbar-is-static-top .navbar-default .navbar-toggle,
+.header-purple-content  .subscribe-button {
+  border-color: #ac92eb;
+}
+.navbar-default .navbar-toggle .icon-bar,
+header#navbar .navbar-toggle {
+  background-color: #ffffff;  
+}
+body.front .navbar-default .navbar-toggle,
+.navbar-default .navbar-toggle,
+header#navbar .navbar-toggle,
+header#navbar .navbar-nav > li > a,
+.header-purple-content .email-field {
+  border-color: #ffffff;  
+}
+
+body.front.navbar-is-fixed-top header#navbar ul.navbar-nav>li>a.active,
+header#navbar .navbar-brand,
+body.not-front header#navbar,
+header#navbar.navbar-fixed-top.affix, 
+body.front.navbar-is-fixed-top header#navbar.affix ul.navbar-nav>li>a.active,
+.navbar-inverse .navbar-brand,
+.navbar-brand,
+header#navbar .navbar-nav > li > a,
+header#navbar ul.dropdown-menu a,
+.header-purple-content  .main-desc,
+.header-purple-content  .main-title,
+.header-purple-content  .subscribe-button{
+  color:#ffffff;
+}
+
+@media (max-width: 767px) {
+  header#navbar  .navbar-collapse {
+    background-color: #ac92eb;
+  }
+  header#navbar .navbar-toggle {
+    border-color: transparent;
+    background-color: transparent;
+  }
+  header#navbar .navbar-nav > li > a:hover,
+  .dropdown-menu>li>a,
+  .dropdown-menu>li>a:hover,
+  .dropdown-menu>li>a.active,
+  header#navbar #navigation ul > li .active {
+    color: #ffffff;
+  }
+}  

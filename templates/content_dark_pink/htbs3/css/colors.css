@@ -1,0 +1,33 @@
+/***************************************************************/
+/****************   Content dark pink starts *******************/
+/***************************************************************/
+.content-dark-pink {
+  background-color: #ffffff;
+}
+.content-dark-pink a,
+.content-dark-pink h2{
+  color: #d94650;
+}
+.content-dark-pink h3,
+.content-dark-pink h4,
+.content-dark-pink h5,
+.content-dark-pink h6,
+.content-dark-pink {
+  color: #4c4c4c;
+}
+.content-dark-pink .btn {
+  background-color: #d94650;
+  border-color: #d94650;
+  color: #ffffff;
+}
+.content-dark-pink .btn:hover {
+  background-color: #c63f48;
+  border-color: #c63f48;
+}
+.content-dark-pink .underline,
+.content-dark-pink h3 { 
+  border-color: #4c4c4c;
+}
+/***************************************************************/
+/****************   Content dark pink end    *******************/
+/***************************************************************/

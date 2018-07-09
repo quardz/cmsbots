@@ -1,0 +1,100 @@
+
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Team / Team blue   ----------------------*/
+/*--------------------------------------------------------------------------*/
+.team-blue {
+  font-family: roboto;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.team-blue .team-header {
+  margin-bottom: 20px;
+}
+
+.team-blue .team-header h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 28px;
+  font-weight: normal;
+}
+
+.team-blue .team-header .desc {
+  padding: 9px 15px;
+  font-size: 17px;
+  font-weight: lighter;
+}
+
+.team-blue .team-header .desc p {
+  margin: 0px 0px 17px;
+}
+
+.team-blue .team-inner {
+  padding: 5px;
+  padding-bottom: 17px;
+}
+ 
+.team-blue .team-image {
+  padding: 0px;
+}
+ 
+.team-blue .team-image  img{
+  width: 97%;
+  height: auto;
+  filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 10+, Firefox on Android */
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(100%); /* Chrome 19+, Safari 6+, Safari 6+ iOS */
+}
+
+.team-blue .item:hover .team-image  img{
+  filter: none;
+  -webkit-filter: none;
+}
+
+.team-blue .team-name {
+  font-size: 22px;
+  font-weight: normal;
+  text-transform: uppercase; 
+  display: inline-block;
+  margin-top: -3px;
+  padding-bottom: 5px;
+}
+
+
+.team-blue .team-designation{
+  font-size: 15px;
+  font-weight: normal;
+  padding-left: 10px;
+}
+
+.team-blue .team-body{
+  display: block;
+  font-size: 14px;
+  font-weight: normal;
+  padding-bottom: 4px;
+}
+
+.team-blue .team-social a{
+  font-size: 18px;
+}
+
+.team-blue .carousel-inner {
+  width: auto;
+}
+
+.mobile-carousel-controls {
+  padding: 15px;
+}
+
+.mobile-carousel-controls span {
+  width: 50%;
+  float: left;
+  font-size: 25px;
+  text-align: center;
+  font-weight: lighter;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Team / Team blue   -------------------------*/
+/*--------------------------------------------------------------------------*/

@@ -1,0 +1,63 @@
+<footer id = "footer-wrap" class = "footer-section section footer-wrap">
+  <div class = "footer-menus-signup {{ container }}">
+    <div class = "row">
+    {% if page.footer_menu1 or page.footer_menu2 or 
+      snippet.footer_menu1 or snippet.footer_menu2 %}
+      <div class = "col-md-4 footer-menus">
+        <div class = "row">
+          {% if page.footer_menu1 %}
+          <div class = "col-sm-6 footer-menu footer-menu-1">
+            {{ page.footer_menu1 }}
+          </div>
+          {% elseif snippet.footer_menu1 %}
+          <div class = "col-sm-6 footer-menu footer-menu-1">
+            {{ snippet.footer_menu1 }}
+          </div>
+          {% endif %}
+          
+          {% if page.footer_menu2 %}
+          <div class = "col-sm-6 footer-menu footer-menu-2">
+            {{ page.footer_menu2 }}
+          </div>
+          {% elseif snippet.footer_menu2 %}
+          <div class = "col-sm-6 footer-menu footer-menu-2">
+            {{ snippet.footer_menu2 }}
+          </div>
+          {% endif %}
+        </div>
+      </div>
+      {% endif %}
+      {% if page.footer %}      
+      <div class = "col-md-4 footer-message">
+        {{ page.footer }}
+      </div>
+      {% elseif snippet.footer %}      
+      <div class = "col-md-4 footer-message">
+        {{ snippet.footer }}
+      </div>      
+      {% endif %}
+      
+      {% if page.footer_signup %}
+      <div class = "col-md-4 footer-signup">
+        {{ page.footer_signup }}
+      </div>
+      {% elseif snippet.footer_signup %}      
+      <div class = "col-md-4 footer-signup">
+        {{ snippet.footer_signup }}
+      </div>      
+      {% endif %}
+      
+    </div>
+  </div>
+ 
+  {% if page.footer_copyright %}
+  <div class = "footer-copyright {{container}} text-left">
+    {{ page.footer_copyright }}
+  </div>
+  {% elseif snippet.footer_copyright %}
+  <div class = "footer-copyright {{container}} text-left">
+    {{ snippet.footer_copyright }}
+  </div>
+  {% endif %}  
+
+</footer>

@@ -1,0 +1,96 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : PriceTable / Price table sky-blue	----------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) { 
+.price-pricetable-sky-blue{
+  padding-top: 8px;
+  padding-bottom: 0px;
+}
+
+.price-pricetable-sky-blue h2 {
+  font-size: 42px;
+}
+
+.price-pricetable-sky-blue .price-desc {
+  font-size: 14px;
+  margin-top: 2px;
+  margin-bottom: 0px;
+}
+
+.price-pricetable-sky-blue .price-table {
+  margin-top: 0px;
+}
+
+.price-pricetable-sky-blue .price-box {
+  margin-top: 20px;
+  margin-bottom: 13px;
+}
+
+.price-pricetable-sky-blue .price-price .price-cost {
+  font-size: 44px;
+}
+
+.price-pricetable-sky-blue .btn {
+  margin-top: 9px;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 992px) { 
+
+.price-pricetable-sky-blue .price-price .price-cost {
+  font-size: 36px;
+}
+
+.price-pricetable-sky-blue .btn {
+  padding: 8px 8px;
+  margin-top: 3px;
+}
+
+.price-pricetable-sky-blue h3 {
+  font-size: 21px;
+}
+
+.price-pricetable-sky-blue .price-price {
+  padding-top: 12px;
+  padding-left: 8px;
+}
+
+.price-pricetable-sky-blue .price-price .price-cost span {
+  font-size: 12px;
+}
+
+.price-pricetable-sky-blue .price-features-list li {
+  padding: 0px 0px;
+  font-size: 17px;
+  padding-left: 8px;
+  padding-top: 10px;
+}
+
+.price-pricetable-sky-blue .price-features li.price-about {
+  font-size: 16px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+}
+
+@media (min-width: 993px) and (max-width: 1200px) { 
+
+.price-pricetable-sky-blue .price-price .price-cost {
+  font-size: 40px;
+}
+
+.price-pricetable-sky-blue .btn {
+  margin-top: 7px;
+}
+
+.price-pricetable-sky-blue .price-price .price-cost span {
+  font-size: 16px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------    Ends : PriceTable / Price table sky-blue	----------------*/
+/*--------------------------------------------------------------------------*/

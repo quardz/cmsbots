@@ -1,0 +1,60 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : PriceTable / Price table navy blue  ---------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) { 
+
+.price-pricetable-navy-blue{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.price-pricetable-navy-blue h2 {
+  font-size: 41px;
+}
+
+.price-pricetable-navy-blue .price-desc {
+  font-size: 14px;
+}
+
+.price-pricetable-navy-blue .price-table {
+  margin-top: 21px;
+  margin-bottom: 0px;
+}
+
+.price-pricetable-navy-blue .btn {
+  margin-bottom: 32px;
+}
+.price-pricetable-navy-blue .price-header {
+  width: 75%;
+}
+
+}
+
+@media (min-width: 769px) and (max-width: 992px) {  
+
+.price-pricetable-navy-blue .price-header {
+  width: 70%;
+}
+.price-pricetable-navy-blue .price-price {
+  padding-right: 65px;
+  padding-top: 60px;
+}
+
+}
+
+@media (min-width: 992px) and (max-width: 1200px){ 
+
+.price-pricetable-navy-blue .price-header {
+  width: 70%;
+}
+
+.price-pricetable-navy-blue .price-price {
+  padding-top: 40px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : PriceTable / Price table navy blue  ------------------*/
+/*--------------------------------------------------------------------------*/
+  

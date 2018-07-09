@@ -1,0 +1,63 @@
+header#navbar.navbar-fixed-top.affix,
+header#navbar.navbar-inverse,
+header#navbar.navbar-default,
+header#navbar .dropdown-menu,
+header#navbar  .navbar-toggle .icon-bar  {
+  background-color: #4e2e28;
+}
+header#navbar.navbar-fixed-top.affix a,
+header#navbar.navbar-fixed-top.affix li a,
+header#navbar.navbar-fixed-top.affix .navbar-nav li a,
+header#navbar.navbar-inverse a,
+header#navbar.navbar-inverse li a,
+header#navbar.navbar-inverse .navbar-nav li a,
+header#navbar .dropdown-menu a,
+header#navbar .dropdown-menu,
+header#navbar .navbar-nav > li > a {
+  color: #ffffff;
+}
+body.front header#navbar.navbar-fixed-top.affix-top .navbar-nav > li > a,
+body.front header#navbar.navbar-static-top .navbar-nav>li>a,
+body.front header#navbar.navbar-static-top.navbar-inverse .navbar-nav>li>a,
+.header-brown-content .main-title-first,
+.header-brown-content .main-title-second {
+  color: #4e2e28;
+}
+.header-brown-content  .main-desc,
+header#navbar #navigation ul > li .active,
+header#navbar .navbar-nav > li > a:focus, 
+header#navbar .navbar-nav > li > a:hover {
+  color:#171717;
+}
+header#navbar  .navbar-toggle {
+  border-color: #ffffff;
+  background: #ffffff;
+}
+header#navbar .navbar-nav > li > a:focus, 
+header#navbar .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav>.active>a, 
+.navbar-inverse .navbar-nav>.active>a:focus, 
+.navbar-inverse .navbar-nav>.active>a:hover,
+header#navbar .dropdown-menu a {
+  background-color: transparent;
+}
+.navbar-inverse .navbar-collapse,
+.navbar-inverse .navbar-form {
+  border-color: transparent;
+}
+@media (max-width: 767px) {
+  body.front header#navbar.navbar-static-top ul,
+  body.front header#navbar.navbar-fixed-top.affix-top ul{
+    background-color: #4e2e28;
+  }
+  body.front header#navbar.navbar-static-top a,
+  body.front header#navbar.navbar-static-top .navbar-nav>li>a, 
+  body.front header#navbar.navbar-static-top.navbar-inverse .navbar-nav>li>a,
+  body.front header#navbar.navbar-fixed-top.affix-top a,
+  body.front header#navbar.navbar-fixed-top.affix-top .navbar-nav>li>a, 
+  body.front header#navbar.navbar-fixed-top.navbar-inverse.affix-top .navbar-nav>li>a,
+  body.front header#navbar.navbar-static-top ul,
+  body.front header#navbar.navbar-fixed-top.affix-top ul  {
+    color: #ffffff;
+  }
+}

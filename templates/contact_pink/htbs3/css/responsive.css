@@ -1,0 +1,60 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Contact / Contact Pink  ---------------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 767px) {
+
+.contact-pink {
+  padding-top: 24px;
+  padding-bottom: 36px;
+}
+
+.contact-pink h2 {
+  font-size: 36px;
+}
+
+.contact-pink address .contact-item {
+  font-size: 18px;
+}
+
+.contact-pink .follow-links a {
+  font-size: 23px;
+}
+
+.contact-pink address {
+  margin-bottom: 12px;
+}
+
+.contact-pink .contact-form {
+  margin-top: 18px;
+}
+
+.contact-pink  .form-group {
+  margin-bottom: 25px;
+}
+
+.contact-pink .btn {
+  width: 100%;
+}
+
+.contact-pink-map .google-map-wrap {
+  padding: 20px;
+  padding-top: 30px;
+  padding-bottom: 0px;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+
+.contact-pink address .contact-item {
+  font-size: 16px;
+}
+
+.contact-pink .follow-links a {
+  font-size: 19px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Contact / Contact Pink  ------------------------------*/
+/*--------------------------------------------------------------------------*/

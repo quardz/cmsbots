@@ -1,0 +1,32 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Clients / Clients orange  -------------------------*/
+/*--------------------------------------------------------------------------*/
+.block-views-q-clientele-orange-block1 {
+  background-color: #fffffff;
+}
+
+.clients-orange .clients-orange-item {
+  text-align: center;
+  vertical-align: middle;
+  margin-bottom: 40px;
+}
+
+.clients-orange {
+  margin-bottom: 8px;
+}
+
+.clients-orange .title h2{
+  font-family: 'Roboto';
+  font-size: 1.6em;
+  margin-top: 45px;
+  margin-bottom: 26px;
+}
+ 
+.clients-orange .clients-orange-item img{
+  width: 143px;
+  height: 46px;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Clients / Clients orange  ----------------------------*/
+/*--------------------------------------------------------------------------*/

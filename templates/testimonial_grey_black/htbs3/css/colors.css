@@ -1,0 +1,28 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Testimonial / Testimonial grey black  -------------*/
+/*--------------------------------------------------------------------------*/
+.testimonial-grey-black {
+  background: #ffffff;
+}
+.testimonial-grey-black h2 {
+  color: #202932;
+}
+.testimonial-grey-black .testi-body {
+  background-color: #202932;
+  color: #ffffff;
+}
+
+.testimonial-grey-black .testi-name {
+  color: #1FA287;
+}
+
+.testimonial-grey-black .carousel-control .fa {
+  color: #A3A3A3;
+}
+
+.testimonial-grey-black .carousel-control:hover .fa {
+  color: #202932;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Testimonial / Testimonial grey black  ----------------*/
+/*--------------------------------------------------------------------------*/

@@ -1,0 +1,17 @@
+<div class="content-light-green plugin-content" id = "content-light-green">
+  <div class="container">
+    <div class="row content-box">
+      <div class="col-sm-10 col-xs-12">
+        <div class="header">
+          <h3 class="title">Easy Way to Build Website</h3>
+          <div class="description">Its Suitable for Company, Business and Creative. Hope you enjoy our work.</div>
+        </div>
+      </div>
+      <div class="col-sm-2 col-xs-12">
+        <div class="buynow-button">
+          <a href="#" class="btn btn-primary btn-lg active" role="button">BUY NOW</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

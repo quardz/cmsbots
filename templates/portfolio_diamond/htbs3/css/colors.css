@@ -1,0 +1,21 @@
+ 
+/*--------------------------------------------------------------------------*/
+/*--------------- Begins : portfolio / portfolio  diamond ------------------*/
+/*--------------------------------------------------------------------------*/
+.portfolio-diamond {
+  background-color: #ffffff;
+}
+
+.portfolio-diamond .portfolio-header,
+.portfolio-diamond .h2,
+.portfolio-diamond .h3,
+.portfolio-diamond .h4 {
+  color: #4B4B4B;
+}
+
+.portfolio-diamond  .diamond-menu span.active {
+  color: #3498db;
+}
+/*--------------------------------------------------------------------------*/
+/*------------------ end : portfolio / portfolio  diamond ------------------*/
+/*--------------------------------------------------------------------------*/

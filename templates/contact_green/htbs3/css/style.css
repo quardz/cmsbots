@@ -1,0 +1,76 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Contact / Contact Green  --------------------------*/
+/*--------------------------------------------------------------------------*/
+.contact-green {
+  padding-top: 45px;
+  padding-bottom: 40px;
+  font-family: roboto;
+}
+
+.contact-green  .desc{
+  line-height: 150%;
+  font-size: 17px;
+  font-weight: normal;
+} 
+
+.contact-green .contact-green-form{
+  margin-top: 30px;
+}
+
+.contact-green h4 {
+  padding-bottom: 10px;
+}
+
+.contact-green .form-group {
+  margin-top: 25px;
+} 
+
+.contact-green .form-control {
+  border: 1px solid;
+}
+
+.contact-green .btn {
+  color: #29CB71;
+  float: right;
+  font-size: 17px;
+  padding: 2px 15px;
+  margin-top: 3px;
+}
+
+.contact-green h3{
+  margin: 0;
+  font-size: 25px;
+  font-weight: normal;
+  padding-bottom: 4px;
+}
+
+.contact-green .google-map-wrap {
+  overflow: hidden;
+  height: 215px;
+  width: 90%;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.contact-green .google-map-wrap  #gmap_canvas{
+  height: 215px;
+  width: 100%;
+}
+
+.contact-green .google-map-wrap  #gmap_canvas img {
+  max-width: none!important;
+  background: none!important
+}
+
+.contact-green address span{
+  padding-left: 0;
+  margin-top: 15px;
+  font-size: 18px;
+}
+
+.contact-green address span .fa {
+  padding-right: 10px;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Contact / Contact Green  -----------------------------*/
+/*--------------------------------------------------------------------------*/

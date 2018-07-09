@@ -1,0 +1,54 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : PriceTable / Price table light pink  --------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) { 
+
+.price-pricetable-pink{
+  margin-top: 8px;
+  margin-bottom: 10px; 
+}
+
+.price-pricetable-pink h2 {
+  font-size: 34px;
+  margin-bottom: 20px;
+}
+
+.price-pricetable-pink .price-desc {
+  font-size: 17px;
+  margin-bottom: 0px;
+}
+
+.price-pricetable-pink .price-desc p {
+  margin-bottom: 0px;
+}
+
+.price-pricetable-pink .price-box {
+  margin-bottom: 5px;
+}
+
+}
+
+@media (min-width: 922px) and (max-width: 1200px) { 
+
+.price-pricetable-pink h3 {
+  font-size: 23px;
+}
+
+.price-pricetable-pink h3 span {
+  font-size: 15px;
+}
+
+.price-pricetable-pink .price-header {
+  padding-left: 15px;
+}
+
+.price-pricetable-pink .price-features-list li {
+  padding-left: 15px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : PriceTable / Price table light pink  -----------------*/
+/*--------------------------------------------------------------------------*/
+  

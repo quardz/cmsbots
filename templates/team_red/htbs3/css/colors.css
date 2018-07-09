@@ -1,0 +1,61 @@
+
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Team / Team red   -----------------------*/
+/*--------------------------------------------------------------------------*/
+.team-red {
+  background-color: #ffffff;
+}
+
+.team-red .team-header {
+  color: #333333;
+}
+
+.team-red .team-header h2 {
+  color: #EC5563;
+}
+
+.team-red .team-header .desc {
+  color: #4b4b4b;
+}
+
+.team-red .team-content {
+  background-color: #F5F5F5;
+}
+
+.team-red .team-name {
+  color: #EC5563;
+}
+
+.team-red .team-designation{
+  color: #4b4b4b;
+}
+
+.team-red .team-body{
+  color: #4b4b4b;
+}
+
+.team-red .team-social {
+  background-color: #EB565E;
+}
+
+.team-red .team-social .team-social-inner div:hover {
+  background-color: #DA4452;
+}
+
+.team-red .team-social a{
+  color: #ffffff;
+}
+
+.mobile-carousel-controls span {
+  color: #ffffff;
+  background-color: #DA4452;
+}
+
+.mobile-carousel-controls span:hover {
+  background-color: #353535;
+  color: #ffffff;
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Team / Team red   --------------------------*/
+/*--------------------------------------------------------------------------*/
+ 

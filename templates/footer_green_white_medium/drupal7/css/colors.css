@@ -1,0 +1,30 @@
+footer#footer .footer-copyright-menu{
+  background-color: #1e967d;
+}
+footer#footer .footer-copyright-menu,
+footer#footer .footer-menu ul li a{
+  color: #ffffff;
+}
+footer#footer .footer-menu ul li a:hover,
+footer#footer .footer-menu ul li a:focus {
+  background-color: transparent;
+}
+footer#footer .footer-social,
+footer#footer .footer-social .follow-link-wrapper a,
+footer#footer .footer-social .follow-link-wrapper a:hover,
+footer#footer .footer-social .follow-links span.follow-link-wrapper:hover {
+  background-color: #ffffff;
+}
+footer#footer .footer-social .follow-links span.follow-link-wrapper {
+  border-color: #d7d7d7;
+}
+footer#footer .footer-social .follow-links span.follow-link-wrapper:hover {
+  border-color: #70bdad;
+}
+footer#footer .footer-social .follow-link-wrapper a:before{
+  color: #a5a5a5;
+}
+footer#footer .follow-link-wrapper a:hover:before{
+  color: #70bdad;
+}
+

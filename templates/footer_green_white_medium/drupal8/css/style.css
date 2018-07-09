@@ -1,0 +1,86 @@
+.footer-wrap .footer-copyright-menu {
+  font-family: 'Roboto', sans-serif;
+  padding-bottom: 15px;  
+  padding-top: 15px;
+  font-weight: lighter;
+}
+.footer-wrap .footer-copyright {
+  padding-left: 0px;
+  padding-top: 5px;
+}
+.footer-wrap .footer-copyright .footer-copyright-content {
+  font-size: 1em;
+}
+.footer-wrap .footer-menu ul li a {
+  padding: 4px 10px;
+  font-size: 1em;
+}
+.footer-wrap .footer-menu ul {
+  float: right;
+}
+.footer-wrap .footer-menu ul li a:hover,
+.footer-wrap .footer-menu ul li a:focus {
+  text-decoration: underline;
+}
+.footer-wrap .footer-social {
+  padding-top: 47px;
+  padding-bottom: 47px;
+}
+.footer-wrap .footer-social .follow-link-wrapper a {
+  padding-left: 0;
+  width: 78px;
+  text-align: center;
+  padding-top: 11px;
+  height: 78px;
+  margin-right: 0px;
+  border-radius: 50%;
+  border: 1px solid;
+  display: inline-block;
+}
+.footer-wrap .footer-social .follow-link-wrapper a:hover {
+  text-decoration: none;
+  border: 1px solid;
+}
+.footer-wrap .footer-social .block-content {
+  display: block;
+  padding-top: 10px;
+}
+.footer-wrap .footer-social .follow-links {
+  display: -webkit-flexbox;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  -ms-flex-flow: row wrap;
+  flex-flow: row wrap;
+  -webkit-flex-pack: justify;
+  -ms-flex-pack: justify;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+  margin: -5px;
+}
+.footer-wrap .footer-social .follow-links span.follow-link-wrapper {
+  -webkit-flex: 0 0 50px;
+  -ms-flex: 0 0 50px;
+  flex: 0 0 50px;
+  margin: 5px;
+}
+.footer-wrap .footer-social .follow-link-wrapper a:before {
+  font-size: 2.8em;
+  font-weight: bold;
+  font-family: FontAwesome;
+  text-align: center;
+  padding-left: 0px;
+}
+.footer-wrap .footer-social .follow-link-wrapper-facebook a:before {
+  content: "\f09a";
+}
+.footer-wrap .footer-social .follow-link-wrapper-googleplus a:before {
+  content: "\f0d5";
+}
+.footer-wrap .footer-social .follow-link-wrapper-twitter a:before {
+  content: "\f099";
+}
+.footer-wrap .footer-social .follow-link-wrapper-linkedin a:before {
+  content: "\f0e1";
+}

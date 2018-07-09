@@ -1,0 +1,105 @@
+<footer id = "footer-wrap" class = "footer-section section footer-wrap">
+  {% if page.footer_signup %}
+  <div class = "footer-subscribe">
+    <div class = "{{ container }}">
+      {{ page.footer_signup }}
+    </div>
+  </div>
+  {% elseif snippet.footer_signup %}
+  <div class = "footer-subscribe">
+    <div class = "{{ container }}">
+      {{ snippet.footer_signup }}
+    </div>  
+  </div>
+  {% endif %}
+ 
+  <div class = "footer-message-menus-copyright-social">
+    {% if page.footer or page.footer_menu1 or page.footer_menu2 or page.footer_menu3 or snippet_footer or snippet_footer_menu1 or snippet_footer_menu2 or snippet_footer_menu3 %}
+    <div class = "{{container}} footer-blocks">
+      <div class = "row">
+        {% if page.footer %}
+        <div class = "col-md-4 footer-message">
+            {{ page.footer }}
+        </div>
+        {% elseif snippet.footer %}
+        <div class = "col-md-4 footer-message">
+            {{ snippet.footer }}
+        </div>
+        {% endif %}      
+ 
+        <div class = "col-md-8  footer-menus">
+          <div class = "row">
+            {% if page.footer_menu1 %}
+            <div class = "col-sm-4 footer-menu footer-menu-1">
+                {{ page.footer_menu1 }}
+            </div>
+            {% elseif snippet.footer_menu1 %}
+            <div class = "col-sm-4 footer-menu footer-menu-1">
+                {{ snippet.footer_menu1 }}
+            </div>
+            {% endif %}          
+
+            {% if page.footer_menu2 %}
+            <div class = "col-sm-4 footer-menu footer-menu-2">
+                {{ page.footer_menu2 }}
+            </div>
+            {% elseif snippet.footer_menu2 %}
+            <div class = "col-sm-4 footer-menu footer-menu-2">
+                {{ snippet.footer_menu2 }}
+            </div>
+            {% endif %}          
+
+            {% if page.footer_menu3 %}
+            <div class = "col-sm-4 footer-menu footer-menu-3">
+              {{ page.footer_menu3 }}
+            </div>
+            {% elseif snippet.footer_menu3 %}
+            <div class = "col-sm-4 footer-menu footer-menu-3">
+                {{ snippet.footer_menu3 }}
+            </div>
+            {% endif %}          
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+    
+    {% if page.footer_menu or page.footer_copyright or page.footer_social or
+    snippet_footer_menu or snippet_footer_copyright or snippet_footer_social %}
+    <div class = "footer-copyright-menu-social {{ container }}">
+      <div class = "row">
+        {% if page.footer_menu %}
+        <div class = "col-sm-4 footer-menu text-left">
+          {{ page.footer_menu }}
+        </div>
+        {% elseif snippet.footer_menu %}
+        <div class = "col-sm-4 footer-menu text-left">
+          {{ snippet.footer_menu }}
+        </div>
+        {% endif %}      
+      
+        {% if page.footer_copyright %}
+        <div class = "col-sm-4 footer-copyright text-center">
+          {{ page.footer_copyright }}
+        </div>
+        {% elseif snippet.footer_copyright %}
+        <div class = "col-sm-4 footer-copyright text-center">
+          {{ snippet.footer_copyright }}
+        </div>
+        {% endif %}        
+  
+        {% if page.footer_social %}
+        <div class = "col-sm-4 footer-social text-right">
+          {{ page.footer_social }}
+        </div>
+        {% elseif snippet.footer_social %}
+        <div class = "col-sm-4 footer-social text-right">
+          {{ snippet.footer_social }}
+        </div>
+        {% endif %}
+      </div>
+    </div>
+    {% endif %}
+
+  </div>
+</footer>

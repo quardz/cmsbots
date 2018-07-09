@@ -1,0 +1,41 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Stats / stats green  ------------------------------*/
+/*--------------------------------------------------------------------------*/
+/* CSS from jquery-asProgress.js library*/
+@media (max-width: 767px) {
+
+.stat-stats-green {
+  font-family: roboto;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.stat-stats-green  .stat-desc {
+  font-size: 15px;
+}
+
+.stat-stats-green  .stat-running-number { 
+  font-size: 15px;
+  font-weight: normal;
+  padding-left: 2px;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+.stat-stats-green  .stat-running-number { 
+  font-size: 18px;
+  font-weight: normal;
+  padding-left: 2px;
+}
+
+.stat-stats-green .progress {
+ margin-bottom: 15px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*--------------  Ends : Stats / stats green  ------------------------------*/
+/*--------------------------------------------------------------------------*/

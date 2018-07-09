@@ -1,0 +1,27 @@
+@media (max-width: 767px) {
+  header#navbar .navbar-nav > li > a {
+    border-right: none;
+    padding: 10px;
+  }
+  header#navbar .navbar-collapse,
+  header#navbar .navbar-collapse.in,
+  .navbar-collapse.in .navbar-collapse {
+    width: 95%;
+  }
+  .container>.navbar-header {
+    margin: 0px;
+  }
+  .navbar-toggle {
+    margin-right: 0;
+  }
+  header#navbar .dropdown-menu>li>a,
+  header#navbar .dropdown-menu>li>a:hover,
+  header#navbar .dropdown-menu>li>a.active,
+  header#navbar #navigation ul > li .active {
+    padding: 10px;
+    text-transform: uppercase;    
+  }
+  header#navbar .navbar-inverse #navigation {
+    width: 90%;
+  }  
+}

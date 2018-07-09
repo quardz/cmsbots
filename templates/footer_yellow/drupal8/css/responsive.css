@@ -1,0 +1,15 @@
+@media (max-width: 767px) {
+  .footer-wrap {
+    padding-bottom: 30px;
+    padding-top: 30px;
+  }  
+  .footer-wrap .footer-social .follow-link-wrapper-heading {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+
+  .footer-wrap .footer-social .follow-link-wrapper a {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+}

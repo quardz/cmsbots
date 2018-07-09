@@ -1,0 +1,22 @@
+<footer id = "footer-wrap" class = "footer-section section footer-wrap">
+  {% if page.footer %}
+  <div class = "{{ container }} footer-message text-center">
+    {{ page.footer }}
+  </div>
+  {% elseif snippet.footer %}
+  <div class = "{{ container }} footer-message text-center">
+   {{ snippet.footer }}
+  </div>
+  {% endif %}
+
+  {% if page.footer_social %}
+  <div class = "{{ container }} footer-social text-center">
+    {{ page.footer_social }}
+  </div>
+  {% elseif snippet.footer_social %}
+    <div class = "{{ container }} footer-social text-center">
+  {{ snippet.footer_social }}
+    </div>
+  {% endif %} 
+      
+</footer>

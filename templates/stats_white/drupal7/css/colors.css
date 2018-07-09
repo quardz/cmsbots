@@ -1,0 +1,28 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Stats / stats white   -----------------------------*/
+/*--------------------------------------------------------------------------*/
+/* CSS from jquery-asProgress.js library*/
+.stat-stats-white  .title h2{
+  color: #4B4B4B;
+  border-bottom-color: #af7ac4;
+}
+
+.stat-stats-white .stat-icon {
+  color: #AF79C4;
+}
+
+.stat-stats-white .stat-desc  {
+  color: #4b4b4b;
+} 
+
+.stat-stats-white .stat-label {
+  color: #4b4b4b;
+}
+
+.stat-stats-white .stat-running-number {
+  color: #4B4B4B;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Stats / stats white  ---------------------------------*/
+/*--------------------------------------------------------------------------*/

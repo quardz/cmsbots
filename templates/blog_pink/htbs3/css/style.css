@@ -1,0 +1,97 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Blognews / Blog pink   ----------------------------*/
+/*--------------------------------------------------------------------------*/
+.blog-pink {
+  padding-top: 28px;
+  padding-bottom: 50px;
+  font-family: 'Roboto';  
+}
+.blog-pink-detail-page .view-content {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 50px;
+}
+.blog-pink  h2{
+  font-size: 35px;
+}
+
+.blog-pink  .view-content{
+  display: block;
+  padding-bottom: 0px;
+}
+
+.blog-pink  .view-header {
+  padding-bottom: 15px;
+}
+
+.blog-pink  .view-header a{
+  font-size: 17px;
+}
+
+.blog-pink  .blog-image {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.blog-pink  .blog-image  img{
+  height: auto;
+  width: 100%;
+}
+
+.blog-pink  .meta-info {
+  padding: 0;
+  padding-right: 40px;
+  margin-top: 10px;
+}
+
+.blog-pink  .posted-date {
+  display: block;
+  padding: 5px 15px;
+  font-size: 1.2em;
+  font-weight: lighter;
+  padding-top: 3px;
+}
+
+.blog-pink  .author {
+  display: block;
+  padding-left: 15px;
+  font-size: 19px;
+  font-weight: lighter;
+}
+
+.blog-pink  .blog-title {
+  display: block;
+  padding-left: 15px;
+  padding-top: 10px;
+  font-size: 1.7em;
+  padding-right: 15px;
+}
+
+.blog-pink  .descrip {
+  display: block;
+  padding-left: 15px;
+  padding-top: 6px;
+  font-size: 1.2em;
+  font-weight: lighter;
+  padding-right: 15px;
+  line-height: 30px
+}
+
+.blog-pink  .view-more {
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 6px;
+}
+
+.blog-pink  .view-more a{
+  border: 1px solid;
+  display: inline-block;
+  margin-top: 10px;
+  padding: 6px 28px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: lighter;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Blognews / Blog pink   -------------------------------*/
+/*--------------------------------------------------------------------------*/

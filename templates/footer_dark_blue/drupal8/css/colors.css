@@ -1,0 +1,37 @@
+.footer-wrap .footer-message-menus-copyright-social,
+.footer-wrap .footer-subscribe .subscribe-form-submit {
+  background-color: #21708f;
+}
+
+.footer-wrap .footer-subscribe {
+  background-color: #f9f9f9;
+}
+
+.footer-wrap .footer-subscribe .subscribe-form-submit,
+.footer-wrap .footer-subscribe #contact_email {
+  border-color: #21708f;
+}  
+
+.footer-wrap .footer-subscribe #contact_email,
+.footer-wrap .footer-social .follow-link-wrapper i,
+.footer-wrap .footer-social .follow-link-wrapper i:hover:before {
+  color: #21708f;
+}
+
+.footer-wrap .footer-menu ul li a,
+.footer-wrap .footer-menu ul li {
+  background-color: transparent;
+}  
+
+.footer-wrap .footer-copyright-menu-social {
+  border-top-color: #21708f;
+}
+
+.footer-wrap .footer-subscribe .subscribe-form-submit,
+.footer-wrap .footer-message-menus-copyright-social,
+.footer-message-menus-copyright-social  ul li a,
+.footer-message-menus-copyright-social  ul li a:hover,
+.footer-wrap .footer-social .block-content .follow-link-wrapper i:before,
+.footer-wrap .footer-menu ul li a {
+  color: #f9f9f9;
+}

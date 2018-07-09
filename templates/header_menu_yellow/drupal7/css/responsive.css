@@ -1,0 +1,100 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Header / Header menu yellow  ----------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) { 
+
+.header-yellow-menu .navmenu {
+    background:#ffa800;
+}
+
+.header-yellow-menu   .navbar-nav>li>a {
+  color: #ffffff;
+}
+
+.header-yellow-menu  .navbar-nav>li>a:focus, 
+.header-yellow-menu  .navbar-nav>li>a:hover,
+.header-yellow-menu  .navbar-nav .dropdown a:focus, 
+.header-yellow-menu  .navbar-nav .dropdown a:hover {
+  color: #ffffff;
+}
+
+ 
+.header-yellow-menu .dropdown-menu>li>a {
+ color: #ffffff;
+}
+
+.header-yellow-menu .dropdown-menu>li>a:hover, 
+.header-yellow-menu .dropdown-menu>li>a:focus {
+  background-image: none;
+  background-color: #FFA800;
+}
+
+.nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
+ background-color: #FFA800;
+ }
+
+.header-yellow-menu .navbar-nav>li>a:focus, 
+.header-yellow-menu .navbar-nav>li>a:hover, 
+.header-yellow-menu .navbar-nav .dropdown a:focus, 
+.header-yellow-menu .navbar-nav .dropdown a:hover {
+color: #000000;
+}
+
+.header-yellow-menu .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+  color: #ffffff;
+}
+
+.header-yellow-menu .navbar-default .navbar-nav>.open>a, 
+.header-yellow-menu .navbar-default .navbar-nav>.open>a:hover, 
+.header-yellow-menu .navbar-default .navbar-nav>.open>a:focus {
+  background-color: #ffa800;
+}
+
+.header-yellow-menu .navbar-default .navbar-nav>.open>a, 
+.header-yellow-menu .navbar-default .navbar-nav>.active>a { 
+  background-image: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.header-yellow-menu  .navbar-nav .request-early {
+  padding: 0px 0px
+}
+
+.header-yellow-menu  .navbar-nav .request-early a {
+  font-size: 1.3em;
+  font-weight: bold;
+  margin-left: 0px;
+}
+
+.header-yellow-menu .nav .open>a, 
+.header-yellow-menu .nav .open>a:hover, 
+.header-yellow-menu .nav .open>a:focus {
+  background-color: transparent;
+  border-color: #ffffff;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 992px)  { 
+
+.header-yellow-menu  .navbar-nav .request-early {
+  margin-top: 12px;
+}
+
+.header-yellow-menu   .navbar-nav>li>a {
+  font-size: 1em;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+
+.header-yellow-menu  .navbar-nav .request-early a {
+  font-size: 0.90em;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Header / Header menu yellow  -------------------------*/
+/*--------------------------------------------------------------------------*/

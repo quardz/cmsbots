@@ -1,0 +1,32 @@
+@media (max-width: 767px) {
+
+.content-red {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.content-red .top-header .title {
+  font-size: 2.30em;
+}
+
+.content-red .top-header .description {
+  font-size: 1.15em;
+  margin-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.content-red .content-boxes .content-box .icon {
+  font-size: 1.45em;
+}
+
+.content-red .content-boxes .content-box .title {
+  font-size: 1.50em;
+}
+
+.content-red .content-boxes .content-box .description {
+  font-size: 1.11em;
+  margin-top: 5px;
+}
+
+}

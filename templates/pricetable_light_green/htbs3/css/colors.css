@@ -1,0 +1,40 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : PriceTable / Price table light green  -------------*/
+/*--------------------------------------------------------------------------*/
+.price-pricetable-light-green h2 {
+  color: #000000;
+}
+
+.price-pricetable-light-green .price-desc {
+  color: #4b4b4b;
+}
+
+.price-pricetable-light-green .price-header{
+  background-color: #ffffff;
+}
+
+.price-pricetable-light-green .btn {
+  background-color: #A2C957;
+  color: #ffffff;
+}
+
+.price-pricetable-light-green {
+  background-color: #EBECEE;
+}
+ 
+.price-pricetable-light-green .price-features {
+  background-color: #ffffff;
+}
+ 
+.price-pricetable-light-green .price-box:hover .price-header {
+  background-color: #A2C957;
+  color: #ffffff;
+}
+
+.price-pricetable-light-green .price-box:hover h3 {
+  color: #ffffff;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : PriceTable / Price table light green  ----------------*/
+/*--------------------------------------------------------------------------*/
+  

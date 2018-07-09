@@ -1,0 +1,75 @@
+.footer-wrap .footer-copyright-social{
+  font-family: 'Roboto', sans-serif;
+  padding-top: 10px;
+  font-weight: lighter;
+  padding-bottom: 54px;
+}
+.footer-wrap .footer-subscribe {
+  padding-top: 50px;
+  padding-bottom: 17px;
+}
+.footer-wrap .footer-subscribe .subscribe-form-submit {
+  border: 2px solid;
+}  
+.footer-wrap .footer-subscribe #contact_email {
+  width: 66.66%;
+  border: 1px solid;
+  border-radius: 0px;
+  height: 50px;
+  font-size: 1.1em;
+}
+.footer-wrap .footer-subscribe .subscribe-form-submit {
+  width: 31.33%;
+  border-radius: 0px;
+  height: 50px;
+  font-size: 1.6em;
+  font-weight: normal;
+  padding: 0px 0px;
+  letter-spacing: 1px;
+  margin-left: 2%;
+}
+.footer-wrap .footer-copyright {
+  padding-left:0px;
+  padding-top: 20px;
+}
+
+.footer-wrap .footer-copyright a {
+   margin-right: 6px;
+}
+.footer-wrap .footer-copyright .footer-copyright-content {
+  font-size: 0.90em;
+  font-weight: normal;
+}
+.footer-wrap .footer-social {
+  padding-right: 0;
+}
+.footer-wrap .footer-social .follow-link-wrapper i{
+  padding-left: 0;
+  width: 35px;
+  text-align: center;
+  padding-top: 0px;
+  background: none;
+  height: 35px;
+  margin-right: 5px;
+  border-radius: 50%;
+  padding-top: 10px;
+  display: inline-block;
+}
+  
+.footer-wrap .footer-social .follow-link-wrapper i:hover{
+  text-decoration: none;
+}
+
+.footer-wrap .footer-social .block-content {
+  display: inline-block;
+  padding-top: 10px;
+}
+
+.footer-wrap .footer-social .follow-link-wrapper i:before{
+  font-size: 1.3em;
+  font-weight: normal;
+  font-family: FontAwesome;
+  text-align: center;
+  padding-left: 0px;
+  display: inline-block;
+}

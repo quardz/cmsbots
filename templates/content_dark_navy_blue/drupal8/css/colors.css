@@ -1,0 +1,39 @@
+.content-dark-navy-blue {
+  background-color: #2d3e50;
+  color: #ffffff;
+}
+
+.content-dark-navy-blue h1,
+.content-dark-navy-blue h2,
+.content-dark-navy-blue h3,
+.content-dark-navy-blue h4,
+.content-dark-navy-blue h5,
+.content-dark-navy-blue h6 {
+  color: #ffffff;
+}
+
+.content-dark-navy-blue .top-header .download-links .learnmore {
+  background: #3b556e;
+  border-color: #3b556e;
+  color: #ffffff
+}
+
+.content-dark-navy-blue .top-header .download-links .learnmore:hover {
+  background: #428bca;
+  border-color: #428bca;
+}
+
+.content-dark-navy-blue .top-header .download-links .buynow {
+  background: #00d0a4;
+  border-color: #3b556e;
+  color: #ffffff
+}
+
+.content-dark-navy-blue .top-header .download-links .buynow:hover {
+  background: #5cb85c;
+  border-color: #5cb85c;
+}
+  
+.content-dark-navy-blue .content-boxes .content-box-right li i {
+  color: #00d1a4;
+}

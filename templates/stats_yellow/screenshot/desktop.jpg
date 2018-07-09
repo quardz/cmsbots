@@ -1,0 +1,11 @@
+--2018-07-07 11:05:57--  http://q2test.s3.amazonaws.com/img/style/screenshots/stats_yellow_0.jpg
+Resolving q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)... 52.216.230.171
+Connecting to q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)|52.216.230.171|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 32090 (31K) [image/jpeg]
+Saving to: 'stats_yellow_0.jpg'
+
+     0K .......... .......... .......... .                    100% 51.0K=0.6s
+
+2018-07-07 11:05:58 (51.0 KB/s) - 'stats_yellow_0.jpg' saved [32090/32090]
+

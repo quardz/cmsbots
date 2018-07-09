@@ -1,0 +1,41 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : PriceTable / Price table blue 	--------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) { 
+
+.price-pricetable-blue{
+  margin-top: 8px;
+  margin-bottom: 0px;
+}
+
+.price-pricetable-blue h2 {
+  font-size: 30px;
+}
+
+.price-pricetable-blue .price-desc {
+  font-size: 16px;
+}
+
+.price-pricetable-blue .price-table {
+  margin-top: 0px;
+}
+
+.price-pricetable-blue .price-box {
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+}
+
+@media (min-width: 769px) and (max-width: 992px){ 
+
+.price-pricetable-blue .price-box {
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------    Ends : PriceTable / Price table blue	--------------------*/
+/*--------------------------------------------------------------------------*/

@@ -1,0 +1,38 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Clients / Clients Green  --------------------------*/
+/*--------------------------------------------------------------------------*/
+.client-green {
+  background-color: #EEEEEE;
+  padding-top: 30px;
+  padding-bottom: 15px; 
+  font-family: "roboto";
+}
+
+.client-green .title{
+  display: none;
+}
+
+.client-green .clientele-header {
+  color: #13b488;
+  font-size: 30px;
+  font-weight: normal;
+}
+
+.client-green .clientele-desc {
+  font-size: 16px;
+  font-weight: lighter;
+  color: #4b4b4b;
+}
+
+.clientele-desc {
+  margin-bottom: 35px;
+  margin-top: 10px;
+}
+
+.clientele-item {
+  margin-bottom: 40px;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Clients / Clients Green  -----------------------------*/
+/*--------------------------------------------------------------------------*/

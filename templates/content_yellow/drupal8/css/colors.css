@@ -1,0 +1,31 @@
+.content-yellow {
+  background-color: #ffffff;
+}
+
+.content-yellow .top-header {
+  background-color: #f4ac10;
+}
+
+.content-yellow .top-header .title {
+  color: #ffffff;
+}
+
+.content-yellow .top-header .description {
+  color: #ffffff;
+}
+
+.content-yellow .content-boxes .content-box .title {
+  color: #3a3d41
+}
+
+.content-yellow .content-boxes .content-box .description {
+  color: #3a3d41
+}
+
+.content-yellow .content-boxes {
+  background-color: #f6f6f6;
+}
+
+.content-yellow .content-boxes .content-box .icon {
+  color: #f4ac10;
+}

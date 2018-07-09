@@ -1,0 +1,30 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Contact / Contact Green  --------------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 767px) {
+
+.contact-green {
+  padding-top: 26px;
+  padding-bottom: 40px;
+}
+
+.contact-green .btn {
+  font-size: 22px;
+  padding: 4px 15px;
+}
+
+.contact-green .btn,
+.contact-green .google-map-wrap,
+.contact-green .google-map-wrap  #gmap_canvas{
+  width: 100%;
+}
+
+.contact-green .contact-adddress {
+  margin-top: 70px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Contact / Contact Green  -----------------------------*/
+/*--------------------------------------------------------------------------*/

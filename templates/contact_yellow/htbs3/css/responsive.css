@@ -1,0 +1,48 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Contact / Contact Yellow  -------------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 767px) {
+
+.contact-yellow {
+  padding-top: 30px;
+  padding-bottom: 36px;
+}
+
+.contact-yellow .address {
+  margin-bottom: 10px;
+}
+
+.contact-yellow .follow-links a {
+  font-size: 25px;
+}
+
+.contact-yellow .follow-links {
+  margin-bottom: 20px;
+}
+
+.contact-yellow .form-group {
+  margin-bottom: 30px;
+}
+
+.contact-yellow  .contact-form .btn {
+  width:100%;
+  margin-top: -10px;
+}
+
+}
+
+@media (min-width: 993px) and (max-width: 1200px) {
+
+.contact-yellow .contact-adddress .info {
+  font-size: 15px;
+}
+
+.contact-yellow .follow-links a {
+  font-size: 20px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Contact / Contact Yellow  ----------------------------*/
+/*--------------------------------------------------------------------------*/

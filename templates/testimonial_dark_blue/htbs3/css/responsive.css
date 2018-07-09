@@ -1,0 +1,47 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Testimonial / Testimonial dark blue----------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) {
+
+.testimonial-dark-blue {
+  padding-top: 7px;
+  padding-bottom: 10px;
+}
+
+.testimonial-dark-blue .container {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.testimonial-dark-blue h2{
+  font-size: 28px;
+} 
+
+.testimonial-dark-blue .testi-body {
+  padding-top: 7px;
+  font-size: 11px;
+  line-height: 18px;
+  padding-bottom: 3px;
+}
+
+.testimonial-dark-blue .testi-name-designation {
+  font-size: 16px;
+}
+
+.testimonial-dark-blue .testi-name-designation span{
+  font-size: 10px;
+  letter-spacing: 0.40px;
+}
+
+.testimonial-light-blue  .carousel-inner {
+  padding-bottom: 100px;
+}
+
+.testimonial-light-blue  .carousel-inner .item {
+  margin: 0;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------    Ends : Testimonial / Testimonial dark blue----------------*/
+/*--------------------------------------------------------------------------*/

@@ -1,0 +1,11 @@
+            <div class="block-content">
+              <div class="title">
+                <h2>Follow us on</h2>
+              </div>
+              <div class="follow-links clearfix site">
+                <span class="follow-link-wrapper follow-link-wrapper-linkedin"><a href="https://www.linkedin.com/company/cmsbots-com" class="follow-link follow-link-linkedin follow-link-site" title="Follow us on Linkedin"></a></span>
+                <span class="follow-link-wrapper follow-link-wrapper-twitter"><a href="https://twitter.com/cmsbots" class="follow-link follow-link-twitter follow-link-site" title="Follow us on twitter"> </a></span>
+                <span class="follow-link-wrapper follow-link-wrapper-facebook"><a href="https://www.facebook.com/CMSbots" class="follow-link follow-link-facebook follow-link-site" title="Follow us on facebook"> </a></span>
+                <span class="follow-link-wrapper follow-link-wrapper-googleplus"><a href="https://plus.google.com/+Cmsbots/" class="follow-link follow-link-googleplus follow-link-site" title="Follow us on google Plus"> </a></span>
+              </div>
+            </div>

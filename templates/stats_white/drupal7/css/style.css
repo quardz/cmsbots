@@ -1,0 +1,103 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Stats / stats white   -----------------------------*/
+/*--------------------------------------------------------------------------*/
+/* CSS from jquery-asProgress.js library*/
+.pie_progress {
+  text-align: center;
+  position: relative;
+  transform-style: preserve-3d;
+}
+
+.pie_progress svg {
+  margin: 0 auto;
+}
+
+.pie_progress__content,
+.pie_progress__number,
+.pie_progress__label,
+.pie_progress__icon {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+}
+
+.pie_progress__number {
+  font-size: 42px;
+}
+
+.pie_progress__label {
+  margin-top: 32px;
+  font-size: 12px;
+}
+
+/*custom*/
+.stat-stats-white {
+  font-family: roboto;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.stat-stats-white  .title {
+  text-align: center;
+}
+
+.stat-stats-white  .title h2{
+  text-align: center;
+  font-size: 3.7em;
+  font-weight: normal;
+  text-transform: uppercase;
+  display: inline-block;
+  border-bottom: 1px solid;
+  padding-bottom: 16px;
+  margin-bottom: 18px;
+}
+
+.stat-stats-white .stat-icon {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  margin-top: 0em;
+  font-size: 5.5em;
+}
+
+.stat-stats-white .pie_progress {
+  text-align: center;
+}
+
+.stat-stats-white .stat-desc  {
+  font-size: 1.2em;
+  font-weight: normal;
+  margin-top: 10px;
+} 
+
+.stat-stats-white .stat-stats .inner-box {
+  overflow: hidden;
+  width: 180px;  
+  margin: 0 auto;
+}
+
+.stat-stats-white .stat-stat {
+  padding: 25px;
+}
+
+.stat-stats-white .stat-label {
+  font-size: 1.8em;
+  font-weight: normal;
+}
+
+.stat-stats-white .stat-running-number {
+  font-size: 3.2em;
+  font-weight: lighter;
+  margin-top: 5px;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Stats / stats white  ---------------------------------*/
+/*--------------------------------------------------------------------------*/

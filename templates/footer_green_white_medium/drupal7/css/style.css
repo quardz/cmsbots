@@ -1,0 +1,103 @@
+.footer-green-white-medium .footer-copyright-menu {
+  font-family: 'Roboto', sans-serif;
+  padding-bottom: 15px;  
+  padding-top: 15px;
+  font-weight: lighter;
+}
+
+.footer-green-white-medium .footer-copyright {
+  padding-left: 0px;
+  padding-top: 5px;
+}
+
+.footer-green-white-medium .footer-copyright .footer-copyright-content {
+  font-size: 1em;
+}
+ 
+.footer-green-white-medium .footer-menu ul li a {
+  padding: 4px 10px;
+  font-size: 1em;
+}
+
+.footer-green-white-medium .footer-menu ul {
+  float: right;
+}
+
+.footer-green-white-medium .footer-menu ul li a:hover,
+.footer-green-white-medium .footer-menu ul li a:focus {
+  background: transparent;
+  text-decoration: underline;
+}
+
+.footer-green-white-medium .footer-social {
+  padding-top: 47px;
+  padding-bottom: 47px;
+}
+
+.footer-green-white-medium .footer-social .block-content .follow-link-wrapper a {
+  padding-left: 0;
+  width: 78px;
+  text-align: center;
+  padding-top: 11px;
+  height: 78px;
+  margin-right: 0px;
+  border-radius: 50%;
+  border: 1px solid;
+  display: inline-block;
+}
+  
+.footer-green-white-medium .footer-social .block-content .follow-link-wrapper a:hover {
+  text-decoration: none;
+  border: 1px solid;
+}
+
+.footer-green-white-medium .footer-social .block-content {
+  display: block;
+  padding-top: 10px;
+}
+
+.footer-green-white-medium .footer-social .follow-links {
+  display: -webkit-flexbox;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  -ms-flex-flow: row wrap;
+  flex-flow: row wrap;
+  -webkit-flex-pack: justify;
+  -ms-flex-pack: justify;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+  margin: -5px;
+}
+
+.footer-green-white-medium .footer-social .follow-links span.follow-link-wrapper {
+  -webkit-flex: 0 0 50px;
+  -ms-flex: 0 0 50px;
+  flex: 0 0 50px;
+  margin: 5px;
+}
+ 
+.footer-green-white-medium .footer-social .block-content .follow-link-wrapper a:before {
+  font-size: 2.8em;
+  font-weight: bold;
+  font-family: FontAwesome;
+  text-align: center;
+  padding-left: 0px;
+}
+
+.footer-green-white-medium .footer-social .block-content .follow-link-wrapper-facebook a:before {
+  content: "\f09a";
+}
+
+.footer-green-white-medium .footer-social .block-content .follow-link-wrapper-googleplus a:before {
+  content: "\f0d5";
+}
+
+.footer-green-white-medium .footer-social .block-content .follow-link-wrapper-twitter a:before {
+  content: "\f099";
+}
+
+.footer-green-white-medium .footer-social .block-content .follow-link-wrapper-linkedin a:before {
+  content: "\f0e1";
+}

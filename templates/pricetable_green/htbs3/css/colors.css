@@ -1,0 +1,42 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : PriceTable / Price table green  -------------------*/
+/*--------------------------------------------------------------------------*/
+.price-pricetable-green {
+  background-color: #ffffff;
+}
+
+.price-pricetable-green h2 {
+  color: #1AA988;
+}
+.price-pricetable-green .price-box {
+  background-color: #EBECEE;
+  color: #34465C;
+}  
+.price-pricetable-green .price-box:hover {
+  background-color: #13BC99;
+  color: #EBECEE;
+}
+.price-pricetable-green .price-box:hover h3 {
+  color: #EBECEE;
+}
+.price-pricetable-green .price-box:hover .price-features-list li .fa {
+  color: #ffffff;
+}
+
+.price-pricetable-green .price-box:hover .btn {
+  background-color: #EBECEE;
+  color: #13BC99;
+}  
+
+.price-pricetable-green .price-features-list li .fa {
+  color: #13BC99;
+}  
+
+.price-pricetable-green .btn {
+  background-color: #EBECEE;
+  color: #13BC99;
+  border-color: #13BC99;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : PriceTable / Price table green  ----------------------*/
+/*--------------------------------------------------------------------------*/

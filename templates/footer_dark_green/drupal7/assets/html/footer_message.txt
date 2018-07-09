@@ -1,0 +1,6 @@
+<div class = "block-title footer-message-title">
+  <h2 class = "title">Help</h2>
+</div>
+<div class = "block-content footer-message-content">
+  Needs any Help? Dont hestiate to ask us something. Email us directly to get deatils at  <a href="#">infocmsbots.com.</a>Vivamus pharetra, for purus quis malesuada rhoncus, lacusrwll tortor fermentum nibh, sed interdum.
+</div>

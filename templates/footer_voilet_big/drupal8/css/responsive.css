@@ -1,0 +1,35 @@
+@media (min-width: 768px) and (max-width: 1169px) {
+  .footer-wrap .footer-subscribe .subscribe-form-submit {
+    margin-right: 0%
+  }
+}
+
+@media (max-width: 767px) {
+  .footer-wrap .footer-subscribe {
+    padding-top: 30px;
+    padding-bottom: 0px;
+  }
+  .footer-wrap .footer-subscribe #contact_email {
+    width: 90%;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 20px;
+  }
+  .footer-wrap .footer-subscribe .subscribe-form-submit {
+    width: 90%;
+    text-align: center;
+    margin-left: 0%;
+  }
+  .footer-wrap .footer-copyright .footer-copyright-content {
+    margin-bottom: 18px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .footer-wrap .footer-copyright,
+  .footer-wrap .footer-follow-wrap {
+    text-align: center;
+  }
+  .footer-wrap .footer-copyright-social{
+    padding-bottom: 30px;
+  }
+}

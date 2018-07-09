@@ -1,0 +1,28 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Testimonial / Testimonial navy blue----------------*/
+/*--------------------------------------------------------------------------*/
+.testimonial-navy-blue {
+  color: #ffffff;
+  background-color: #2D3E50;
+}
+
+.testimonial-navy-blue .testi-circle {
+  border-color: #3A546B;
+}
+
+.testimonial-navy-blue .testi-name {
+  border-top-color: #ffffff;
+}
+
+.testimonial-navy-blue .carousel-indicators li  {
+  background-color: #ffffff;
+}
+
+.testimonial-navy-blue .carousel-indicators .active {
+  background-color: #3b556e;
+}
+/*--------------------------------------------------------------------------*/
+/*------------    Ends : Testimonial / Testimonial navy blue----------------*/
+/*--------------------------------------------------------------------------*/
+ 

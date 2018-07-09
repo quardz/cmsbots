@@ -1,0 +1,31 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Team / Team dark green  ---------------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) { 
+
+.team-dark-green {
+  padding-top: 10px;
+  padding-bottom: 0px;
+} 
+
+.team-dark-green .container {
+  padding-left: 0px;
+  padding-right: 0px;
+} 
+
+.team-dark-green .team-header {
+  margin-bottom: 20px;
+}
+
+.team-dark-green  .carousel-inner {
+  padding-bottom: 12px;
+}
+
+.team-dark-green  .carousel-inner .item {
+  margin: 0;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*---------------  End : Team / Team dark green  ---------------------------*/
+/*--------------------------------------------------------------------------*/

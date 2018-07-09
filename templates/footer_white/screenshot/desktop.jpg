@@ -1,0 +1,12 @@
+--2018-07-07 11:06:48--  http://q2test.s3.amazonaws.com/img/style/screenshots/footer_white.jpg
+Resolving q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)... 52.216.164.155
+Connecting to q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)|52.216.164.155|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65642 (64K) [image/jpeg]
+Saving to: 'footer_white.jpg'
+
+     0K .......... .......... .......... .......... .......... 77% 97.2K 0s
+    50K .......... ....                                       100% 4.08M=0.5s
+
+2018-07-07 11:06:49 (124 KB/s) - 'footer_white.jpg' saved [65642/65642]
+

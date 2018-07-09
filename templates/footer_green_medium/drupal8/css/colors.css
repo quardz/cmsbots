@@ -1,0 +1,17 @@
+.footer-wrap {
+  background-color: #2dcc70;
+}
+.footer-wrap ,
+.footer-wrap .footer-menu ul li a,
+.footer-wrap h1,
+.footer-wrap h2,
+.footer-wrap h3,
+.footer-wrap h4,
+.footer-wrap h5,
+.footer-wrap h6 {
+  color: #f8f8f8;
+}
+.footer-wrap .footer-menu ul li a,
+.footer-wrap .footer-menu ul li {
+  background-color: transparent;
+}

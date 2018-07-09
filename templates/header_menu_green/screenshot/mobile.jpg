@@ -1,0 +1,11 @@
+--2018-07-07 11:06:06--  http://q2test.s3.amazonaws.com/img/mobilescreens/header_14.jpg
+Resolving q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)... 52.216.230.171
+Connecting to q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)|52.216.230.171|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 20201 (20K) [image/jpeg]
+Saving to: 'header_14.jpg'
+
+     0K .......... .........                                  100% 54.0K=0.4s
+
+2018-07-07 11:06:07 (54.0 KB/s) - 'header_14.jpg' saved [20201/20201]
+

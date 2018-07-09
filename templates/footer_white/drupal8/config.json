@@ -1,0 +1,62 @@
+{
+  "regions": [
+    {
+      "region": "footer_copyright",
+      "name": "Footer Copyright"
+    },
+    {
+      "region": "footer",
+      "name": "Footer"
+    },
+    {
+      "region": "footer_signup",
+      "name": "Footer Signup"
+    },
+    {
+      "region": "footer_menu1",
+      "name": "Footer Menu 1"
+    },
+    {
+      "region": "footer_menu3",
+      "name": "Footer Menu 3"
+    },
+    {
+      "region": "footer_menu2",
+      "name": "Footer Menu 2"
+    }
+  ],
+  "default_block_placements": [
+    {
+      "label": "First Menu",
+      "bundle": "main",
+      "region": "footer_menu1"
+    },
+    {
+      "label": "Second Menu",
+      "bundle": "main",
+      "region": "footer_menu2"
+    },
+    {
+      "label": "Third Menu",
+      "bundle": "main",
+      "region": "footer_menu3"
+    }
+  ],
+  "color_settings": [
+    {
+      "label": "Footer Background",
+      "colors": "default || Default || #0e0e0e",
+      "region": "footer_bg"
+    },
+    {
+      "label": "Footer Base color",
+      "colors": "default || Default || #f39d14",
+      "region": "footer_base"
+    },
+    {
+      "label": "Footer Text color",
+      "colors": "default || Default || #f9f9f9",
+      "region": "footer_text"
+    }
+  ]
+}

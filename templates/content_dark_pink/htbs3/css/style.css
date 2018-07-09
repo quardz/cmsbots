@@ -1,0 +1,69 @@
+/***************************************************************/
+/****************   Content dark pink starts *******************/
+/***************************************************************/
+.content-dark-pink {
+  padding-top: 30px;
+  padding-bottom: 50px;
+  font-family: 'Roboto';
+}
+.content-dark-pink h2 {
+  margin-bottom: 20px;
+  font-family: roboto;
+}
+.content-dark-pink h3 {
+  font-size: 22px;
+  padding-top: 20px;
+  border-top: 1px solid;
+  font-weight: normal;
+  font-family: roboto;
+}
+.content-dark-pink .content-image {
+  padding-bottom: 20px;
+}
+.content-dark-pink .content-image img{
+  max-width: 100%;
+}
+.content-dark-pink .content-texts{
+  
+}
+.content-dark-pink .content-links{
+  padding-left: 0px;
+  padding-right: 0px;
+  font-size: 16px;
+}
+.content-dark-pink .underline {
+  border-bottom: 1px solid;
+}
+.content-dark-pink .content-desc{
+  line-height: 2em;
+  font-size: 16px;
+}
+.content-dark-pink .content-services{
+  line-height: 2em;
+  font-size: 16px; 
+}
+.content-dark-pink .content-services ul {
+  margin-bottom: 20px;
+  margin-left: 0px;
+  padding-left: 20px;
+  list-style-type: square;
+  
+}
+.content-dark-pink .btn {
+  background-image: none;
+  text-shadow: none;
+  font-size: 18px;
+}
+.content-dark-pink a:hover {
+  text-decoration: underline;
+}
+.content-dark-pink a.btn:hover {
+  text-decoration: none;
+}
+.content-dark-pink li {
+  margin-bottom: 10px;
+}
+
+/***************************************************************/
+/****************   Content dark pink end    *******************/
+/***************************************************************/

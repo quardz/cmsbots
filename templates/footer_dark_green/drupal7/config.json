@@ -1,0 +1,26 @@
+{
+  "regions": [
+    {
+      "region": "footer_menu1",
+      "name": "Footer Menu 1"
+    },
+    {
+      "region": "footer_menu2",
+      "name": "Footer Menu 2"
+    },
+    {
+      "region": "footer",
+      "name": "Footer"
+    },
+    {
+      "region": "footer_signup",
+      "name": "Footer Signup"
+    },
+    {
+      "region": "footer_copyright",
+      "name": "Footer Copyright"
+    }
+  ],
+  "default_block_placements": [],
+  "color_settings": []
+}

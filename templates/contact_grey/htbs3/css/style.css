@@ -1,0 +1,86 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Contact / Contact Grey  ---------------------------*/
+/*--------------------------------------------------------------------------*/
+.contact-grey {
+  padding-top: 45px;
+  padding-bottom: 40px;
+  font-family: roboto;
+}
+
+.contact-grey  .desc {
+  line-height: 150%;
+  font-size: 17px;
+  font-weight: lighter;
+} 
+
+.contact-grey .contact-form  .desc {
+  margin-bottom: 32px;
+  display: block;
+}
+
+.contact-grey  .form-group {
+  margin-bottom: 40px;
+}
+
+.contact-grey .form-control {
+  background-color: #364656;
+  border: 1px solid;
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+.contact-grey .btn {
+  font-size: 22px;
+  font-weight: bold;
+  padding: 7px 36px;
+}
+
+.contact-grey .btn i {
+  margin-right: 4px;
+}
+
+.contact-grey h3{
+  margin: 0;
+  font-size: 25px;
+  font-weight: normal;
+  padding-bottom: 22px;
+}
+
+.contact-grey .google-map-wrap {
+  overflow: hidden;
+  height: 220px;
+  width: 100%;
+  margin-top: 26px;
+  margin-bottom: 26px;
+}
+
+.contact-grey .google-map-wrap  #gmap_canvas {
+  height: 220px;
+  width: 100%;
+}
+
+.contact-grey .google-map-wrap  #gmap_canvas img {
+  max-width: none!important;
+  background: none!important
+}
+
+.contact-grey address {
+  margin-bottom: 27px;
+  display: block;
+  float: left;
+  padding-bottom: 25px;
+  border-bottom: 1px solid;
+}
+
+.contact-grey address span {
+  padding-left: 0;
+  margin-top: 17px;
+  font-size: 18px; 
+}
+
+.contact-grey address span .fa {
+  padding-right: 10px;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Contact / Contact Grey  -----------------------------*/
+/*--------------------------------------------------------------------------*/

@@ -1,0 +1,31 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Testimonial / Testimonial light green -------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) { 
+
+.testimonial-light-green {
+  padding-top: 5px;
+  padding-bottom: 15px;
+}
+
+.testimonial-light-green h2{
+  margin-bottom: 13px;
+}
+ 
+ .testimonial-light-green .container {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+}
+ 
+ @media (min-width: 769px) and (max-width: 992px){ 
+ 
+ .testimonial-light-green .item {
+  padding: 5px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Testimonial / Testimonial light green ----------------*/
+/*--------------------------------------------------------------------------*/

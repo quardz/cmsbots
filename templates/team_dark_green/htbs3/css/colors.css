@@ -1,0 +1,49 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Team / Team dark green  ---------------------------*/
+/*--------------------------------------------------------------------------*/
+.team-dark-green {
+  background-color: #2dcc70;
+}
+
+.team-dark-green .team-header {
+  color: #ffffff;
+}
+
+.team-dark-green .team-inner{
+  color: #ffffff;
+}
+
+.team-dark-green  h2 {
+  color: #ffffff;
+}
+
+.team-dark-green .view-header .team-header-desc {
+  color: #ffffff;
+}
+
+.team-dark-green .team-social li {
+  border-color: #ffffff;
+}
+
+.team-dark-green .team-social a {
+  color: #ffffff;
+}
+
+.team-dark-green .team-name-designation {
+  border-bottom-color: #ffffff;
+}
+
+.mobile-carousel-controls span {
+  color: #29CB71;
+  background-color: #ffffff;
+}
+
+.mobile-carousel-controls span:hover {
+  background-color: #353535;
+  color: #ffffff;
+}
+/*--------------------------------------------------------------------------*/
+/*---------------  End : Team / Team dark green  ---------------------------*/
+/*--------------------------------------------------------------------------*/
+ 

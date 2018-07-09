@@ -1,0 +1,44 @@
+{# Navbar #}
+{% if page.branding or page.navigation or secondary_nav or primary_nav %}
+  {% block navbar %}
+    <header{{ navbar_attributes.addClass('header-wrap header-navyblue-slider-menu') }} id="navbar" role="banner" data-spy="affix"  data-offset-top="70">
+    {% if not navbar_is_default %}
+      <div class = "{{ container }}">
+    {% endif %}
+      <div class="navbar-header">
+        {{ page.branding }}
+        {# .btn-navbar is used as the toggle for collapsed navbar content #}
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">{{ 'Toggle navigation'|t }}</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+
+      {# Navigation #}
+      {% if page.navigation or secondary_nav or primary_nav %}
+        <div class="navbar-collapse collapse">
+          <nav role="navigation">
+          {{ page.navigation }}
+          {% if secondary_nav %} {{ secondary_nav }} {% endif %}
+          {% if primary_nav %} {{ primary_nav }} {% endif %}
+          </nav>
+        </div>
+      {% endif %}
+      {% if not navbar_is_default %}
+        </div>
+      {% endif %}
+    </header>
+  {% endblock %}
+{% endif %}
+
+    {% if page.home_welcome %}
+      <section class = "carousel carousel-homeslider-header-yellow-slider slide">
+        {{ page.home_welcome }}
+      </section>
+    {% elseif snippet.home_welcome %}
+      <div class="carousel carousel-homeslider-header-yellow-slider slide" data-ride="carousel" id="carousel-homeslider-header-yellow-slider">
+        {{ snippet.home_welcome }}
+      </div>
+    {% endif %}

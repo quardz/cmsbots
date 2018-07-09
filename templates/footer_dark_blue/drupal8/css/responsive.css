@@ -1,0 +1,70 @@
+@media (max-width: 767px) {
+  .footer-wrap {
+    padding-top: 30px;
+    padding-bottom: 10px;
+  }
+  .footer-wrap .footer-subscribe {
+    padding-top: 0px;
+    padding-bottom: 30px;
+  }
+  .footer-wrap .footer-blocks .title h2,
+  .footer-wrap .footer-blocks .block-title {
+    margin-bottom: 0px;  
+    margin-top: 13px; 
+  }
+  .footer-wrap .footer-copyright .block-content {
+    text-align: center;
+  }
+  .footer-wrap .footer-blocks .footer-menu .sidebar-menu {
+    padding-top: 0px;
+  }
+  .footer-wrap .footer-message {
+    padding-bottom: 0px;
+    padding-left: 30px;
+  }
+  .footer-wrap .footer-message .block-content {
+    text-align: center;
+    margin-bottom: 5px;
+  }
+  .footer-wrap .footer-blocks .title h2, 
+  .footer-wrap .footer-blocks .block-title {
+    margin-top: 19px;
+    text-align: center;
+  }
+  .footer-wrap .footer-blocks .footer-menus {
+    text-align: center;
+  }
+  .footer-wrap .subscribe-form-input {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+  }
+  .footer-wrap .footer-subscribe #contact_email {
+    width: 90%;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 30px;
+    margin-right: 0px;
+  }
+  .footer-wrap .footer-subscribe .subscribe-form-submit {
+    width: 90%;
+    text-align: center;
+  }
+  .footer-wrap .footer-copyright,
+  .footer-wrap .footer-follow-wrap {
+    text-align: center;
+  }
+  .footer-wrap .footer-copyright-menu-social .footer-menu {
+    text-align: center;
+  }
+  .footer-wrap .footer-social {
+    padding-top: 20px;
+  }
+  .footer-wrap .footer-message-menus-copyright-social {
+    padding-top: 17px;
+    padding-bottom: 12px;
+  }
+  .footer-wrap .footer-copyright-menu-social {
+    padding-top: 5px;
+  }
+}

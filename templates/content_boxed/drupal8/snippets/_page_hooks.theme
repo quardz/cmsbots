@@ -1,0 +1,3 @@
+  if (_mbase_setting('section_content_boxed_visibility', $theme, NULL)) {
+    $variables['snippet_content_boxed']['#markup'] = _mbase_setting('section_content_boxed_code', $theme, NULL);
+  }

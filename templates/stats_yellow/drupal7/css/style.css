@@ -1,0 +1,81 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Stats / stats yellow  -----------------------------*/
+/*--------------------------------------------------------------------------*/
+/* CSS from jquery-asProgress.js library*/
+.pie_progress {
+  text-align: center;
+  position: relative;
+  transform-style: preserve-3d;
+}
+
+.pie_progress svg {
+  margin: 0 auto;
+}
+
+.pie_progress__content,
+.pie_progress__number,
+.pie_progress__label,
+.pie_progress__icon {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+}
+
+.pie_progress__number {
+  font-size: 42px;
+}
+
+.pie_progress__label {
+  margin-top: 32px;
+  font-size: 12px;
+}
+
+/*custom*/
+.stat-stats-yellow {
+  font-family: roboto;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.stat-stats-yellow  h2.title {
+  text-align:center;
+  font-size: 2.5em;
+  font-weight: normal;
+}
+ 
+.stat-stats-yellow .stat-stats .inner-box {
+  overflow: hidden;
+  display: flex;
+}
+
+.stat-stats-yellow .stat-stat {
+  padding: 25px;
+  padding-top: 20px;
+}
+
+.stat-stats-yellow .stat-label {
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+.stat-stats-yellow .stat-number {
+  padding: 5%;
+}
+
+.stat-stats-yellow .stat-number .pie_progress__number {
+  font-size: 1.6em;
+}
+
+.stat-stats-yellow .pie_progress svg {
+  margin-top: 7px;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Stats / stats yellow  --------------------------------*/
+/*--------------------------------------------------------------------------*/

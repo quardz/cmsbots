@@ -1,0 +1,66 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Contact / Contact Orange  -------------------------*/
+/*--------------------------------------------------------------------------*/
+.contact-orange-address {
+  color: #ffffff;
+  background-color: #fd6d52;
+}
+
+.contact-orange-address .contact-us h3 {
+  color: #e9573e;
+  background-color: #ecedef;
+}
+
+.contact-orange-address .contact-adddress a {
+  color: #ffffff;
+}
+
+.contact-orange {
+  color: #ffffff;
+  background-color: #e9573e;
+}
+
+.contact-orange .name-email .input-lg {
+  color: #ffffff;
+}
+
+.contact-orange .btn{
+  color: #fffffff;
+  background-color: #fd6d52;
+}
+
+.contact-orange .name-email .input-lg::-webkit-input-placeholder{
+  color: #ffffff;
+}
+
+.contact-orange .name-email .input-lg:-moz-placeholder  {
+  color: #ffffff;
+}
+
+.contact-orange .name-email .input-lg::-moz-placeholder {
+  color: #ffffff;
+}
+
+.contact-orange .name-email .input-lg:-ms-input-placeholder {
+  color: #ffffff;
+}
+
+.contact-orange .message .input-lg::-webkit-input-placeholder{
+  color: #ffffff;
+}
+
+.contact-orange .message .input-lg:-moz-placeholder  {
+  color: #ffffff;
+}
+
+.contact-orange .message .input-lg::-moz-placeholder {
+  color: #ffffff;
+}
+
+.contact-orange .message .input-lg:-ms-input-placeholder {
+  color: #ffffff;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Contact / Contact Orange  ----------------------------*/
+/*--------------------------------------------------------------------------*/

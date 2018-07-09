@@ -1,0 +1,112 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Stats / stats pink --------------------------------*/
+/*--------------------------------------------------------------------------*/
+/* CSS from jquery-asProgress.js library*/
+.progress {
+  height: 20px;
+  padding: 1px;
+  border: 1px solid;
+  overflow: hidden;
+  margin-bottom: 20px;
+  background-image:none;
+}
+
+.progress__bar {
+  display: block;
+  height: 100%;
+  background: #5bc0de;
+}
+
+.progress__label {
+  float: right;
+  padding: 0 2px;
+  font-size: 12px;
+}
+
+.progress--radius {
+  border-radius: 2px;
+}
+
+.progress--round {
+  border-radius: 1000px;
+}
+.progress--radius .progress__bar,
+.progress--round .progress__bar {
+  border-radius: inherit;
+}
+
+.progress--small {
+  height: 15px;
+}
+
+.progress--large {
+  height: 10px;
+}
+
+.progress--striped .progress__bar {
+  background-size: 40px 40px;
+}
+
+/*custom*/
+.stat-stats-pink {
+  font-family: roboto;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.stat-stats-pink h2.title {
+  font-size: 2.7em;
+  font-weight: normal;
+}
+
+.stat-stats-pink .stat-label {  
+  padding-bottom: 5px;
+  font-size: 1.17em;
+  height: 35px;
+  padding-left: 7px;
+  padding-top: 7px;
+  margin-bottom: 10px;
+}  
+
+.stat-stats-pink .progress {
+  height: 35px;
+  padding: 0px;
+  border: none;
+  overflow: hidden;
+  margin-bottom: 0;
+  border-radius: 0px;
+  box-shadow: none;
+}
+
+.stat-stats-pink .stat-inner .progress__label {
+  float: left;
+  padding: 7px;
+  font-size: 1.17em;
+  font-weight: normal;
+}
+
+.stat-stats-pink  .stat-stat{
+  margin-bottom: 20px;
+}
+
+.stat-stats-pink  .stat-stats{
+  padding-left: 50px;
+}
+
+.stat-stats-pink  .stat-running-number {  
+  font-size: 20px;
+  font-weight: normal;  
+}
+  
+.stat-stats-pink  .stat-inner {
+  padding: 0px;
+}
+
+.stat-stats-pink  .stat-desc {
+  font-size: 13px;
+  font-weight: normal;
+  line-height: 200%;
+}
+/*--------------------------------------------------------------------------*/
+/*--------------------  Ends : Stats / stats pink---------------------------*/
+/*--------------------------------------------------------------------------*/

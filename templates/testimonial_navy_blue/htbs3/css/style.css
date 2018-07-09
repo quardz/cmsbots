@@ -1,0 +1,78 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Testimonial / Testimonial navy blue----------------*/
+/*--------------------------------------------------------------------------*/
+.testimonial-navy-blue {
+  padding-top: 55px;
+  font-family: 'roboto';
+  padding-bottom: 10px;
+}
+
+.testimonial-navy-blue .testi-circle {
+  border: 2px solid;
+  border-radius: 50%;
+  display: inline-block;
+  overflow: hidden;
+  padding: 15px;
+}
+
+.testimonial-navy-blue .testi-circle img {
+  border-radius: 50%;
+  max-width: 200px;
+  height: 156px;
+  width: 156px;
+}
+
+.testimonial-navy-blue .testi-image {
+  padding-bottom: 50px;
+}
+
+.testimonial-navy-blue .testi-body {
+  padding-bottom: 30px;
+}
+
+.testimonial-navy-blue .testi-name {
+  padding-bottom: 10px;
+  padding-top: 14px;
+}
+
+.testimonial-navy-blue .testi-body {
+  font-size: 1.7em;
+  font-style: italic;
+  font-weight: 300;
+}
+
+.testimonial-navy-blue .testi-name {
+  border-top: 1px solid;
+  display: inline-block;
+  float: none;
+  font-size: 2.5em;
+  font-weight: 500;
+  width: auto;
+}
+
+.testimonial-navy-blue .border-line {
+  /**border-top: 1px solid #ffffff;
+  margin-left: 33%;
+  margin-top: -15%;**/
+}
+
+.testimonial-navy-blue .testi-designation {
+  font-size: 1.5em;
+  font-weight: lighter;
+  padding-bottom: 70px;
+}
+
+.testimonial-navy-blue .carousel-indicators li  {
+  bottom: 40px;
+  width: 12px;
+  height: 12px;
+  display: inline-block;
+  margin: 1px;
+  cursor: pointer;
+  border: transparent;
+  border-radius: 10px;
+}
+/*--------------------------------------------------------------------------*/
+/*------------    Ends : Testimonial / Testimonial navy blue----------------*/
+/*--------------------------------------------------------------------------*/

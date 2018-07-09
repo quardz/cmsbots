@@ -1,0 +1,55 @@
+@media (min-width: 768px) and (max-width: 1169px) {
+
+.footer-light-orange .footer-message .block-content .title {
+  margin-left: 30px;
+  margin-top: 5px;
+}
+
+.footer-light-orange .footer-social .block-content .follow-link-wrapper a {
+  width: 36px;
+  height: 36px;
+  padding-top: 5px;
+  margin-right: 0px;
+}
+
+}
+
+@media (max-width: 767px) {
+
+.footer-light-orange .footer-message {
+  background: #E5986A;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 10px;
+}
+
+.footer-light-orange .footer-message .block-content .title {
+  margin-top: 0px;
+}
+
+.footer-light-orange .footer-blocks {
+  text-align: center;
+}
+
+.footer-light-orange .footer-social .block-content {
+  text-align: center;
+}
+
+.footer-light-orange .footer-social .block-content .follow-links {
+  display: inline-block;
+}
+
+.footer-light-orange .footer-blocks .title h2, .footer-light-orange .footer-blocks .block-title {
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+.footer-light-orange .footer-message .block-content .info-icon {
+  display: block;
+}
+
+.footer-light-orange .footer-message .block-content .info-description {
+  display: block;
+}
+
+}

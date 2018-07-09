@@ -1,0 +1,91 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : PriceTable / Price table blue 	--------------------*/
+/*--------------------------------------------------------------------------*/
+.price-pricetable-blue{
+  font-family:roboto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.price-pricetable-blue h2 {
+  font-size: 35px;
+  margin-bottom: 2px;
+}
+
+.price-pricetable-blue h3 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.price-pricetable-blue .price-desc {
+  font-size: 17px;
+  margin-top: 10px;
+  font-weight: normal;
+}
+
+.price-pricetable-blue .price-table {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.price-pricetable-blue .price-header {
+  padding-top: 5px;
+}
+
+.price-pricetable-blue .price-features {
+  padding-bottom: 25px;
+  padding-top: 70px;
+} 
+
+.price-pricetable-blue .price-box:hover .price-features {
+  border-top: 1px solid;
+}
+
+.price-pricetable-blue .btn {
+  background-image: none;
+  text-shadow: none;
+  border: none;
+  font-size: 20px;
+  padding: 5px 30px;
+  font-weight: bold;
+}
+
+.price-pricetable-blue .price-price {
+  width: 110px;
+  border: 2px solid;
+  text-align: center;
+  display: inline-block;
+  border-radius: 50% 50%;
+  height: 110px;
+  vertical-align: middle;
+  margin-bottom: -55px;
+}
+
+.price-pricetable-blue .price-price .price-cost {
+  margin-top: 15px;
+  display: block;
+  font-size: 38px;
+  font-weight: bold;
+}
+
+.price-pricetable-blue .price-price .price-cost span{
+  font-size: 12px;
+}
+
+.price-pricetable-blue .price-price .price-duration {
+  clear: both;
+  float: left;
+  text-align: center;
+  display: block;
+  width: 100%;
+}
+
+.price-pricetable-blue .price-features-list li {
+  padding-bottom: 10px;
+  font-size: 18px;
+  font-weight: lighter;
+}
+/*--------------------------------------------------------------------------*/
+/*------------    Ends : PriceTable / Price table blue	--------------------*/
+/*--------------------------------------------------------------------------*/

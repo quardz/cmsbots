@@ -1,0 +1,10 @@
+{
+  "regions": [
+    {
+      "region": "content_boxed",
+      "name": "Homepage content Boxed"
+    }
+  ],
+  "default_block_placements": [],
+  "color_settings": []
+}

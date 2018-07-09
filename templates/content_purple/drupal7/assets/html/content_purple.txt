@@ -1,0 +1,36 @@
+<div class="content-purple plugin-content" id = "content-purple">
+  <div class="container">
+    <div class="row text-center top-header">
+      <h2 class="title">Find Variety Designs</h2>
+      <div class="description">Aenean ligula sapien, viverra quis semper vitae, rhoncus mollis augue. In hac habitasse platea dictumst.</div>
+    </div>
+    <div class="row content-boxes">
+      <div class="col-sm-4 col-xs-12 content-box">
+        <h4 class="title">Variety designs</h4>
+        <div class="description">In hac habitasse platea dictumst. Ut et portaaugue. Phasellus a est metus. Quisque elementum semper augue, maximus maximus eros rhoncus vitae.</div>
+      </div>
+      <div class="col-sm-4 col-xs-12 content-box">
+        <h4 class="title">Easy use</h4>
+        <div class="description">In hac habitasse platea dictumst. Ut et portaaugue. Phasellus a est metus. Quisque elementum semper augue, maximus maximus eros rhoncus vitae.</div>
+      </div>
+      <div class="col-sm-4 col-xs-12 content-box">
+        <h4 class="title">User guide</h4>
+        <div class="description">In hac habitasse platea dictumst. Ut et portaaugue. Phasellus a est metus. Quisque elementum semper augue, maximus maximus eros rhoncus vitae.</div>
+      </div>
+    </div>
+    <div class="row content-boxes">
+      <div class="col-sm-4 col-xs-12 content-box">
+        <h4 class="title">Export your code</h4>
+        <div class="description">In hac habitasse platea dictumst. Ut et portaaugue. Phasellus a est metus. Quisque elementum semper augue, maximus maximus eros rhoncus vitae.</div>
+      </div>
+      <div class="col-sm-4 col-xs-12 content-box">
+        <h4 class="title">Responsive layout</h4>
+        <div class="description">In hac habitasse platea dictumst. Ut et portaaugue. Phasellus a est metus. Quisque elementum semper augue, maximus maximus eros rhoncus vitae.</div>
+      </div>
+      <div class="col-sm-4 col-xs-12 content-box">
+        <h4 class="title">Save time</h4>
+        <div class="description">In hac habitasse platea dictumst. Ut et portaaugue. Phasellus a est metus. Quisque elementum semper augue, maximus maximus eros rhoncus vitae.</div>
+      </div>
+    </div>
+  </div>
+</div>

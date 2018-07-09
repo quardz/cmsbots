@@ -1,0 +1,23 @@
+.footer-wrap {
+  background-color: #f6bb43;
+}  
+
+.footer-wrap .footer-social .block-content {
+  background-color: #fcd055;  
+}
+
+.footer-wrap .footer-social .follow-link-wrapper a{
+  border-left-color: #fde5a2; 
+}
+
+.footer-wrap .footer-social .follow-link-wrapper a:before,
+.footer-wrap h2,
+.footer-wrap h3,
+.footer-wrap h4,
+.footer-wrap a,
+.footer-wrap a:hover,
+.footer-wrap ul li a,
+.footer-wrap ul li a:hover,
+.footer-wrap .footer-message {
+  color: #2c2c2c;
+}

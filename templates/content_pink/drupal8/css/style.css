@@ -1,0 +1,74 @@
+.content-pink {
+  font-family: 'Roboto', sans-serif;
+  padding-top: 27px;
+  padding-bottom: 27px;
+}
+
+.content-pink .top-header {
+  padding-left:15px;
+  
+}
+
+.content-pink .top-header .title {
+  font-size: 2.5em;
+  margin-bottom: 9px;
+}
+
+.content-pink .top-header .description {
+  font-size: 1.24em;
+  margin-bottom: 24px;
+}
+
+.content-pink .content-boxes .content-box .title {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 12px;
+ }
+
+ .content-pink .content-boxes .content-box .description {
+  font-size: 1.20em;
+  margin-bottom: 27px;
+}
+ 
+.content-pink .content-boxes .download-links .download-buttons {
+  display: inline-block;
+  font-size: 1.6em;
+  margin-right: 27px;
+  width: 220px;
+  height: 41px;
+  text-decoration: none;
+  padding-left: 30px;
+  padding-top: 6px;
+}
+
+.content-pink .content-boxes .download-links .download-buttons i {
+  font-size: 1.1em;
+  padding-left:10px;
+}
+
+.content-pink .content-boxes .download-links {
+  margin-top: 20px;
+}
+
+.content-pink .content-boxes .content-pink-video {
+  margin-top: 10px;
+  padding-right:0;
+ 
+}
+
+.content-pink .content-pink-video { 
+  position: relative; 
+  padding-bottom: 0; 
+  height: 0; 
+  overflow: visible; 
+  max-width:   100%; 
+} 
+.content-pink .content-pink-video iframe, 
+.content-pink .content-pink-video object, 
+.content-pink .content-pink-video embed { 
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  width: 100%; 
+  height: auto; 
+}

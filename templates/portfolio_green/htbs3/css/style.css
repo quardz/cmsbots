@@ -1,0 +1,138 @@
+
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Portfolio / portfolio green  ------------*/
+/*--------------------------------------------------------------------------*/
+.portfolio-green {
+  font-family: roboto;
+  padding-top: 46px; 
+  padding-bottom: 46px;
+}
+
+.portfolio-green  h2{
+  font-size: 36px;
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.portfolio-green  .desc {
+  font-size: 17px;
+  font-weight: normal;
+}
+
+.screen-sm  #mixitup-container .mix,
+.screen-md  #mixitup-container .mix,
+.screen-lg  #mixitup-container .mix{
+  display: none;
+}
+
+.portfolio-green  #mixitup-options {
+  margin-top: 30px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+.portfolio-green #mixitup-options ul.option-set {
+  padding: 0px;
+  display: inline-block;
+}
+
+.portfolio-green #mixitup-options ul.option-set li {
+  list-style: none;
+  margin-left: 0px;
+  margin-right: 20px; 
+  font-size: 1.4em;
+  font-weight: lighter;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 12px;
+  padding-right: 12px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.portfolio-green .mix {
+  padding: 20px;
+  padding-top: 40px;
+}
+
+.portfolio-green .mix img {
+  width: 100%;
+  height: auto;
+}
+  
+.portfolio-green .mix .inner-box .portf-image {
+  display: block;
+  margin-left: 0px;
+  position: relative;
+}
+
+.portfolio-green .inner-box .portf-hover{
+  display: none;
+}
+
+.portfolio-green .inner-hover {
+  padding: 20px;
+}
+
+.portfolio-green .mix:hover .portf-hover{
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0.8;
+  overflow: hidden; 
+}
+
+.portfolio-green  .portf-inner  {
+  display: none;
+}
+
+.portfolio-green   .mix:hover .portf-hover-inner { /*hover*/
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  height: 100px;
+  width: auto;
+  text-align: center;
+}
+ 
+.portfolio-green   .portf-hover-inner  a{
+  text-align: center;
+  border: 1px solid;
+  background: transparent;
+  font-size: 17px;
+  text-decoration: none;
+  width: 40%;
+  display: block;
+  margin: 10px auto;
+  padding: 5px;
+  margin-bottom: 20px;
+} 
+
+.portfolio-green .carousel-inner {
+  width: auto;
+}
+
+.mobile-carousel-controls {
+  padding: 15px;
+  padding-bottom: 30px;
+}
+
+.mobile-carousel-controls span {
+  width: 50%;
+  float: left;
+  font-size: 25px;
+  text-align: center;
+  font-weight: lighter;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Portfolio / portfolio green  ---------------*/
+/*--------------------------------------------------------------------------*/

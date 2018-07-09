@@ -1,0 +1,37 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Clients / Clients dark grey  ----------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 769px) {  
+
+.client-dark-grey {
+  padding-top: 30px;
+  padding-bottom: 0px; 
+}
+
+.client-dark-grey .container {
+  text-align: center;
+  width: 100%;
+}
+
+.client-dark-grey .clientele-item img {
+  margin-bottom: 30px;
+}
+
+}
+
+@media (min-width: 769px) and (max-width: 992px) { 
+
+.client-dark-grey .container {
+  text-align: center;
+  width: 100%;
+}
+
+.client-dark-grey .clientele-item img {
+  margin-bottom: 30px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Clients / Clients dark grey  -------------------------*/
+/*--------------------------------------------------------------------------*/

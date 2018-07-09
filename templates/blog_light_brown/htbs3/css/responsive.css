@@ -1,0 +1,187 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Blognews / Blog light brown  ----------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) {  
+
+.blog-light-brown {
+  padding-top: 6px;
+  padding-bottom: 30px;
+}
+
+.blog-light-brown .view-header {
+  text-align: center;
+}
+
+.blog-light-brown h2 {
+  font-size: 2.2em;
+}
+
+.blog-light-brown .blog-image img {
+  width: 100%
+}
+
+.blog-light-brown .blog-posted {
+  text-align: left;
+  height: auto;
+  font-weight: lighter;
+  padding: 6px;
+}
+
+.blog-light-brown .date-month {
+  width: auto;
+  display: inline-block;
+  height: auto;
+  padding-top: 0;
+  font-size: 20px;
+  margin-bottom: auto;
+  padding-right: 10px;
+}
+
+.blog-light-brown .date-day {
+  width: auto;
+  display: inline-block;
+  height: auto;
+  padding-top: 0;
+  font-size: 20px;
+  padding-right:10px;
+}
+
+.blog-light-brown .date-year {
+  width: auto;
+  display: inline-block;
+  height: auto;
+  font-size: 20px;
+  margin-top: auto;
+}
+
+.blog-light-brown .blog-meta{
+  height:auto;
+  margin-top: 8px;
+}
+
+.blog-light-brown .blog-readmore {
+  padding-bottom: 0px;
+}
+
+.blog-light-brown .blog-content-right {
+  background: #ffffff;
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-right: 30px;
+  height: auto;
+}
+
+.blog-light-brown .blog-title a {
+  font-size: 1.5em;
+}
+
+.blog-light-brown .blog-content-right {
+  padding-top: 8px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+}
+
+.blog-light-brown .blog-author {
+  font-size: 15px;
+  margin-top: 7px;
+  display: inline-block;
+}
+
+.blog-light-brown .blog-author i {
+  font-size: 13px;
+  padding-right: 0px; 
+}
+
+.blog-light-brown .blog-desc {
+  font-size: 1.1em;
+  padding-top: 8px;
+}
+
+}
+
+@media (min-width: 769px) and (max-width: 992px) { 
+
+.blog-light-brown .blog-title a {
+  font-size: 1.5em;
+}
+
+span.col-sm-3.blog-author.text-right {
+  font-size: 15px;
+  padding-left: 0px;
+  padding-top: 5px;
+}
+
+.blog-light-brown .blog-content-right {
+  padding-top: 5px;
+}
+
+.blog-light-brown .blog-author i {
+  font-size: 12px;
+}
+
+.blog-light-brown .blog-desc {
+  font-size: 1.1em;
+  padding-top: 0px;
+  line-height: 120%;
+}
+
+.blog-light-brown .blog-posted {
+  padding-left: 10px;
+  padding-top: 18px;
+}
+
+.blog-light-brown .date-day {
+  height: 27%;
+  padding-top: 0%;
+  margin-bottom: 0%;
+}
+
+.blog-light-brown .date-month{
+  height: 27%;
+  padding-top: 3%;
+}
+
+.blog-light-brown .date-year{
+  height: 20%;
+  margin-top: 20%;
+}
+
+}
+
+@media (min-width: 993px) and (max-width: 1200px) { 
+
+.blog-light-brown .blog-content-right {
+  padding-top: 5px;
+}
+
+.blog-light-brown .blog-desc {
+  line-height: 130%;
+  padding-top: 0px;
+}
+
+.blog-light-brown .blog-posted {
+  padding-left: 15px;
+  padding-top: 10px;
+}
+
+.blog-light-brown .date-day {
+  height: 27%;
+  padding-top: 0%;
+  margin-bottom: 0%;
+}
+
+.blog-light-brown .date-month{
+  height: 27%;
+  padding-top: 3%;
+}
+
+.blog-light-brown .date-year{
+  height: 20%;
+  margin-top: 20%;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Blognews / Blog light brown  -------------------------*/
+/*--------------------------------------------------------------------------*/

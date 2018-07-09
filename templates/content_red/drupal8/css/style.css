@@ -1,0 +1,35 @@
+.content-red {
+  font-family: 'Roboto', sans-serif;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.content-red .top-header .title {
+  font-size: 2.7em;
+  font-weight: normal;
+  margin-bottom: 4px;
+}
+
+.content-red .top-header .description {
+  font-size: 1.28em;
+  font-weight: normal;
+  margin-bottom: 28px;
+}
+
+.content-red .content-boxes .content-box .icon {
+  font-size: 1.43em;
+}
+
+.content-red .content-boxes .content-box .title {
+  font-size: 1.63em;
+  font-weight: normal;
+  display: inline;
+  padding-left: 11px;
+}
+
+.content-red .content-boxes .content-box .description {
+  font-size: 1.2em;
+  text-align: justify;
+  margin-top: 8px;
+  margin-bottom: 23px;
+}

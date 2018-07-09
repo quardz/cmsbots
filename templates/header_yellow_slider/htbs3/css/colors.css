@@ -1,0 +1,45 @@
+header#navbar,
+header#navbar.navbar-fixed-top.affix,
+header#navbar .dropdown-menu>li>a,
+header#navbar .dropdown-menu>li>a:focus, 
+header#navbar .dropdown-menu>li>a:hover, 
+header#navbar .dropdown-menu,
+header#navbar .dropdown-menu>li   {
+  background-color: #000000;
+}
+header#navbar .navbar-nav>li>a,
+header#navbar .dropdown-menu>li>a,
+header#navbar .dropdown-menu>li>a:focus, 
+header#navbar .dropdown-menu>li>a:hover, 
+header#navbar .dropdown-menu,
+header#navbar .dropdown-menu>li,
+.carousel-homeslider-header-yellow-slider .carousel-caption .title  span,
+.carousel-homeslider-header-yellow-slider .carousel-caption .cta-button  {
+  color: #ffffff;  
+}
+header#navbar .navbar-nav>li>a:focus, 
+header#navbar .navbar-nav>li>a:hover,
+header#navbar .navbar-nav>li>a.active,
+header#navbar .dropdown-menu>li>a:hover,
+header#navbar .dropdown-menu>li>a.active,
+.carousel-homeslider-header-yellow-slider .carousel-caption .title {
+  color: #f39c12;
+}
+
+header#navbar .navbar-toggle .icon-bar,
+.carousel-homeslider-header-yellow-slider .carousel-indicators  li,
+.carousel-homeslider-header-yellow-slider .carousel-caption .cta-button {
+  background-color: #f39c12;
+}
+
+.carousel-homeslider-header-yellow-slider .carousel-indicators  li.active {
+  background-color: #ffffff;
+}
+.carousel-homeslider-header-yellow-slider .carousel-indicators  li.active {
+  border-color: #f39c12;
+}
+@media (max-width: 767px) {
+  header#navbar .navbar-collapse {
+    background-color: #101010;
+  }  
+}

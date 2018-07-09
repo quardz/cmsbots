@@ -1,0 +1,130 @@
+/*--------------------------------------------------------------------------*/
+/*--------------- Begins : portfolio / portfolio  diamond ------------------*/
+/*--------------------------------------------------------------------------*/
+.portfolio-diamond {
+  font-family: roboto;
+  padding-top: 42px; 
+  padding-bottom: 50px;
+  margin-bottom: 70px;
+}
+
+.portfolio-diamond  h2{
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.portfolio-diamond  .desc {
+  font-size: 17px;
+  font-weight: normal;
+  margin-bottom: 26px;
+}
+
+.portfolio-diamond  .diamond-menu {
+  padding-bottom: 30px;
+}
+
+.portfolio-diamond  .diamond-menu span {
+  font-size: 17px;
+  padding-right: 0px;
+  padding-left: 5px;
+  cursor: pointer;
+}
+
+.portfolio-diamond  .diamond-menu span.filteritem .fa {
+  font-size: 8px;
+  padding-right: 10px;
+  vertical-align: middle;
+}
+
+.portfolio-diamond .diamonds {
+  text-align: center;
+  overflow: visible;
+  white-space: nowrap;
+  display: inline-block;
+}
+
+.portfolio-diamond .diamond-row-wrap {
+  text-align: center;
+  position: relative;
+  float: left;
+  clear: both;
+}
+
+.portfolio-diamond .diamond-row-upper,
+.portfolio-diamond .diamond-row-lower {
+  overflow: auto;
+  clear: both;
+  width: 100%;
+}
+
+.portfolio-diamond .diamond-row-lower {
+  overflow: visible;
+  position: absolute;
+  bottom: 0;
+}
+
+.portfolio-diamond  .diamond-row-lower .diamond-box {
+  margin-left: 64.644660941%; /* 0.5 + 1 / sqrt(2) / 2 */
+  margin-top: 64.644660941%;
+}
+
+.portfolio-diamond .diamond-box-wrap {
+  float: left;
+  width: 250px; /* Size of diamonds */
+  height: 250px;
+}
+
+.portfolio-diamond .diamond-box {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+  width: 70.710678118%; /* x = sqrt(x^2 / 2) = 1 / sqrt(2) = 0.70710678118 */
+  height: 70.710678118%;
+  margin: 14.644660941%;
+  border: 1px solid transparent;
+}
+
+.portfolio-diamond .diamond-box-inner {
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  -webkit-transform-origin: center center;
+  -moz-transform-origin: center center;
+  -ms-transform-origin: center center;
+  transform-origin: center center;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 141.421356237%; /* sqrt(2) */
+  height: 141.421356237%;
+  margin: -20.7106781185% 0 0 -20.7106781185%; /* (1 - sqrt(2)) / 2 */
+}
+
+.portfolio-diamond .diamonditem-hidden{
+  opacity: .1;
+  transition: opacity 1s linear;
+}
+
+.portfolio-diamond .diamonditem-visible {
+  transition: opacity 2s linear;
+}
+
+.portfolio-diamond .diamond-row-upper, 
+.portfolio-diamond  .diamond-row-lower {
+  overflow: inherit;
+}
+/*--------------------------------------------------------------------------*/
+/*------------------ end : portfolio / portfolio  diamond ------------------*/
+/*--------------------------------------------------------------------------*/

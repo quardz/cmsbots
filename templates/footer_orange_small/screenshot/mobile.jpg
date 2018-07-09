@@ -1,0 +1,12 @@
+--2018-07-07 11:04:34--  http://q2test.s3.amazonaws.com/img/mobilescreens/footer_3_0_0.jpg
+Resolving q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)... 52.216.97.243
+Connecting to q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)|52.216.97.243|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52291 (51K) [image/jpeg]
+Saving to: 'footer_3_0_0.jpg'
+
+     0K .......... .......... .......... .......... .......... 97% 66.7K 0s
+    50K .                                                     100% 21.3K=0.7s
+
+2018-07-07 11:04:35 (68.1 KB/s) - 'footer_3_0_0.jpg' saved [52291/52291]
+

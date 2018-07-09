@@ -1,0 +1,12 @@
+--2018-07-07 11:05:50--  http://q2test.s3.amazonaws.com/img/style/screenshots/stats_orange_0.jpg
+Resolving q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)... 52.216.17.248
+Connecting to q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)|52.216.17.248|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 58627 (57K) [image/jpeg]
+Saving to: 'stats_orange_0.jpg'
+
+     0K .......... .......... .......... .......... .......... 87% 40.0K 0s
+    50K .......                                               100% 9.81M=1.3s
+
+2018-07-07 11:05:52 (45.7 KB/s) - 'stats_orange_0.jpg' saved [58627/58627]
+

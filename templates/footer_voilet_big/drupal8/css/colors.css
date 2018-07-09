@@ -1,0 +1,47 @@
+.footer-wrap .footer-copyright-social,
+.footer-wrap .footer-subscribe .subscribe-form-submit,
+.footer-wrap .footer-copyright a,
+.footer-wrap .footer-social .follow-link-wrapper i:hover:before,
+.footer-wrap,
+.footer-wrap a,
+.footer-wrap ul li,
+.footer-wrap ul li a,
+.footer-wrap h2,
+.footer-wrap h3,
+.footer-wrap h4,
+.footer-wrap h5 {
+  color: #f6f6f6;
+}
+
+.footer-wrap .footer-subscribe,
+.footer-wrap .footer-subscribe #contact_email,
+.footer-wrap .footer-copyright-social,
+.footer-wrap .footer-social .follow-link-wrapper i:hover {
+  background-color: #34495e;
+}
+
+.footer-wrap .footer-subscribe .subscribe-form-submit,
+.footer-wrap button {
+  background-color: #16a086;
+}
+
+.footer-wrap .footer-subscribe #contact_email,
+.footer-wrap .footer-subscribe .subscribe-form-submit,
+.footer-wrap button {
+  border-color: #16a086;
+}
+
+.footer-wrap .footer-social .follow-link-wrapper i{
+  background-color: #f6f6f6;
+}
+
+.footer-wrap .footer-social .follow-link-wrapper i, 
+.footer-wrap .footer-social .follow-link-wrapper i:before{
+  color: #34495e;
+}
+
+.footer-wrap .footer-subscribe ::-webkit-input-placeholder,
+.footer-wrap .footer-subscribe ::-moz-placeholder,
+.footer-wrap .footer-subscribe :-ms-input-placeholder {
+  color: #f6f6f6;
+}

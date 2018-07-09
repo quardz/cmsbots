@@ -1,0 +1,18 @@
+{
+  "regions": [
+    {
+      "region": "footer_signup",
+      "name": "Footer Signup"
+    },
+    {
+      "region": "footer_copyright",
+      "name": "Footer Copyright"
+    },
+    {
+      "region": "footer_social",
+      "name": "Footer Social"
+    }
+  ],
+  "default_block_placements": [],
+  "color_settings": []
+}

@@ -1,0 +1,11 @@
+--2018-07-07 11:06:11--  http://q2test.s3.amazonaws.com/img/style/screenshots/header_menu_4.jpg
+Resolving q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)... 54.231.40.11
+Connecting to q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)|54.231.40.11|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9625 (9.4K) [image/jpeg]
+Saving to: 'header_menu_4.jpg'
+
+     0K .........                                             100% 11.7M=0.001s
+
+2018-07-07 11:06:12 (11.7 MB/s) - 'header_menu_4.jpg' saved [9625/9625]
+

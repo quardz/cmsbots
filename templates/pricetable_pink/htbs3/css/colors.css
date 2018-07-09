@@ -1,0 +1,64 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : PriceTable / Price pink  --------------------------*/
+/*--------------------------------------------------------------------------*/
+.price-pricetable-pink h2{ 
+  color: #db4453;
+}
+
+.price-pricetable-pink {
+  background-color:#ffffff;
+}
+
+.price-pricetable-pink .price-price {
+  background-color: #F6F6F6;
+  border-bottom-color:#EE7179;
+}
+
+.price-pricetable-pink .price-features {
+  background-color: #F6F6F6;
+}  
+
+.price-pricetable-pink h3 {
+  color:#ffffff;
+}
+
+.price-pricetable-pink .price-desc {
+  color: #4b4b4b;
+}
+
+.price-pricetable-pink .price-header{
+  background-color: #DA4452;
+}
+
+.price-pricetable-pink .price-box:hover .price-header {
+  background-color: #AF2C38;
+}
+
+.price-pricetable-pink .price-box:hover .price-features {
+  background-color: #DA4452;
+  color: #ffffff;
+}
+
+.price-pricetable-pink .btn {
+  background-color: #DA4452;
+  color: #ffffff;
+}
+
+.price-pricetable-pink .price-box:hover .btn {
+  background-color: #ffffff;
+  color: #DA4452;
+}
+
+.price-pricetable-pink .price-price .price-cost {
+  color: #242424;
+}
+
+.price-pricetable-pink .price-box .price-banner {
+  background-color: #D85358;
+  color: #ffffff;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : PriceTable / Price table pink  -----------------------*/
+/*--------------------------------------------------------------------------*/
+  

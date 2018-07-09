@@ -1,0 +1,53 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : PriceTable / Price table aqua green  --------------*/
+/*--------------------------------------------------------------------------*/
+.price-pricetable-aqua-green {
+  background-color:#F1F2F4;
+}
+
+.price-pricetable-aqua-green .price-header {
+  background-color: #E0E0E0;
+} 
+ 
+.price-pricetable-aqua-green .price-features {
+  background-color: #ffffff;
+} 
+
+.price-pricetable-aqua-green h2,
+.price-pricetable-aqua-green h3 {
+  color:#60CCB5;
+}
+
+.price-pricetable-aqua-green .price-box:hover .price-header{
+  background-color:#60CCB5;
+  color:#ffffff;
+}
+
+.price-pricetable-aqua-green .price-box:hover h3 {
+  color:#ffffff;
+}
+
+.price-pricetable-aqua-green .btn {
+  background-color: #D6D6D6;
+  color: #000000;
+}
+
+.price-pricetable-aqua-green .price-box:hover .btn {
+  background-color: #60CCB5;
+  color: #ffffff;
+}  
+.price-pricetable-aqua-green .price-features-list li {
+  border-bottom-color: #E0E0E0;
+}
+
+.price-pricetable-aqua-green .price-price .price-cost {
+  color: #60CCB5;
+}
+
+.price-pricetable-aqua-green .price-price .price-cost span {
+  color: #000000;
+}
+/*--------------------------------------------------------------------------*/
+/*------------   Ends : PriceTable / Price table aqua-green  ---------------*/
+/*--------------------------------------------------------------------------*/

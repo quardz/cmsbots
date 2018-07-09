@@ -1,0 +1,37 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Stats / stats blue  -------------------------------*/
+/*--------------------------------------------------------------------------*/
+/* CSS from jquery-asProgress.js library*/
+.stats-blue {
+  background-color: #ffffff;
+}
+
+.stats-blue .top-header .title {
+  color: #5084ea;
+  border-color: #d4d4d4;
+}
+  
+.stats-blue .top-header .description {
+  color: #4b4b4b;
+}
+
+.stats-blue .content-boxes .content-box .fa {
+  color: #5084ea;
+}
+
+.stats-blue .content-boxes .content-box .icon-border {
+  color: #d4d4d4;
+}
+
+.stats-blue .content-boxes .content-box .title {
+  color: #5d9cec;
+}
+
+.stats-blue .content-boxes .content-box .description {
+  color: #4b4b4b;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Stats / stats blue  ----------------------------------*/
+/*--------------------------------------------------------------------------*/
+

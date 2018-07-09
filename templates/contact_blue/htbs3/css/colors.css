@@ -1,0 +1,50 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Contact / Contact Blue  ---------------------------*/
+/*--------------------------------------------------------------------------*/
+section.contact-blue {
+  background-color: #5184E8;
+  color: #ffffff;
+}  
+
+.contact-blue  a,
+.contact-blue  a:hover,
+.contact-blue  a:visited,
+.contact-blue h1,
+.contact-blue h2,
+.contact-blue h3,
+.contact-blue h4,
+.contact-blue h5,
+.contact-blue h6 {
+  color: #ffffff;
+}
+
+.contact-blue  .form-control,
+.contact-blue  .form-control:focus {
+  background-color: #5184E8;
+  border-color: #5E9CEA;
+  color: #ffffff;
+}  
+
+.contact-blue  .contact-form .btn {
+  background-color: #5E9CEA;
+  color: #ffffff;
+}
+
+.contact-blue  .input-lg::-webkit-input-placeholder{
+  color: #ffffff;
+}
+
+.contact-blue .input-lg:-moz-placeholder  {
+  color: #ffffff;
+}
+
+.contact-blue .input-lg::-moz-placeholder {
+  color: #ffffff;
+}
+
+.contact-blue .input-lg:-ms-input-placeholder {
+  color: #ffffff;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Contact / Contact Blue  ------------------------------*/
+/*--------------------------------------------------------------------------*/

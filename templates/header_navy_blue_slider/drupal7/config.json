@@ -1,0 +1,10 @@
+{
+  "regions": [
+    {
+      "region": "home_welcome",
+      "name": "Homepage Welcome"
+    }
+  ],
+  "default_block_placements": [],
+  "color_settings": []
+}

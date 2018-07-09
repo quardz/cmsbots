@@ -1,0 +1,8 @@
+         <h1 class = "row main-title text-center">GET <span>STARTED</span></h1>
+         <p class = "row main-desc text-center">With our product that will help you startup to look better and faster you can select <br>your favourite design and code</p>
+         <div class = "row main-buttons-wrap text-center">
+            <a href="#" class="btn btn-lg btn-success main-download"><span>Download for</span> <i class="fa fa-apple"></i></a>
+            <a href="#" class="btn btn-lg btn-success main-download"><span>Download for</span> <i class="fa fa-android"></i></a>
+            <a href="#" class="btn btn-lg btn-success main-download"><span>Download for</span> <i class="fa fa-windows"></i></a>
+            </div>   
+         </div>

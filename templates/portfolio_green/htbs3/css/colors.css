@@ -1,0 +1,52 @@
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Portfolio / portfolio green  ------------*/
+/*--------------------------------------------------------------------------*/
+.portfolio-green {
+  background-color: #2C3D4F;
+}
+
+.portfolio-green .portfolio-header,
+.portfolio-green h1,
+.portfolio-green h2,
+.portfolio-green h3,
+.portfolio-green h4,
+.portfolio-green h5{
+  color: #ffffff;
+}
+
+.portfolio-green #mixitup-options ul.option-set li {
+  color: #ffffff;
+}
+
+.portfolio-green #mixitup-options ul.option-set li.active,
+.portfolio-green #mixitup-options ul.option-set li:hover {
+  background-color: #29CB71;
+  color: #ffffff;
+}
+
+.portfolio-green .mix:hover .portf-hover{
+  background-color: #29CB71; 
+}
+
+.portfolio-green   .portf-hover-inner  a{
+  border-color: #ffffff;
+  color: #ffffff;
+}
+
+.portfolio-green   .portf-hover-inner  a:hover{
+  background-color: #ffffff;
+  color: #2FCB6D;
+}  
+
+.mobile-carousel-controls span {
+  color: #ffffff;
+  background-color: #29CB71;
+}
+
+.mobile-carousel-controls span:hover {
+  background-color: #ffffff;
+  color: #29CB71;
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Portfolio / portfolio green  ---------------*/
+/*--------------------------------------------------------------------------*/

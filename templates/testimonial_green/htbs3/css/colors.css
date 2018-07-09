@@ -1,0 +1,42 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Testimonial / Testimonial green  ------------------*/
+/*--------------------------------------------------------------------------*/
+.testimonial-green {
+  background-color: #ffffff;
+}
+
+.testimonial-green h2 { 
+  color: #1abc9c;
+} 
+
+.testimonial-green  .carousel-indicators li {
+  background-color: #ffffff;
+  border-color: #4A5F77;
+} 
+
+.testimonial-green  .carousel-indicators li.active {
+  border-color: #1abc9c;
+}
+ 
+.testimonial-green .testi-body {
+  color: #4b4b4b;
+}
+ 
+.testimonial-green .carousel-inner {
+  background-color: #f1f1f1;
+}  
+
+.testimonial-green .testi-name-designation {
+  color: #1abc9c;
+}
+ 
+.testimonial-green .carousel-control .fa {
+  color: #A3A3A3;
+}
+
+.testimonial-green .carousel-control:hover .fa {
+  color: #CB6523;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Testimonial / Testimonial green  ---------------------*/
+/*--------------------------------------------------------------------------*/

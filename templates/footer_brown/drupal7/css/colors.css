@@ -1,0 +1,21 @@
+footer#footer .footer-copyright-social{
+  background-color: #513b2d;
+}
+footer#footer .footer-subscribe {
+  background-color: #5f4534;
+}
+footer#footer .footer-subscribe .subscribe-form-submit{
+  background-color: #8e725d;
+  border-color: #8e7250;
+}  
+footer#footer .footer-copyright-social,
+footer#footer .footer-subscribe .form-control-static,
+footer#footer .footer-subscribe .subscribe-form-submit,
+footer#footer .follow-link-wrapper a,
+footer#footer .follow-link-wrapper a:before {
+  color: #ffffff;
+}
+footer#footer .follow-link-wrapper a:hover:before{
+  color: #8d725f;
+}
+

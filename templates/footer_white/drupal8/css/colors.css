@@ -1,0 +1,38 @@
+.footer-wrap,
+.footer-wrap #contact_email,
+.footer-wrap .subscribe-form-submit {
+  background-color: #0e0e0e;
+}
+.footer-wrap .nav>li>a:focus,
+.footer-wrap .nav>li>a:hover {
+  background-color: transparent;
+}
+.footer-wrap .footer-message h2,
+.footer-wrap .footer-message-content .camera-icon i,
+.footer-wrap .subscribe-form-submit {
+  color: #f39d14;
+}
+
+.footer-wrap h2,
+.footer-wrap h3,
+.footer-wrap h4,
+.footer-wrap h5,
+.footer-wrap h6,
+.footer-wrap .footer-menus-signup .title h2,
+.footer-wrap .footer-menu ul li a,
+.footer-wrap {
+  color: #f9f9f9;
+}
+
+.footer-wrap #mainchimp-subscribe {
+  border-bottom-color: #f9f9f9;
+}
+@media (max-width: 767px) {
+  .footer-wrap #contact_email {
+    border-bottom-color: #f9f9f9;
+  }
+  .footer-wrap .subscribe-form-submit {
+    background-color: #f39d14;
+    color: #f9f9f9;    
+  }
+}

@@ -1,0 +1,50 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Blognews / Blog light brown  ----------------------*/
+/*--------------------------------------------------------------------------*/
+.blog-light-brown {
+  background-color: #ECEBE6;
+  color: #ffffff;
+}
+
+.blog-light-brown .blog-readmore a {
+  color: #4b4b4b;
+}
+
+.blog-light-brown h2{
+  color: #C06C30;
+}
+
+.blog-light-brown .blog-content-right  {
+  background-color: #ffffff;
+}
+
+.blog-light-brown .blog-content-right  a{
+  color: #C06C30;
+}
+
+.blog-light-brown .blog-posted {
+  background-color: #C06C30;
+  color: #ffffff;
+  border-color: #C06C30;
+}
+
+.blog-light-brown .blog-title a{
+  color: #C06C30;
+}
+
+.blog-light-brown  .blog-desc{
+  color: #4b4b4b;
+}
+
+.blog-light-brown .mobile-carousel-controls span {
+  color: #ffffff;
+  background-color: #BF6B31;
+}
+
+.blog-light-brown .mobile-carousel-controls span:hover {
+  background: #353535;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Blognews / Blog light brown  -------------------------*/
+/*--------------------------------------------------------------------------*/
+ 

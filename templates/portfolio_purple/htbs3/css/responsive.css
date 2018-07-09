@@ -1,0 +1,57 @@
+
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Portfolio / Portfolio purple  -----------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) {  
+
+.portfolio-purple {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.portfolio-purple h2 {
+  font-size: 32px;
+  margin-bottom: 0px;
+}
+
+.portfolio-purple  .carousel-inner {
+  padding: 0px;
+  margin: 0;
+}
+
+.portfolio-purple  .carousel-inner .item {
+  margin: 0;
+}
+
+.portfolio-purple .team-inner {
+  padding: 0;
+}
+
+.portfolio-purple .mix {
+  padding: 0;
+}
+
+.portfolio-purple  .desc {
+  text-align: center;
+  padding: 10px 0px;
+  padding-bottom: 20px;
+  display: block;
+  font-size: 17px;
+}
+
+.portfolio-purple .portf-hover-inner a {
+  font-size: 25px;
+}
+
+}
+
+@media (min-width: 769px) and (max-width: 1200px) {  
+
+.portfolio-purple   .portf-hover-inner  a{
+  width: 50%;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Portfolio / Portfolio purple  --------------*/
+/*--------------------------------------------------------------------------*/

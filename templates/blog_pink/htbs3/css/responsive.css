@@ -1,0 +1,78 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Blognews / Blog pink   ----------------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) {
+
+.blog-pink {
+  padding-top: 7px;
+  padding-bottom: 30px;
+}
+
+.blog-pink h2 {
+  font-size: 30px;
+}
+
+.blog-pink  .view-content{
+
+  margin-top: 0px;
+}
+  
+.blog-pink .view-content {
+  margin: 0px;
+}
+
+.blog-pink  .blog-title {
+  font-size: 1.5em;
+}
+
+.blog-pink  .blog-image {
+  width: 100%;
+}
+ 
+ .blog-pink  .meta-info {
+  width: 100%
+}
+
+.blog-pink .view-more a {
+  margin-bottom: 18px;
+}
+
+ .blog-pink  .meta-info {
+  padding-right: 0px;
+}
+
+.blog-pink  .descrip {
+  font-size: 1.15em;
+  line-height: 25px
+}
+
+.blog-pink  .view-more a{
+  padding: 5px 24px;
+  font-size: 17px;
+}
+
+}
+ 
+ @media (min-width: 769px) and (max-width: 1200px) {   
+ 
+.blog-pink  .blog-image {
+  width: 100%;
+}
+ 
+ .blog-pink  .meta-info {
+  width: 100%
+}
+
+.blog-pink .view-more a {
+  margin-bottom: 25px;
+}
+
+ .blog-pink  .meta-info {
+  padding-right: 0px;
+}
+ 
+}  
+/*--------------------------------------------------------------------------*/
+/*------------  End : Blognews / Blog pink   -------------------------------*/
+/*--------------------------------------------------------------------------*/

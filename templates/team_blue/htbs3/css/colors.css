@@ -1,0 +1,58 @@
+
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Team / Team blue   ----------------------*/
+/*--------------------------------------------------------------------------*/
+.team-blue {
+  background-color: #ffffff;
+}
+
+.team-blue .team-header {
+  color: #333333;
+}
+
+.team-blue .team-header h2 {
+  color: #5d9cec;
+}
+
+.team-blue .team-header .desc {
+  color: #4b4b4b;
+}
+
+.team-blue .team-content {
+  background-color: #ffffff;
+}
+
+.team-blue .team-name {
+  color: #5d9cec;
+}
+
+
+.team-blue .team-designation{
+  color: #4b4b4b;
+}
+
+.team-blue .team-body{
+  color: #4b4b4b;
+}
+
+.team-blue .team-social a{
+  color: #BEBEBE;
+}
+
+.team-blue .team-social li:hover a{
+  color: #5d9cec;
+}
+
+.mobile-carousel-controls span {
+  color: #ffffff;
+  background-color: #5F9AEE;
+}
+
+.mobile-carousel-controls span:hover {
+  background-color: #353535;
+  color: #ffffff;
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Team / Team blue   -------------------------*/
+/*--------------------------------------------------------------------------*/
+ 

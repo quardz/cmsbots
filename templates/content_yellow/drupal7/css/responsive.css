@@ -1,0 +1,35 @@
+@media (max-width: 767px) {
+
+.content-yellow  {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.content-yellow .top-header .title {
+  font-size: 1.9em;
+  margin-top: 11px;
+}
+
+.content-yellow .top-header .description {
+  font-size: 1.1em;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 8px;
+}
+
+.content-yellow .content-boxes .content-box .icon {
+  font-size: 2.5em;
+}
+
+.content-yellow .content-boxes {
+  padding-top: 17px;
+  padding-bottom: 17px;
+}
+
+.content-yellow .content-boxes .content-box {
+  padding-left: 22px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+}

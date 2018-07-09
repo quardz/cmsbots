@@ -1,0 +1,73 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Testimonial / Testimonial light blue --------------*/
+/*--------------------------------------------------------------------------*/
+.testimonial-light-blue {
+  font-family: 'roboto';
+  padding-top: 25px;
+  padding-bottom: 0px;
+}
+
+.testimonial-light-blue h2 {
+  font-weight: lighter;
+  font-size: 35px;
+  margin-bottom: 21px;
+}
+
+.testimonial-light-blue h2 strong {
+  font-weight: normal;
+} 
+
+.testimonial-light-blue .testi-image {
+  padding-bottom: 50px;
+  padding-top: 8px;
+}
+ 
+.testimonial-light-blue .testi-body {
+  font-size: 17px;
+  /* font-style: italic; */
+  font-weight: lighter;
+  float: left;
+  clear: both;
+  line-height: 180%;
+  padding-bottom: 10px;
+}
+
+.testimonial-light-blue .testi-name {
+  font-size: 24px;
+  font-weight: normal;
+  clear: both;
+  float: left;
+  display: block;
+  padding-top: 7px;
+}
+
+.testimonial-light-blue .testi-designation {
+  font-size: 15px;
+  font-weight: lighter;
+  padding-bottom: 0px;
+  display: block;
+  float: left;
+  clear: both;
+}
+
+.testimonial-light-blue  .carousel-indicators li {
+  display: inline-block;
+  width: 50px;
+  height: 12px;
+  margin-right: 5px;
+  text-indent: -999px;
+  cursor: pointer;
+  border: 1px solid;
+  border-radius: 0px;
+}
+
+.testimonial-light-blue .carousel-indicators {
+  bottom: 35px;
+  left: auto;
+  right: 0px;
+  width: auto;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Testimonial / Testimonial light blue -----------------*/
+/*--------------------------------------------------------------------------*/

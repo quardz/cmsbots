@@ -1,0 +1,44 @@
+
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Portfolio / Portfolio blue  -------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) {  
+
+.mobile-carousel-controls {
+  padding-top: 30px;
+  padding-bottom: 26px;
+}
+
+.portfolio-blue .mix .inner-box .portf-desc {
+  margin-bottom: 6px;
+}
+
+.portfolio-blue  .carousel-inner {
+  padding: 0px;
+  margin: 0;
+}
+
+.portfolio-blue  .carousel-inner .item {
+  margin: 0;
+}
+
+.portfolio-blue .team-inner {
+  padding: 0;
+}
+
+.portfolio-blue .mix {
+  padding: 0;
+}
+
+}
+
+@media (min-width: 769px) and (max-width: 992px) { 
+
+.portfolio-blue .mix .inner-box .portf-title a {
+  font-size: 1.6em;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Portfolio / Portfolio blue  ----------------*/
+/*--------------------------------------------------------------------------*/

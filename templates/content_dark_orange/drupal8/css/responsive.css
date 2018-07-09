@@ -1,0 +1,101 @@
+@media (min-width: 768px) and (max-width: 1169px) {
+
+.content-dark-orange .content-box .icon-box {
+  height: 75px;
+  width: 75px;
+}
+
+.content-dark-orange .content-box .icon-inner-box {
+  height: 58px;
+  width: 58px;
+}
+
+.content-dark-orange .content-box .icon-inner-box i {
+  font-size: 3em;
+}
+
+.content-dark-orange .content-boxes-right .content-box-right {
+  padding-left: 50px;
+}
+
+}
+
+@media (max-width: 767px) {
+
+.content-dark-orange {
+  padding-bottom: 3px;
+  padding-top: 3px;
+}
+
+.content-dark-orange .top-header .title {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+.content-dark-orange .top-header .description {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.content-dark-orange .top-header {
+  margin-bottom: 14px;
+}
+
+.content-dark-orange .content-box .icon-box {
+  margin-top: 13px;
+  height: 65px;
+  width: 65px;
+  display: inline-block;
+  text-align: right;
+}
+
+.content-dark-orange .content-box .icon-inner-box {
+  height: 48px;
+  width: 48px;
+}
+
+.content-dark-orange .content-box .icon-inner-box i {
+  font-size: 2.5em;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: block;
+}
+
+.content-dark-orange .content-boxes .content-boxes-left .title {
+  font-size: 1.35em;
+  margin-bottom: 8px;
+}
+
+.content-dark-orange .content-boxes .content-boxes-left .description {
+  font-size: 1.02em;
+}
+
+.content-dark-orange .content-boxes .content-boxes-right .content-box-right .title {
+  font-size: 1.35em;
+  margin-bottom: 8px;
+}
+
+.content-dark-orange .content-boxes .content-boxes-right .content-box-right .description {
+  font-size: 1.02em;
+}
+
+.content-dark-orange .content-boxes-left .content-box-left {
+  float: right;
+  padding-left: 25px;
+  text-align: left;
+}
+
+.content-dark-orange .content-boxes-right .content-box-right {
+  padding-left: 20px;
+}
+
+.content-dark-orange .content-boxes-right .content-box .icon-boxes {
+  text-align: right;
+  padding-right: 20px;
+}
+
+.content-dark-orange .content-boxes-right .content-right {
+  padding-right: 20px;
+  padding-left: 20px;
+}

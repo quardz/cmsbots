@@ -1,0 +1,69 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Contact / Contact Pink  ---------------------------*/
+/*--------------------------------------------------------------------------*/
+.contact-pink{
+  background-color: #DA4452;
+  color: #ffffff;
+}
+.contact-pink h1,
+.contact-pink h2,
+.contact-pink h3,
+.contact-pink h4,
+.contact-pink h5 {
+  color: #ffffff;
+}
+
+.contact-pink .form-control {
+  background-color: #DA4452;
+  border-color: #ffffff;
+  color: #ffffff;
+}
+
+.contact-pink .form-group .help-block,
+.contact-pink .form-group .help-block.with-errors {
+  color: #ffffff !important;
+}
+
+.contact-pink .btn {
+  background-color: #EB5462;
+  color: #ffffff;
+}
+
+.contact-pink address .contact-item {
+  border-bottom-color: #E85260;
+}
+
+.contact-pink address span a,
+.contact-pink address span a:hover,
+.contact-pink address span a:visited {
+  color: #ffffff;
+}
+
+.contact-pink  .follow-links a {
+  color: #ffffff;
+}
+
+.contact-pink  .input-lg::-webkit-input-placeholder{
+  color: #ffffff;
+}
+
+.contact-pink .input-lg:-moz-placeholder  {
+  color: #ffffff;
+}
+
+.contact-pink .input-lg::-moz-placeholder {
+  color: #ffffff;
+}
+
+.contact-pink .input-lg:-ms-input-placeholder {
+  color: #ffffff;
+}
+
+@media (max-width: 767px) {
+.contact-pink-map .google-map-wrap {
+  background-color: #DA4452;
+}
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Contact / Contact Pink  ------------------------------*/
+/*--------------------------------------------------------------------------*/

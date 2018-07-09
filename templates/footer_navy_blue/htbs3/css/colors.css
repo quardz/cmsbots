@@ -1,0 +1,12 @@
+footer#footer {
+  background: #2d3e50;
+}
+footer#footer, 
+footer#footer .footer-menu ul li a,
+footer#footer .footer-copyright a{
+  color: #ffffff;
+}
+footer#footer .footer-menu ul li a:hover,
+footer#footer .footer-menu ul li a:focus {
+  background: transparent;
+}

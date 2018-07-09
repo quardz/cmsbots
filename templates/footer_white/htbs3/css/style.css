@@ -1,0 +1,103 @@
+.footer-white {
+  font-family: 'Roboto', sans-serif;
+  padding-top: 45px;
+  padding-bottom: 45px;
+}
+
+.footer-white .footer-message {
+  padding-bottom: 16px;
+}
+
+.footer-white .footer-message h2.title {
+  margin-top: 0px;
+  margin-bottom: 27px;
+  font-size: 2.2em;
+  font-weight: normal;
+}
+
+.footer-white .footer-message .block-content {
+  font-size: 1.1em;
+  font-weight: normal;
+  text-align: center;
+  line-height: 1.4em;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.footer-white .footer-message-content .camera-icon i {
+  font-size: 2.9em;
+  margin-top: 30px;
+}
+
+.footer-white .footer-menus-signup {
+  padding-left: 0;
+  padding-right: 0;
+}  
+
+.footer-white .footer-menus-signup .title h2 {
+  padding-left: 0px;
+  font-size: 1.7em;
+  padding-bottom: 15px;
+  font-weight: normal;
+}
+
+.footer-white .footer-menu ul li {
+  background: transparent;
+}
+
+.footer-white .footer-menu ul li a {
+  font-size: 17px;
+  background: transparent;
+  font-weight: normal;
+  padding: 1px 0px;
+  font-weight: lighter;
+}  
+ 
+.footer-white .footer-menu ul li a:hover {
+  text-decoration: underline;
+} 
+
+.footer-white .footer-signup .footer-signup-title {
+  margin-left: 10px;
+}
+
+.footer-white .footer-signup .footer-signup-content {
+  margin-left: 10px;
+}
+
+.footer-white #mainchimp-subscribe {
+  display: inline-block;
+  height: auto;
+  min-height: 20px;
+  width: 100%;
+  border-bottom: 1px solid;
+}
+  
+.footer-white #contact_email {
+  border : none;
+  width: 80%;
+  padding-left: 0;
+  font-size: 1.1em;
+  height: 32px;
+  padding: 0px 0px;
+}
+
+.footer-white .subscribe-form-submit {
+  display: inline-block;
+  width: auto;
+  float: right;
+  text-align: right;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 1.46em;
+  padding: 0px 0px;
+  margin-right: 8px;
+}  
+
+.footer-white .footer-copyright {
+  margin-top: 20px;
+}
+
+.footer-white .footer-copyright .footer-copyright-content {
+  font-size: 1.1em;
+}

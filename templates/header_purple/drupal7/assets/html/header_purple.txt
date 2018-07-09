@@ -1,0 +1,16 @@
+<section class="home-slideshow header-purple-content" id = "header-purple-content">
+  <div class = "main-block container">
+    <div class = "main-block-inner">
+      <div class = "row main-title text-center">Creative Designs</div>
+      <div class = "row main-desc text-center">Best Creativity with Professonally Developed Themes.<br> Lorem Ipsum has been the industry's standard.</div>
+      <div class = "row main-signup-form-wrap text-center">
+        <form method="post" action = "ENTER_YOUR_MAILCHIMP_SUBSCRIBE_URL" id = "ajax-mailchimp-form-header_purple" class="form-inline" role="form">
+          <label class = "sr-only" for = "mc-email">Email</label>
+          <input id="mc-email" class="form-control input-lg email-field"  type="email" name="EMAIL" placeholder="Enter Your e-mail"/>
+          <input type="submit" name="subscribe" value="Subscribe"  class="btn btn-default subscribe-button btn-lg"/>
+          <p class="result"></p>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>

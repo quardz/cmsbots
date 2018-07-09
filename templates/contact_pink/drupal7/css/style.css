@@ -1,0 +1,94 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Contact / Contact Pink  ---------------------------*/
+/*--------------------------------------------------------------------------*/
+.contact-pink {
+  padding-top: 38px;
+  padding-bottom: 50px;
+  font-family: roboto;
+}
+
+.contact-pink  .desc {
+  line-height: 150%;
+  font-size: 16px;
+  font-weight: lighter;
+} 
+
+.contact-pink .contact-form  .desc {
+  margin-bottom: 20px;
+  display: block;
+}
+
+.contact-pink .contact-form {
+  margin-top: 11px;
+}
+
+.contact-pink  .form-group {
+  margin-bottom: 15px;
+}
+
+.contact-pink .form-control {
+  border: 1px solid;
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+.contact-pink .btn {
+  font-size: 24px;
+  padding: 4px 45px;
+  float: right;
+}
+
+.contact-pink h2 {
+  margin: 0;
+  font-size: 42px;
+  font-weight: normal;
+  padding-bottom: 5px;
+}
+
+.contact-pink-map .google-map-wrap {
+  overflow: hidden;
+  height: 350px;
+  width: 100%;
+  margin-bottom:0px;
+}
+
+.contact-pink-map .google-map-wrap  #gmap_canvas {
+  height: 350px;
+  width: 100%;
+}
+
+.contact-pink-map .google-map-wrap  #gmap_canvas img {
+  max-width: none!important;
+  background: none!important
+}
+
+.contact-pink address {
+  margin-bottom: 20px;
+  display: block;
+  float: left;
+  padding-bottom: 5px;
+  width: 100%;
+}
+
+.contact-pink address .contact-item {
+  border-bottom: 1px solid;
+  padding: 16px 0px;
+  font-size: 21px;
+}
+
+.contact-pink address span.title {
+  font-weight: normal;
+}
+
+.contact-pink address span.info {
+  float: right;
+  font-weight: lighter;
+}
+
+.contact-pink  .follow-links a {
+  margin-right: 10px;
+  font-size: 28px;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Contact / Contact Pink  ------------------------------*/
+/*--------------------------------------------------------------------------*/

@@ -1,0 +1,19 @@
+.content-purple {
+  background-color: #ffffff;
+}
+
+.content-purple .top-header .title {
+  color: #8e44ad;
+} 
+
+.content-purple .top-header .description {
+  color: #4d4d4d;
+}
+
+.content-purple .content-boxes .content-box .title {
+  color: #4b4b4b;
+}
+
+.content-purple .content-boxes .content-box .description {
+  color: #4b4b4b;
+}

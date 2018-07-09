@@ -1,0 +1,34 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Stats / stats white   -----------------------------*/
+/*--------------------------------------------------------------------------*/
+/* CSS from jquery-asProgress.js library*/
+@media (max-width: 768px) { 
+
+.stat-stats-white {
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.stat-stats-white  .title h2{
+  font-size: 3em;
+  padding-bottom: 7px;
+  margin-bottom: 0px;
+}
+.stat-stats-white .stat-stat {
+  padding: 0px;
+}
+
+.stat-stats-white .stat-running-number {
+  margin-top: 0px;
+}
+
+.stat-stats-white .stat-desc {
+  margin-top: 6px;
+  margin-bottom: 25px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Stats / stats white  ---------------------------------*/
+/*--------------------------------------------------------------------------*/

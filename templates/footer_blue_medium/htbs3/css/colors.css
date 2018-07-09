@@ -1,0 +1,17 @@
+footer#footer {
+  background-color: #2A80B9;
+}
+footer#footer,
+footer#footer .footer-menu ul li a {
+  color: #ffffff;  
+}
+footer#footer .footer-menu ul li a{
+  border-right-color: #3193D4;
+}
+footer#footer .footer-menu ul li a:hover,
+footer#footer .footer-menu ul li a:focus {
+  background-color: transparent;
+}
+footer#footer .footer-copyright-menu {
+  border-top-color: #3193D4;
+}

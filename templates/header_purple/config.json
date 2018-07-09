@@ -1,0 +1,20 @@
+{
+  "platform": {
+    "htbs2": true,
+    "drupal8": true,
+    "drupal7": true
+  },
+  "author": {
+    "name": "adalarasu d",
+    "twitter": "https://twitter.com/adalquardz",
+    "facebook": "https://www.facebook.com/adalarasu",
+    "linkedin": "https://www.linkedin.com/in/adalarasu/",
+    "github": "https://github.com/quardz",
+    "website": "http://quardz.com"
+  },
+  "name": "Header purple",
+  "machine_name": "header_purple",
+  "style_id": "60",
+  "region": "Header",
+  "created": "1419602251"
+}

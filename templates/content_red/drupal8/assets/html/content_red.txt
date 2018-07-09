@@ -1,0 +1,51 @@
+	<div class="row text-center top-header">
+					<h2 class="title">Our <span>Featured</span></h2>
+					<div class="description">Suspendisse eleifend urna vel malesuada gravida. Curabitur sit amet tortor eget mauris vestibulum vestibulum. Fusce pretium nisl sit amet molestie convi Ut cursus tincidunt feugiat. Maecenas sit amet est sit amet libero porttitor iaculis sit amet at lectus.</div>
+				</div>
+				<div class="row content-boxes">
+					<div class="col-sm-4 col-xs-12 content-box">
+						<div class="header">
+							<span class="icon"><i class="fa fa-desktop"></i></span>
+							<h4 class="title">Super Design</h4>
+						</div>
+							<div class="description">Lorem ipsum dolor sit amet, formsu consectetur adipiscing elit. Crasrwi enim diam, ornare eturoiv convallis vitae, efficitur id ex. Nullam gravidatmil.</div>
+					</div>
+					<div class="col-sm-4 col-xs-12 content-box">
+						<div class="header">
+							<span class="icon"><i class="fa fa-code"></i></span>
+							<h4 class="title">Clean Code</h4>
+						</div>
+							<div class="description">Lorem ipsum dolor sit amet, formsu consectetur adipiscing elit. Crasrwi enim diam, ornare eturoiv convallis vitae, efficitur id ex. Nullam gravidatmil.</div>
+					</div>
+					<div class="col-sm-4 col-xs-12 content-box">
+						<div class="header">
+							<span class="icon"><i class="fa fa-bars"></i></span>
+							<h4 class="title">Responsive</h4>
+						</div>
+							<div class="description">Lorem ipsum dolor sit amet, formsu consectetur adipiscing elit. Crasrwi enim diam, ornare eturoiv convallis vitae, efficitur id ex. Nullam gravidatmil.</div>
+					</div>
+				</div>
+				<div class="row content-boxes">
+					<div class="col-sm-4 col-xs-12 content-box">
+						<div class="header">
+							<span class="icon"><i class="fa fa-briefcase"></i></span>
+							<h4 class="title">Complete Pack</h4>
+						</div>
+							<div class="description">Lorem ipsum dolor sit amet, formsu consectetur adipiscing elit. Crasrwi enim diam, ornare eturoiv convallis vitae, efficitur id ex. Nullam gravidatmil.</div>
+					</div>
+					<div class="col-sm-4 col-xs-12 content-box">
+						<div class="header">
+							<span class="icon"><i class="fa fa-cogs"></i></span>
+							<h4 class="title">Retain Ready</h4>
+						</div>
+							<div class="description">Lorem ipsum dolor sit amet, formsu consectetur adipiscing elit. Crasrwi enim diam, ornare eturoiv convallis vitae, efficitur id ex. Nullam gravidatmil.</div>
+					</div>
+					<div class="col-sm-4 col-xs-12 content-box">
+						<div class="header">
+							<span class="icon"><i class="fa fa-clock-o"></i></span>
+							<h4 class="title">24/7 Support</h4>
+						</div>
+							<div class="description">Lorem ipsum dolor sit amet, formsu consectetur adipiscing elit. Crasrwi enim diam, ornare eturoiv convallis vitae, efficitur id ex. Nullam gravidatmil.</div>
+					</div>
+				</div>
+			

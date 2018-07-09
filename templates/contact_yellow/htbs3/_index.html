@@ -1,0 +1,55 @@
+      <section id="contact-yellow" class="contact-section contact-yellow">
+         <form class="contact-yellow-form contact-form container" action="contact.php" method="post" id="contact-yellow-form" accept-charset="UTF-8" role="form" >
+            <div class = "contact-wrap row">
+               <div class = "col-md-2 col-sm-4 col-xs-6 col-xs-offset-3 col-sm-offset-0  col-md-offset-0 contact-adddress">
+                  
+                     <h3>Address</h3>
+                     <address class = "address">
+                     <span class = "info">
+                     168 Edward Street, <br>
+                     London,<br>
+                     JC1V 4SR.
+                     </span>
+                     </address>
+                     <br>
+                     <br>
+                     <h3>Contact</h3>
+                     <span class = "info">
+                     <a href = "tel:"> +44(0)999 999 9999 </a>
+                     <br>
+                     <a href = "#">www.CMSbots.com</a>
+                     </span>
+                  
+                  <ul class = "follow-links clearfix list-inline">
+                     <li class="follow-link"><a href="#" title="Follow us on linkedin"><i class="fa fa-linkedin"></i></a></li>
+                     <li class="follow-link"><a href="#" title="Follow us on twitter"><i class="fa fa-twitter"></i></a></li>
+                     <li class="follow-link"><a href="#" title="Follow us on facebook"><i class="fa fa-facebook"></i></a></li>
+                     <li class="follow-link"><a href="#" title="Follow us on google-plus it"><i class="fa fa-google-plus"></i></a></li>
+                  </ul>
+               </div>
+               <div class = "col-md-10 col-sm-8 col-xs-12 contact-form">
+                  <div class="name-email row">
+                     <div class="form-group col-sm-6">
+                        <input type="text" class="form-control input-lg" id="contact-name" name = "name" placeholder="Name" required data-minlength="3" data-error="Minimum 3 letters and required">
+                        <span class="help-block with-errors"></span>
+                     </div>
+                     <div class="form-group col-sm-6">
+                        <input type="email" class="form-control input-lg" id="contact-email" name = "email"  placeholder="Email" required>
+                        <span class="help-block with-errors"></span>
+                     </div>
+                  </div>
+                  <div class="message row">
+                     <div class="form-group col-xs-12">
+                        <textarea class="form-control input-lg" id="contact-message" rows="9"  name = "message"  placeholder="Message" required></textarea>
+                        <span class="help-block with-errors"></span>
+                     </div>
+                  </div>
+                  <div class = "row">
+                     <div class="form-message col-xs-12"></div>
+                  </div>
+                  <input class="btn btn-lg form-submit" type="submit" id="edit-submit" name="op" value="SEND MESSAGE" />
+               </div>
+               <div class = "submitted-message col-md-9 hidden"><span class = "text-center">Thank You! Your message has been sent. Click here to submit once more.</span></div>
+            </div>
+         </form>
+      </section>

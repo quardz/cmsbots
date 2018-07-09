@@ -1,0 +1,43 @@
+ 
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Portfolio / Portfolio blue  -------------*/
+/*--------------------------------------------------------------------------*/
+.portfolio-blue {
+  background-color: #ffffff;
+}
+
+.portfolio-blue  #mixitup-options {
+  background-color: #ffffff;
+}
+
+.portfolio-blue #mixitup-options ul.option-set li {
+  border-color: #4b4b4b;
+  color: #4b4b4b;
+}
+
+.portfolio-blue #mixitup-options ul.option-set li.active {
+  background-color: #19b5fe;
+  color: #ffffff;
+  border-color: #19b5fe;
+}
+
+.portfolio-blue .mix .inner-box .portf-title a {
+  color: #19b5fe !important;
+}
+
+.portfolio-blue .mix .inner-box .portf-desc  {
+  color: #4b4b4b;
+}
+
+.mobile-carousel-controls span {
+  color: #ffffff;
+  background-color: #1DB5FD;
+}
+
+.mobile-carousel-controls span:hover {
+  background-color: #60CBFC;
+  color: #ffffff;
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Portfolio / Portfolio blue  ----------------*/
+/*--------------------------------------------------------------------------*/

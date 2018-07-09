@@ -1,0 +1,19 @@
+.footer-wrap,
+.footer-wrap .footer-menu ul li a,
+.footer-wrap ul li a,
+.footer-wrap a,
+.footer-wrap a:hover,
+.footer-wrap a:focus {
+  color: #f6f6f6;
+}
+.footer-wrap {
+  background-color: #2a80b9;
+}
+
+.footer-wrap .footer-menu ul li a {
+  border-right-color: #f6f6f6;
+}
+.footer-wrap .footer-menu ul li a:hover,
+.footer-wrap .footer-menu ul li a:focus {
+  background-color: transparent;
+}

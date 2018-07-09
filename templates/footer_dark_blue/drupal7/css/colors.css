@@ -1,0 +1,31 @@
+
+footer#footer .footer-message-menus-copyright-social,
+footer#footer .footer-subscribe .subscribe-form-submit {
+  background-color:#015b7e;
+}
+footer#footer .footer-subscribe {
+  background-color: #f9f9f9;
+}
+footer#footer .footer-subscribe .subscribe-form-submit,
+footer#footer .footer-subscribe #contact_email {
+  border-color: #015B7E;
+}
+
+footer#footer .footer-menu ul li,
+footer#footer .footer-menu ul li a {
+  background-color: transparent;
+} 
+
+footer#footer .footer-copyright-menu-social {
+  border-top-color: #21708f;
+}
+footer#footer .footer-menu ul li a,
+footer#footer .footer-subscribe .subscribe-form-submit,
+footer#footer .footer-message-menus-copyright-social,
+footer#footer .footer-social .follow-link-wrapper a,
+footer#footer .footer-social .follow-link-wrapper a:before{
+  color: #ffffff;
+}
+footer#footer .footer-social .follow-link-wrapper a:hover:before{
+  color: #21708f;
+}

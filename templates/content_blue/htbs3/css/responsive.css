@@ -1,0 +1,30 @@
+@media (max-width: 767px) {
+
+.content-blue {
+  padding-top: 7px;
+  padding-right: 7px;
+}
+
+.content-blue .top-header .title {
+  font-size: 1.70em;
+  margin-bottom: 5px;
+}
+
+.content-blue .top-header .description {
+  margin-bottom: 28px;
+}
+
+.content-blue .content-boxes .content-box .icon-circle {
+  margin-bottom: 0;
+}
+
+.content-blue .content-boxes .content-box .title {
+  margin-bottom: 8px; 
+}
+
+.content-blue .content-boxes .content-box .description {
+  margin-top: 0;
+  margin-bottom: 25px;
+}
+
+}

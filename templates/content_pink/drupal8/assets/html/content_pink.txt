@@ -1,0 +1,25 @@
+		<div class="content-boxes row">
+				<div class="col-sm-8 col-xs-12 content-box">
+					<h4 class="title">Curabitur sit amet molestie justo</h4>
+					<div class="description">Donec tincidunt mauris sit amet egestas dapibus. Proin pharetra tortor eu posuere facilitu
+					sis. Nam nisl nunc, lacinia nec lobortis et, tincidunt id purus. Nunc faucibus scelerisqueres justo et rutrum. Sed sagittis et lectus vel rutrum. Maecenas dapibus lorem in lorem placer srat gravida. Suspendisse potenti.
+				    </div>				
+					<div class="download-links">
+						<a href="http://www.google.com" class="download-buttons">
+							<span>Download in</span>
+							<i class="fa fa-android"></i>					
+						</a>
+						<a href="#" class="download-buttons">
+							<span>Download in</span>
+							<i class="fa fa-apple"></i>					
+						</a>
+						<a href="#" class="download-buttons">
+							<span>Download in</span>
+							<i class="fa fa-windows"></i>					
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-4 col-xs-12 content-pink-video">
+					<iframe src="https://www.youtube.com/embed/o-yUqY9kLbw?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen></iframe>
+				</div>
+			</div>

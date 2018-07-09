@@ -1,0 +1,156 @@
+.footer-dark-blue .footer-message-menus-copyright-social {
+  font-family: 'Roboto', sans-serif;
+  padding-top: 40px;
+  padding-bottom: 17px;
+}
+
+.footer-dark-blue .footer-subscribe {
+  padding-top: 45px;
+  padding-bottom: 42px;
+}
+
+.footer-dark-blue .footer-subscribe .subscribe-form-submit {
+  background: #015B7E;
+  border: 2px solid;
+  border-radius: 0px;
+  font-size: 1.5em;
+  height: 46px;
+  font-weight: lighter;
+  padding: 7px 4px;
+}  
+
+.footer-dark-blue .footer-subscribe #contact_email {
+  width: 60%;
+  border: 1px solid;
+  margin-right: 5%;
+  border-radius: 0px;
+  font-size: 1.2em;
+}
+
+.footer-dark-blue .footer-subscribe .subscribe-form-submit {
+  width: 33.33%;
+}
+
+.footer-dark-blue .footer-message {
+  padding-bottom: 30px;
+}
+
+.footer-dark-blue .footer-message h2.title {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.footer-dark-blue .footer-message .block-content {
+  font-size: 1em;
+  font-weight: normal;
+  text-align: left;
+  padding-right: 10%;
+  line-height: 1.6em;
+}
+
+.footer-dark-blue .footer-blocks {
+  padding-top: 10px;
+  padding-bottom: 7px;
+}
+
+.footer-dark-blue .footer-menus {
+  padding-left: 0;  
+}
+
+.footer-dark-blue .footer-menu ul li {
+  background: transparent;
+}
+
+.footer-dark-blue .footer-menu ul li a {
+  font-size: 1.1em;
+  background: transparent;
+  font-weight: normal;
+  padding: 1px 1px;
+  margin-bottom: 2px;
+}  
+
+.footer-dark-blue .footer-copyright-menu-social .footer-menu ul li a {
+  font-size: 1em;
+  line-height: 2em;
+  margin-right: 10px;
+}
+
+.footer-dark-blue .footer-menu ul li a:hover {
+  text-decoration: underline;
+}  
+
+.footer-dark-blue .footer-blocks .title h2,
+.footer-dark-blue .footer-blocks .block-title {
+  font-size: 1.7em;
+  font-weight: normal;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.footer-dark-blue .footer-copyright {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+
+.footer-dark-blue .footer-copyright h2.title  {
+  font-size: 1.2em;
+  font-weight: lighter;
+  margin-bottom: 25px;
+}  
+
+.footer-dark-blue .footer-copyright .block-content {
+  line-height: 2em;
+  font-size: 1em;
+  font-weight: normal;
+}
+
+.footer-dark-blue .footer-copyright-menu-social {
+  border-top: 1px solid;
+  padding-top: 27px;
+}
+
+.footer-dark-blue .footer-copyright-menu-social ul li i {
+  padding-right: 10px;
+  font-size: 1em;
+  padding-top: 5px;
+  font-weight: normal;
+}
+
+.footer-dark-blue .footer-copyright-menu-social .footer-menu {
+  padding-left: 0px;
+}
+
+.footer-dark-blue .footer-social {
+  padding-right: 0;
+}
+
+.footer-dark-blue .footer-social .block-content .follow-link-wrapper i {
+  padding-left: 0px;
+  width: 20px;
+  text-align: center;
+  padding-top: 0px;
+  background: none;
+  height: 35px;
+  margin-right: 0px;
+  padding-top: 0px;
+}
+  
+.footer-dark-blue .footer-social .block-content .follow-link-wrapper i:hover {
+  text-decoration: none;
+}
+
+.footer-dark-blue .footer-social .block-content {
+  display: inline-block;
+  padding-top: 0px;
+}
+
+.footer-dark-blue .footer-social .block-content .follow-link-wrapper i:before {
+  font-size: 1.3em;
+  font-weight: lighter;
+  font-family: FontAwesome;
+  text-align: center;
+  padding-left: 3px;
+}

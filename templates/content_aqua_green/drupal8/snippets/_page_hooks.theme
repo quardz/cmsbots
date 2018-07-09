@@ -1,0 +1,3 @@
+  if (_mbase_setting('section_content_aqua_green_visibility', $theme, NULL)) {
+    $variables['snippet_content_aqua_green']['#markup'] = _mbase_setting('section_content_aqua_green_code', $theme, NULL);
+  }

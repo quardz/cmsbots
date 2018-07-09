@@ -1,0 +1,63 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Header / Header menu yellow  ----------------------*/
+/*--------------------------------------------------------------------------*/
+.header-yellow-menu {
+  font-family: roboto;
+}
+
+.header-yellow-menu  nav{
+  max-height: 80px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.header-yellow-menu  .navbar-nav>li  {
+  margin-top:15px;
+}
+
+.header-yellow-menu   .navbar-nav>li>a {
+  text-transform: uppercase;
+  font-size: 1.2em;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.header-yellow-menu  .navbar-nav>li>a.menu-highlight {
+  font-size: 1em;
+  text-transform: none;
+}
+
+.header-yellow-menu    #navigation {
+  border:none;
+}
+
+.header-yellow-menu .site-name-logo {
+  margin-top:20px;
+}
+
+.header-yellow-menu  .navbar-nav {
+  margin-top: 10px;
+}
+
+.header-yellow-menu  .navbar-default .navbar-toggle {
+  border-radius: 0px;
+}
+
+.header-yellow-menu  .navbar-nav .request-early {
+  padding: 1px 5px;
+  display: block;
+  margin-top: 12px;
+}
+
+.header-yellow-menu  .navbar-nav .request-early a {
+  font-size: 1.12em;
+  text-transform: none;
+  text-shadow: none;
+  font-weight: normal;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Header / Header menu yellow  -------------------------*/
+/*--------------------------------------------------------------------------*/

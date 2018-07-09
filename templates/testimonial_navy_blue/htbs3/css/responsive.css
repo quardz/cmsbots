@@ -1,0 +1,33 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Testimonial / Testimonial navy blue----------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) { 
+
+.testimonial-navy-blue {
+  padding-top: 28px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+}
+
+.testimonial-navy-blue .testi-body {
+  font-size: 1.2em;
+}
+
+.testimonial-navy-blue .testi-circle img {
+  height: 103px;
+  width: 103px;
+}
+
+.testimonial-navy-blue .testi-image {
+  padding-bottom: 20px;
+  
+}
+.testimonial-navy-blue .testi-name {
+  width: 90%;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------    Ends : Testimonial / Testimonial navy blue----------------*/
+/*--------------------------------------------------------------------------*/

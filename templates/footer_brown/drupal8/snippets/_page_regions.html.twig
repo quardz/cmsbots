@@ -1,0 +1,42 @@
+<footer id = "footer-wrap" class = "footer-section section footer-wrap text-center">
+
+  {% if page.footer_signup %}
+  <div class = "footer-subscribe">
+    <div class = "{{ container }}">
+    {{ page.footer_signup }}
+    </div>
+  </div>
+  {% elseif snippet.footer_signup %}
+  <div class = "footer-subscribe">
+    <div class = "{{ container }}">
+    {{ snippet.footer_signup }}
+    </div>
+  </div>
+  {% endif %}
+        
+  <div class = "footer-copyright-social">
+    <div class = "{{ container }}">
+      <div class = "row">
+        {% if page.footer_copyright %}
+        <div class = "col-sm-8 footer-copyright text-left">
+          {{ page.footer_copyright }}
+        </div>
+        {% elseif snippet.footer_copyright %}
+        <div class = "col-sm-8 footer-copyright text-left">
+          {{ snippet.footer_copyright }}
+        </div>
+        {% endif %}      
+
+        {% if page.footer_social %}
+        <div class = "footer-social col-sm-4 text-right">
+          {{ page.footer_social }}
+        </div>
+        {% elseif snippet.footer_social %}
+        <div class = "footer-social col-sm-4 text-right">
+          {{ snippet.footer_social }}
+        </div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</footer>

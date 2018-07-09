@@ -1,0 +1,55 @@
+
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Team / Team Green -----------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) {  
+
+.team-green {
+  padding-top: 31px;
+  padding-bottom: 0px;
+}
+
+.team-green .team-header h2 {
+  padding: 0px;
+  font-size: 23px;
+  padding: 8px 15px;
+}
+
+.team-green .team-header .desc {
+  font-size: 14px;
+  padding: 10px 12px;
+}
+
+.team-dark-green  .carousel-inner {
+  padding-bottom: 100px;
+}
+
+.team-dark-green  .carousel-inner .item {
+  margin: 0;
+}
+
+}
+
+@media (min-width: 769px) and (max-width: 992px) {  
+
+.team-green .team-header .desc {
+  padding: 3px 15px;
+}
+
+}
+
+@media (min-width: 993px) and (max-width: 1200px) {  
+
+.team-green .team-header h2 {
+  padding: 26px;
+  padding-left: 36px;
+}
+
+.team-green .team-designation {
+  padding-left: 0px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Team / Team Green  -------------------------*/
+/*--------------------------------------------------------------------------*/

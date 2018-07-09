@@ -1,0 +1,70 @@
+@media (max-width: 767px) {
+  .footer-wrap {
+    padding-top: 25px;
+    padding-bottom: 27px;
+  }
+  .footer-wrap .footer-menus h2 {
+    margin-top: 20px !important;
+    margin-bottom: 0px;
+    padding-bottom: 0;
+  }
+  
+  .footer-wrap .footer-message h2 {
+    margin-bottom: 15px;
+  }
+
+  .footer-wrap .footer-message-content .camera-icon i {
+    margin-top: 15px;
+  }
+
+  .footer-wrap .footer-message {
+    padding-bottom: 6px;
+  }
+
+  .footer-wrap .footer-message .block-content {
+    padding-left: 2%;
+    padding-right: 2%;
+    font-size: 15px;
+  }
+
+  .footer-wrap .footer-menus-signup {
+    text-align: center;
+  }
+
+  .footer-wrap .footer-menus-signup .title h2 {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+  }
+
+  .footer-wrap .footer-menus-signup .footer-signup-title {
+    margin-bottom: 20px;
+  }
+
+  .footer-wrap #mainchimp-subscribe {
+    border-bottom: 0px;
+  }
+
+  .footer-wrap #contact_email {
+    border: none;
+    width: 90%;
+    border-bottom: 1px solid #ffffff;
+    display: inline;
+    border-radius: 0px;
+    text-align: center
+  }
+
+  .footer-wrap .subscribe-form-submit {
+    display: inline;
+    width: 90%;
+    text-align: center;
+    margin-top: 30px;
+    float: none; 
+    border-radius: 0px;
+    height: 45px;
+    font-style: normal;
+  }
+
+  .footer-wrap .footer-copyright {
+    text-align: center;
+  }
+}

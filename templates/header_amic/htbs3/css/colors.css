@@ -1,0 +1,56 @@
+.header-amic-content {
+  background-color:#462315;
+}  
+.header-amic-content .main-title,
+.header-amic-content .main-desc,
+.header-amic-content .block-icon-circle,
+.header-amic-content .block-desc,
+.header-amic-content .block-text,
+#navbar .dropdown-menu a,
+#navbar .dropdown-menu a:hover,
+#navbar .dropdown-menu a.active,
+#navbar .navbar-nav>li>a.menu-highlight,
+#navbar .navbar-nav>li>a{
+  color:#ffffff; 
+}
+.header-amic-content .main-title span{
+  color:#2DCA6E;
+}
+.header-amic-content .block-icon-circle {
+  background: #f3ebe6;
+}
+.header-amic-content .block-icon-circle i {
+  color: #ff8742;
+}
+.header-amic-content .block-icon-circle i:hover {
+  color: #eec2a6;
+}
+#navbar {
+  background-color: #c86e3d;
+}  
+  
+#navbar .dropdown-menu,
+#navbar  .navbar-toggle .icon-bar {
+  background: #ff8742;
+}
+.header-amic-content .block-icon-circle:hover  {
+  background: #fb9458;
+}
+.header-amic-content .block-icon-circle i {
+  color: #ff8742;
+}
+#navbar .navbar-toggle {
+  border-color: #FF8742;
+}
+#navbar .navbar-nav>li>a:focus, 
+#navbar .navbar-nav>li>a:hover,
+#navbar .navbar-nav>li>a.active, 
+#navbar .navbar-nav a:focus, 
+#navbar .navbar-nav a:hover,
+#navbar .navbar-nav a.active {
+  color: #ffa800;
+  background:transparent;
+}
+#navbar .navbar-nav>li>a.menu-highlight {
+  background:#ffa800;
+}

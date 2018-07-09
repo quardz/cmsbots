@@ -1,0 +1,68 @@
+body.navbar-is-fixed-top.path-frontpage {
+  padding-top: 0px !important;
+}
+.logo img {
+  height: 40px;
+}
+#navigation{
+  margin-top; 10px;
+}
+header#navbar nav {
+  margin-top:15px;
+}
+header#navbar .navbar-nav > li > a {
+  font-family: roboto;
+  font-size: 13px;
+  font-weight: normal;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  text-transform: uppercase;
+  border-right:1px solid #ffffff;
+}
+header#navbar .navbar-nav > li > a.last {
+  border-right:0px;
+}
+header#navbar .navbar-toggle {
+  border-radius: 0px;
+}
+.header-purple-content {
+  background-image: url(images/css-header-header-purple-main-background.jpg); 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height:580px;
+}  
+.header-purple-content  .main-block {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+.header-purple-content  .main-block-inner {
+  width:100%;
+  display:block;
+}
+.header-purple-content  .main-desc{
+  margin-top: 5px;
+  font-size: 1.7em;
+}
+.header-purple-content  .main-title {
+  font-size: 4.5em;
+  font-weight: bold;
+}
+.header-purple-content  .email-field {
+  border-radius: 0px;
+  width: 40%;
+  margin-right: 0px;
+  border: 2px solid #ffffff;
+}
+.header-purple-content  .subscribe-button {
+  border-radius: 0px;
+  border: 2px solid #ac92ed;
+  margin-left: -5px;
+}  
+.header-purple-content  .main-signup-form-wrap {
+  margin-top: 50px;
+}

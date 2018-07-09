@@ -1,0 +1,67 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Blognews / Blog Green  ----------------------------*/
+/*--------------------------------------------------------------------------*/
+.blog-green {
+  background-color: #EEEEEE;
+}
+
+.blog-green .blog-item {
+  background: #EEEEEE;
+  border-color:  #EEEEEE;
+}
+
+.blog-green .blog-box-item-inner {
+  background: #ffffff;
+}
+
+.blog-green  h2 {
+  color: #13BC99;
+}
+
+.blog-green .blog-readmore a{
+  color: #353535;
+}
+
+.blog-green .blog-title {
+  color: #16BD98;
+}
+
+.blog-green .posted-date {
+  background-color: #16BD98;
+  color: #ffffff;
+}
+
+.blog-green .descrip {
+  color: #595959;
+}
+
+.blog-green .descrip a {
+  color: #16BD98;
+}
+
+.blog-green .meta-info {
+  color: #343434;
+}
+
+.blog-green .author {
+  color: #343434;
+}
+
+.blog-green .comments-count {
+  color: #343434;
+}
+
+.blog-green .mobile-carousel-controls span {
+  color: #ffffff;
+  background-color: #16BD98;
+}
+
+.blog-green .mobile-carousel-controls span:hover {
+  background-color: #353535;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Blognews / Blog Green  -------------------------------*/
+/*--------------------------------------------------------------------------*/
+ 
+ 

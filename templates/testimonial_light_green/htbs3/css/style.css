@@ -1,0 +1,72 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Testimonial / Testimonial light green -------------*/
+/*--------------------------------------------------------------------------*/
+.testimonial-light-green {
+  padding-top: 24px;
+  padding-bottom: 30px;
+  font-family: roboto;
+}
+
+.testimonial-light-green h2{
+  font-weight: normal;
+  font-size: 33px;
+}
+
+.testimonial-light-green .item {
+  padding:18px;
+}
+
+.testimonial-light-green .inner-box {
+  padding: 25px 30px;
+  padding-bottom: 20px;
+}
+
+.testimonial-light-green .testi-image {
+  display: block;
+}
+
+.testimonial-light-green .testi-image img{
+  width: 125px;
+  height: 125px;
+  border-radius: 50%;
+}
+
+.testimonial-light-green .testi-body {
+  display: block;
+  font-weight: lighter;
+  padding-top: 10px;
+  font-size: 17px;
+  font-style: italic;
+  line-height: 26px;
+}
+ 
+.testimonial-light-green .testi-designation {
+  display: block;
+  padding-top: 3px;
+  font-size: 17px;
+  font-weight: lighter;
+}
+
+.testimonial-light-green .testi-name {
+  display: block;
+  font-size: 21px;
+  padding-top: 15px;
+}
+
+.testimonial-light-green .mobile-carousel-controls {
+  padding: 0px 18px;
+}
+
+.testimonial-light-green .mobile-carousel-controls span {
+  width: 50%;
+  float: left;
+  font-size: 25px;
+  text-align: center;
+  font-weight: lighter;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Testimonial / Testimonial light green ----------------*/
+/*--------------------------------------------------------------------------*/

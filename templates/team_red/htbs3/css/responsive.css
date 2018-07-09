@@ -1,0 +1,100 @@
+
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Team / Team red   -----------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) { 
+
+.team-red {
+  padding-top: 26px;
+  padding-bottom: 30px;
+}
+
+.team-red .team-header h2 {
+  font-size: 27px;
+}
+
+.team-red .team-header .desc {
+  font-size: 15px;
+  padding-bottom: 5px;
+  padding: 3px 15px;
+}
+
+.team-red  .carousel-inner {
+  padding: 0px;
+  margin: 0;
+}
+
+.team-red .team-name {
+  padding-top: 2px;
+}
+
+.team-red .team-body {
+  font-size: 12px;
+  line-height: 140%;
+  padding-top: 0px;
+}
+
+.team-red  .carousel-inner .item {
+  margin: 0;
+}
+
+.team-red .team-name {
+  font-size: 21px;
+}
+ 
+.team-red .team-designation{
+  font-size: 14px;
+}
+
+.team-red .team-header {
+  margin-bottom: 0px;
+}
+
+.team-red .team-inner {
+  padding: 0;
+}
+
+.team-red .team-social {
+  padding-right: 0px;
+}
+
+.team-red .team-social a {
+  font-size: 18px;
+}
+
+}
+
+@media (min-width: 769px) and (max-width: 991px) { 
+
+.team-red .team-body {
+  font-size: 15px;
+  line-height: 180%;
+}
+
+}
+
+@media (min-width: 992px) and (max-width: 1200px) { 
+
+.team-red .team-name {
+  font-size: 20px;
+  padding-top: 4px;
+}
+
+.team-red .team-designation{
+  font-size: 15px;
+}
+
+.team-red .team-body {
+  font-size: 13px;
+  line-height: 150%;
+  padding-top: 0px;
+}
+
+.team-red .team-social a {
+  font-size: 18px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Team / Team red   --------------------------*/
+/*--------------------------------------------------------------------------*/

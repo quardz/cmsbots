@@ -1,0 +1,35 @@
+				<div class="row text-center top-header">
+					<h2 class="title">FEATURES</h2>
+					<div class="description">AENEAN DUI LOREM, HENDRERIT VITAE ACCUMSAN UT, PELLENTESQUE UT MI.</div>
+				</div>
+				<div class="row content-boxes">
+					<div class="col-sm-3 col-xs-12 text-center content-box">
+						<div class="header">
+							<span class="icon-circle"><i class="fa fa-paint-brush"></i></span>
+							<h4 class="title">New Design</h4>
+						</div>
+						<div class="description">Aliquam ut odio vitae justo pellentesque ullamcorper convallis. Maecenas,<br>convallis viverra in.</div>
+					</div>
+					<div class="col-sm-3 col-xs-12 text-center content-box">
+						<div class="header">
+							<span class="icon-circle"><i class="fa fa-laptop"></i></span>
+							<h4 class="title">Responsive Layout</h4>
+						</div>
+						<div class="description">Aliquam ut odio vitae justo pellentesque ullamcorper convallis. Maecenas,<br>convallis viverra in.</div>
+					</div>
+					<div class="col-sm-3 col-xs-12 text-center content-box">
+						<div class="header">
+							<span class="icon-circle"><i class="fa fa-clock-o"></i></span>
+							<h4 class="title">Save Time</h4>
+						</div>
+						<div class="description">Aliquam ut odio vitae justo pellentesque ullamcorper convallis. Maecenas,<br>convallis viverra in.</div>
+					</div>
+					<div class="col-sm-3 col-xs-12 text-center content-box">
+						<div class="header">
+							<span class="icon-circle"><i class="fa fa-drupal"></i></span>
+							<h4 class="title">Drupal</h4>
+						</div>
+						<div class="description">Aliquam ut odio vitae justo pellentesque ullamcorper convallis. Maecenas,<br>convallis viverra in.</div>
+					</div>
+				</div>
+		

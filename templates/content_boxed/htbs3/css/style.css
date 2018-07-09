@@ -1,0 +1,41 @@
+.content-boxed {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.content-boxed h2 {
+  padding-bottom: 25px;
+}
+.content-boxed .content-box {
+  padding: 10px;
+}
+.content-boxed .intro-text {
+  font-size: 1.2em;
+  padding-bottom: 25px;
+}
+.content-boxed .content-box-inner .title {
+  min-height: 44px;
+  margin: 0px;
+  padding: 13px 15px;
+  font-size: 16px;
+  line-height: 1.2;
+}
+.content-boxed .content-box-inner .details {
+  padding: 13px 15px;
+}
+.content-boxed .content-box-inner .desc {
+  padding-bottom: 13px;
+  font-size: 0.9em;
+  line-height: 18px;
+  min-height: 50px;
+}
+.content-boxed .content-box-inner .cta {
+  padding-top: 13px;
+  border-top: 1px solid #cccccc;
+}
+/* cmsbots rounded corner 30% force */
+.cb-rc-5px-fs {
+  border-radius: 5px !important;
+}
+.cb-bordered-2 {
+  border: 1px solid #4F5458;
+}

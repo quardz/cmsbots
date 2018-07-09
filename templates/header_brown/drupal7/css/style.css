@@ -1,0 +1,98 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Header / Header brown  ----------------------------*/
+/*--------------------------------------------------------------------------*/ 
+.header-brown-content {
+  background-image: url(
+  "images/css-header-header-brown-main-background.jpg"); 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 580px;
+}  
+
+.header-brown-content  .main-block {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.header-brown-content  .main-desc{
+  margin-top: 5px;
+  font-size: 1.2em;
+}
+ 
+.header-brown-content  .main-title-first {
+  font-size: 3.5em;
+  font-weight: bold;
+  line-height: 10px;
+}
+
+.header-brown-content .main-title-second {
+  font-size: 7em;
+  font-weight: bold;
+}
+
+.header-brown-menu nav {
+  margin-top: 15px;
+}
+
+.header-brown-menu #nav.affix {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+}
+
+.header-brown-menu #navigation ul > li .active {
+  border-bottom: 2px solid;  
+}
+
+.header-brown-menu .navbar-nav > li > a:focus, 
+.header-brown-menu .navbar-nav > li > a:hover {
+  background: transparent;
+  color: none;
+  border-bottom: 2px solid;
+}
+
+.header-brown-menu .navbar-nav > li > a {
+  font-family: roboto;
+  font-size: 1.3em;
+  font-weight: normal;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  text-transform: uppercase;
+}
+
+.header-brown-menu  .navbar-toggle {
+  border-radius: 0px;
+}
+
+.header-brown-menu .navbar-scrolled  {
+  border: none;
+  background-image: none;
+  background: #4e2e28;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  border-radius: 0px;
+}
+
+.header-brown-menu .navbar-scrolled  .navbar  {
+  min-height: 0px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.header-brown-menu .navbar-scrolled .logo img{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.header-brown-menu .navbar-scrolled  .navbar-nav > li > a {
+  padding-top: 12px;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Header / Header brown  -------------------------------*/
+/*--------------------------------------------------------------------------*/ 

@@ -1,0 +1,60 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : PriceTable / Price table blue 	--------------------*/
+/*--------------------------------------------------------------------------*/
+.price-pricetable-blue {
+  background-color: #ffffff;
+}
+
+.price-pricetable-blue .price-box:hover .price-header,
+.price-pricetable-blue .price-box:hover .price-features{
+  background-color: #5E9CEA;
+}
+
+.price-pricetable-blue h2,
+.price-pricetable-blue h3 {
+  color:#5E9CEA;
+}
+
+.price-pricetable-blue .price-desc {
+  color: #4b4b4b;
+} 
+
+.price-pricetable-blue .price-box:hover h3,
+.price-pricetable-blue .price-box:hover .price-features-list {
+  color: #ffffff;
+}
+
+.price-pricetable-blue .price-box:hover .price-features {
+  border-top-color: #F9F9F9;
+}
+
+.price-pricetable-blue .btn {
+  background-color: #5E9CEA;
+  color: #ffffff;
+}
+
+.price-pricetable-blue .price-box:hover .btn {
+  background-color: #ffffff;
+  color: #5E9CEA;
+} 
+
+.price-pricetable-blue .price-header {
+  background-color: #EBEBEB;
+}
+
+.price-pricetable-blue .price-features {
+  background-color: #F9F9F9;
+} 
+
+.price-pricetable-blue .price-price {
+  border-color: #5E9CEA;
+  background: #ffffff;
+}
+
+.price-pricetable-blue .price-price .price-cost {
+  color: #5E9CEA;
+}
+/*--------------------------------------------------------------------------*/
+/*------------    Ends : PriceTable / Price table blue	--------------------*/
+/*--------------------------------------------------------------------------*/

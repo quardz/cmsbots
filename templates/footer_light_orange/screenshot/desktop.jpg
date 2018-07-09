@@ -1,0 +1,12 @@
+--2018-07-07 11:06:35--  http://q2test.s3.amazonaws.com/img/style/screenshots/footer_light_orange.jpg
+Resolving q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)... 52.216.82.80
+Connecting to q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)|52.216.82.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78261 (76K) [image/jpeg]
+Saving to: 'footer_light_orange.jpg'
+
+     0K .......... .......... .......... .......... .......... 65% 57.7K 0s
+    50K .......... .......... ......                          100%  108K=1.1s
+
+2018-07-07 11:06:37 (68.7 KB/s) - 'footer_light_orange.jpg' saved [78261/78261]
+

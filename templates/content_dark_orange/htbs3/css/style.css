@@ -1,0 +1,70 @@
+.content-dark-orange {
+  font-family: "Roboto",sans-serif;
+  padding-bottom: 26px;
+  padding-top: 26px;
+}
+
+.content-dark-orange .top-header .title {
+  font-size: 4.1em;
+  margin-bottom: 15px;
+}
+
+.content-dark-orange .top-header {
+  margin-bottom: 15px;
+}
+
+.content-dark-orange .top-header .description {
+  font-size: 1.08em;
+}
+
+.content-dark-orange .content-boxes .content-boxes-left .title {
+  font-size: 1.8em;
+  font-weight: normal;
+}
+
+.content-dark-orange .content-boxes .content-boxes-left .description {
+  font-size: 1.2em;
+}
+
+.content-dark-orange .content-boxes .content-boxes-right .title {
+  font-size: 1.8em;
+  font-weight: normal;
+}
+
+.content-dark-orange .content-boxes .content-boxes-right .description {
+  font-size: 1.2em;
+}
+
+.content-dark-orange .content-boxes-left  .content-box {
+  margin-right: 10px;
+}
+
+.content-dark-orange .content-box {
+  padding-bottom: 15px;
+}
+
+.content-dark-orange .content-box .icon-box {
+  margin-top: 15px;
+  border: 1px solid;
+  display: block;
+  height: 85px;
+  padding: 7px;
+  text-align: center;
+  width: 85px;
+}
+
+.content-dark-orange .content-box .icon-inner-box {
+  display: block;
+  height: 68px;
+  width: 68px;
+}
+
+.content-dark-orange .content-box .icon-inner-box i {
+  font-size: 3.5em;
+  padding-top: 11px;
+  padding-bottom: 15px;
+}
+
+.content-dark-orange .content-boxes-right .content-box-right {
+  padding-left: 30px;
+}

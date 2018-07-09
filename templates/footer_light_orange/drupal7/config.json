@@ -1,0 +1,30 @@
+{
+  "regions": [
+    {
+      "region": "footer",
+      "name": "Footer"
+    },
+    {
+      "region": "footer_menu1",
+      "name": "Footer Menu 1"
+    },
+    {
+      "region": "footer_menu2",
+      "name": "Footer Menu 2"
+    },
+    {
+      "region": "footer_menu3",
+      "name": "Footer Menu 3"
+    },
+    {
+      "region": "footer_copyright",
+      "name": "Footer Copyright"
+    },
+    {
+      "region": "footer_social",
+      "name": "Footer Social"
+    }
+  ],
+  "default_block_placements": [],
+  "color_settings": []
+}

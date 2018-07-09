@@ -1,0 +1,54 @@
+body.front.navbar-is-static-top header#navbar,
+body.front.navbar-is-static-top header#navbar.affix,
+body.front header#navbar.navbar-fixed-top.affix-top,
+header#navbar ul.dropdown-menu a,
+header#navbar .navbar-nav > li > a:focus,
+header#navbar .navbar-nav > li > a:hover,
+.navbar-default .navbar-toggle:focus, 
+.navbar-default .navbar-toggle:hover,
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover,
+header#navbar ul.dropdown-menu a:focus,
+header#navbar ul.dropdown-menu a:hover,
+header#navbar ul.dropdown-menu a.active,
+header#navbar.navbar-fixed-top {
+  background-color: transparent;
+}  
+
+body.not-front header#navbar,
+header#navbar.navbar-fixed-top.affix,
+header#navbar ul.dropdown-menu,
+header#navbar.navbar-inverse,
+header#navbar.navbar-default,
+body.front.navbar-is-static-top .navbar-default .navbar-toggle .icon-bar {
+  background-color: #2dca6e;
+}
+body.front .affix.navbar-default .navbar-toggle,
+header#navbar #navigation ul > li .active
+body.front.navbar-is-static-top .navbar-default .navbar-toggle {
+  border-color: #2dca6e;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #ffffff;  
+}
+body.front .navbar-default .navbar-toggle,
+.navbar-default .navbar-toggle {
+  border-color: #ffffff;  
+}
+
+body.front.navbar-is-fixed-top header#navbar ul.navbar-nav>li>a.active,
+#header-header1-content  .main-title span {
+  color: #2dca6e;
+}
+body.not-front header#navbar,
+header#navbar.navbar-fixed-top.affix, 
+body.front.navbar-is-fixed-top header#navbar.affix ul.navbar-nav>li>a.active,
+.navbar-inverse .navbar-brand,
+.navbar-brand,
+#header-header1-content  .main-title,
+#header-header1-content  .main-desc,
+header#navbar .navbar-nav > li > a,
+header#navbar ul.dropdown-menu a{
+  color:#ffffff;
+}

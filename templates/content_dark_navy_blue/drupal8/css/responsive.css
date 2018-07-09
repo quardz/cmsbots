@@ -1,0 +1,69 @@
+@media (max-width: 767px) {
+
+.content-dark-navy-blue {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.content-dark-navy-blue .top-header .title{
+  font-size: 1.88em;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0;
+}
+
+.content-dark-navy-blue .top-header .download-links {
+  display: block;
+  margin: auto auto 20px;
+}
+
+.content-dark-navy-blue .top-header .download-links .learnmore {
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.content-dark-navy-blue .top-header .download-links .buynow {
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.content-dark-navy-blue .content-box-left img {
+  width: 100%;
+}
+
+.content-dark-navy-blue .content-boxes {
+  margin-top: 2px;
+}
+
+.content-dark-navy-blue .content-boxes .content-box-right .point-title {
+  font-size: 1.8em;
+  margin-bottom: 22px;
+  margin-top: -19px;
+}
+ 
+.content-dark-navy-blue .content-boxes .content-box-right li {
+  font-size: 1.1em;
+}
+
+.content-dark-navy-blue .content-boxes .content-box-right {
+  padding-left: 0;
+  padding-top: 40px;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+
+.content-dark-navy-blue .content-box-left img {
+  width: 100%;
+}
+
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+
+.content-dark-navy-blue .content-box-left img {
+  width: 100%;
+}
+
+}

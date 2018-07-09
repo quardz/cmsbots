@@ -1,0 +1,26 @@
+.footer-wrap .footer-copyright-social{
+  background-color: #513b2d;
+}
+.footer-wrap .footer-subscribe {
+  background-color: #5f4534;
+}
+.footer-wrap .footer-subscribe .subscribe-form-submit,
+.footer-wrap .footer-subscribe button{
+  background-color: #513b2d;
+  border-color: #513b2d;
+}  
+.footer-wrap .footer-subscribe #contact_email {
+  color: #513b2d;
+}
+.footer-wrap,
+.footer-wrap a,
+.footer-wrap ul li a,
+.footer-wrap .footer-copyright-social,
+.footer-wrap .footer-subscribe .form-control-static,
+.footer-wrap .footer-subscribe .subscribe-form-submit,
+.footer-wrap .footer-social .follow-link-wrapper i:before{
+  color: #f6f6f6;
+}
+.footer-wrap .footer-social .follow-link-wrapper i:hover:before{
+  color: #5f4534;
+}

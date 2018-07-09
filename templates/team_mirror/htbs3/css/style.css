@@ -1,0 +1,118 @@
+
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Team / Team Mirror ----------------------*/
+/*--------------------------------------------------------------------------*/
+.team-mirror {
+  font-family: roboto;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.team-mirror .team-header {
+  margin-bottom: 20px;
+}
+
+.team-mirror .team-header h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 27px;
+  font-weight: normal;
+}
+
+.team-mirror .team-header .desc {
+  padding: 15px 15px;
+  font-size: 17px;
+  font-weight: lighter;
+  padding-bottom: 20px;
+}
+
+.team-mirror .team-inner {
+  padding: 10px;
+  padding-bottom: 32px;
+}
+
+.team-mirror .right-side .team-image {
+  float: left;
+  text-align: right;
+  padding: 0px;
+}
+
+.team-mirror .right-side .team-content {
+  float: right;
+}
+
+.team-mirror .left-side {
+  text-align: right;
+}
+
+.team-mirror .left-side .team-image {
+  float: right;
+  text-align: left;
+  padding: 0px;
+}
+
+.team-mirror .left-side .team-content {
+  float: left;
+}
+
+.team-mirror .team-image  img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 1px solid;
+}
+
+.team-mirror .team-name {
+  font-size: 26px;
+  font-weight: normal;
+  display: block;
+  text-transform: uppercase;
+}
+
+.team-mirror .team-designation {
+  display: block;
+  font-size: 19px;
+  font-weight: lighter;
+}
+
+.team-mirror .team-body {
+  display: block;
+  font-size: 17px;
+  font-weight: lighter;
+}
+
+.team-mirror .team-social {
+  display: block;
+  margin-top: 9px;
+}
+
+.team-mirror .team-social a {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  display: block;
+  text-align: center;
+  padding-top: 5px;
+  font-size: 16px;
+}
+
+.team-mirror .carousel-inner {
+  width: auto;
+}
+
+.mobile-carousel-controls {
+  padding: 15px;
+}
+
+.mobile-carousel-controls span {
+  width: 50%;
+  float: left;
+  font-size: 25px;
+  text-align: center;
+  font-weight: lighter;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Team / Team Mirror  ------------------------*/
+/*--------------------------------------------------------------------------*/

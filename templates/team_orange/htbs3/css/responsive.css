@@ -1,0 +1,52 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Testimonial / Testimonial orange  -----------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) { 
+
+.testimonial-orange {
+  padding-top: 8px;
+  padding-bottom: 30px;
+}
+
+.testimonial-grey-black .testi-arrow {
+  display: none;
+}
+
+.testimonial-grey-black .testi-body-wrap {
+  display: block;
+  float: left;
+}
+
+.testimonial-grey-black .testi-name-designation {
+  text-align: center;
+  display: block;
+  margin-top: 10px;
+  float: right;
+  width: 100%;
+}
+
+.testimonial-grey-black  .carousel-control.right {
+  right: 48%;
+  left: auto;
+  width: 15px;
+  text-align: center;
+  bottom: 30px;
+  /* background: orange !important; */
+  top: auto;
+}
+
+.testimonial-grey-black  .carousel-control.left {
+  right: 52%;
+  left: auto;
+  width: 15px;
+  text-align: center;
+  bottom: 30px;
+  /* background: orange !important; */
+  top: auto;
+}
+
+ }
+/*--------------------------------------------------------------------------*/
+/*------------  End : Testimonial / Testimonial orange  --------------------*/
+/*--------------------------------------------------------------------------*/

@@ -1,0 +1,82 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : PriceTable / Price table orange  ------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) { 
+
+.price-pricetable-orange{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.price-pricetable-orange h2 {
+  font-size: 43px;
+  margin-bottom: 8px;
+}
+
+.price-pricetable-orange .price-table {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.price-pricetable-orange .price-box {
+  padding-top: 10px;
+}
+
+.price-pricetable-orange .btn {
+  width: 90%
+}
+
+.price-pricetable-orange .price-header{
+  padding-left: 20px;
+}
+
+.price-pricetable-orange .price-price .price-cost {
+  padding-left: 20px;  
+}
+
+.price-pricetable-orange .price-features-list li {
+  padding-left: 20px;
+}
+
+}
+
+@media (min-width: 767px) and (max-width: 991px) {  
+
+.price-pricetable-orange .price-header{
+  padding-left: 10px;
+}
+
+.price-pricetable-orange .price-price .price-cost {
+  padding-left: 10px;  
+}
+
+.price-pricetable-orange .price-features-list li {
+  padding-left: 10px;
+}
+
+.price-pricetable-orange .btn {
+  padding: 10px 29px;
+}
+
+}  
+
+@media (min-width: 992px) and (max-width: 1200px) {  
+
+.price-pricetable-orange .price-header{
+  padding-left: 25px;
+}
+
+.price-pricetable-orange .price-price .price-cost {
+  padding-left: 25px;  
+}
+
+.price-pricetable-orange .price-features-list li {
+  padding-left: 25px;
+}
+
+}  
+/*--------------------------------------------------------------------------*/
+/*------------  End : PriceTable / Price table orange  ---------------------*/
+/*--------------------------------------------------------------------------*/

@@ -1,0 +1,114 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Blognews / Blog Green  ----------------------------*/
+/*--------------------------------------------------------------------------*/
+.blog-green {
+  font-family: 'Roboto';
+  padding-top: 25px;
+  padding-bottom: 45px;
+}
+
+.blog-green .blog-item {
+   margin-bottom:0px;
+   border: 1px solid;
+}
+
+.blog-green .blog-box-item-inner {
+  overflow: hidden;
+}
+
+.blog-green  h2 {
+  font-size: 35px
+}
+
+.blog-green .blog-readmore a{
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+.blog-green .blog-title {
+  font-size: 21px;
+  font-weight: normal;
+  vertical-align: middle;
+  line-height: 56px;
+  display: inline-block;
+  height: 50px;
+  max-height: 100%;
+}
+
+.blog-green .posted-date {
+  height: 100%;
+  font-size: 1.5em;
+  line-height: 23px;
+  padding-top: 4px;
+}
+
+.blog-green .blog-image img {
+  width: 100%;
+  height: auto;
+}
+
+.blog-green .blog-image {
+  display: block;
+}
+
+.blog-green .blog-date-title {
+  height: 50px;
+  margin-left: 0px;
+  display: block;
+}
+
+.blog-green .descrip {
+  padding-left: 30px;
+  padding-right: 20px;
+  display: block;
+  padding-top: 10px;
+  font-size: 17px;
+  font-weight: normal;
+}
+
+.blog-green .author {
+  font-weight: normal;
+}
+
+.blog-green .comments-count {
+  font-weight: normal;
+}
+
+.blog-green .meta-info {
+  padding-left: 15px;
+  padding-right: 20px;
+  padding-top: 10px;
+  display: block;
+  padding-bottom: 10px;
+}
+
+.blog-green .mobile-carousel-controls {
+  padding: 15px;
+}
+
+.blog-green .mobile-carousel-controls span {
+  width: 50%;
+  float: left;
+  font-size: 25px;
+  text-align: center;
+  font-weight: lighter;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.blog-green .carousel-inner {
+  width:auto;
+}
+
+.blog-green .meta-info {
+  font-size: 17px;
+  font-weight: lighter;
+}
+
+.blog-green .mobile-carousel-inner .well {
+  background-color: transparent;
+  box-shadow: none;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Blognews / Blog Green  -------------------------------*/
+/*--------------------------------------------------------------------------*/

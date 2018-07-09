@@ -1,0 +1,10 @@
+{
+  "regions": [
+    {
+      "region": "content_orange",
+      "name": "Homepage Orange"
+    }
+  ],
+  "default_block_placements": [],
+  "color_settings": []
+}

@@ -1,0 +1,52 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Contact / Contact Orange  -------------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 767px) {
+
+.contact-orange-address {
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+.contact-orange-address .contact-us h3 {
+  font-size: 36px;
+  width: 100%;
+  margin-top: 0px;
+}
+
+.contact-orange-address .contact-us {
+  padding-right: 0px;
+}
+
+.contact-orange-address .contact-adddress li {
+  font-size: 18px;
+}
+
+.contact-orange-address .contact-adddress i {
+  font-size: 18px;
+  padding-right: 5px;
+}
+
+.contact-orange-address .contact-adddress ul {
+  padding-left: 0px;
+}
+
+.contact-orange {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.contact-orange .btn {
+  width: 100%;
+  padding: 10px 0px;
+}
+
+.contact-orange .name-email .input-lg {
+  margin-bottom: 30px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Contact / Contact Orange  ----------------------------*/
+/*--------------------------------------------------------------------------*/

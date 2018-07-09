@@ -1,0 +1,14 @@
+{
+  "regions": [
+    {
+      "region": "footer_menu",
+      "name": "Footer Menu"
+    },
+    {
+      "region": "footer_social",
+      "name": "Footer Social"
+    }
+  ],
+  "default_block_placements": [],
+  "color_settings": []
+}

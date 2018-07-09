@@ -1,0 +1,11 @@
+--2018-07-07 11:05:44--  http://q2test.s3.amazonaws.com/img/style/screenshots/stats_green_sea.jpg
+Resolving q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)... 52.216.17.248
+Connecting to q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)|52.216.17.248|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24349 (24K) [image/jpeg]
+Saving to: 'stats_green_sea.jpg'
+
+     0K .......... .......... ...                             100% 46.7K=0.5s
+
+2018-07-07 11:05:45 (46.7 KB/s) - 'stats_green_sea.jpg' saved [24349/24349]
+

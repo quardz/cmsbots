@@ -1,0 +1,107 @@
+body {
+  font-family: roboto;
+}
+body.navbar-is-fixed-top {
+  padding-top: 60px;
+}
+body.not-front.navbar-is-fixed-top {
+  padding-top: 60px;
+}
+body.front.navbar-is-static-top header#navbar,
+body.front.navbar-is-static-top header#navbar.affix {
+  position: relative;
+  width: 100%;
+}
+body.not-front.navbar-is-static-top header#navbar.affix {
+  position: relative;
+}
+header#navbar.navbar-fixed-top {
+  position: fixed;
+}
+body.front header#navbar.navbar-fixed-top.affix-top {
+  transition: all .9s ease-in-out;
+  -moz-transition: all .9s ease-in-out;
+  -webkit-transition: all .9s ease-in-out;
+}
+body.front header#navbar.navbar-fixed-top.affix {
+  transition: all .9s ease-in-out;
+  -moz-transition: all .9s ease-in-out;
+  -webkit-transition: all .9s ease-in-out;  
+}
+header#navbar {
+  max-height: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  height: 50px;
+  min-height: 50px;
+  padding-top: 0px;  
+}
+
+header#navbar .navbar-nav>li  {
+  margin-top: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+header#navbar .navbar-nav>li>a {
+  text-transform: none;
+  font-size: 1.2em;
+  padding:5px;
+}
+
+header#navbar .navbar-nav>li>a:focus, 
+header#navbar .navbar-nav>li:hover>a,
+header#navbar .navbar-nav>li>a.active {
+  border-bottom: 3px solid;
+}
+
+header#navbar #navigation {
+  border: none;
+}
+
+header#navbar .logo {
+  margin-top: 0px;
+  padding-top: 5px;
+}
+header#navbar .logo img {
+  height: 40px;
+  width: auto;
+}
+header#navbar .navbar-brand {
+  padding-top: 15px;  
+}
+header#navbar .navbar-nav > li.expanded.menu-depth-1  > a {
+  padding-right: 20px;
+}
+header#navbar .navbar-nav > li.expanded.menu-depth-1  > a > span.caret{
+  right: 5px;
+  margin-top: -12px;
+}
+header#navbar .nav .dropdown > .dropdown-menu {
+  right: 10px;
+}
+
+header#navbar .search-form h2 {
+  display: none;
+}
+
+header#navbar .navbar-toggle {
+  border-radius: 0px; 
+}
+header#navbar form.search-form {
+  margin-top: 10px;
+}
+
+header#navbar .search-form .search-button-icon .fa {
+  margin-left: 0px;
+}
+
+header#navbar .search-form .form-text {
+  border: 1px solid #dddddd;
+  border-radius: 0px;
+  height: 32px;
+}
+header#navbar .search-form .btn {
+  border: none;
+}
+

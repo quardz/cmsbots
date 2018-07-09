@@ -1,0 +1,42 @@
+@media (max-width: 767px) {
+  .footer-wrap .footer-subscribe {
+    padding-top: 25px;
+    padding-bottom: 20px;
+  }
+  .footer-wrap .footer-subscribe .title-wrap {
+    margin-bottom: 0px;  
+  }
+  .footer-wrap .footer-copyright .footer-copyright-content {
+    margin-top: 5px;
+  }
+  .footer-wrap .footer-copyright {
+    padding-bottom: 0px;
+  }
+  .footer-wrap .footer-subscribe #contact_email {
+    width: 90%;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 30px;
+  }
+  .footer-wrap .footer-subscribe .subscribe-form-submit {
+    width: 90%;
+    text-align: center;
+    float: left;
+  }
+  .footer-wrap .footer-copyright,
+  .footer-wrap .footer-follow-wrap {
+    text-align: center;
+  }
+  .footer-wrap .footer-menu ul {
+    text-align: center;
+    float: none;
+  }
+  .footer-wrap .footer-menu ul li {
+    display: inline-block;
+  }
+  .footer-wrap .footer-menu ul li a {
+    font-size: 1.1em;
+    margin-bottom: 13px;
+    padding: 4px 4px;
+  }
+}

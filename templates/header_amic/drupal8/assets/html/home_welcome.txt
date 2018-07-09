@@ -1,0 +1,22 @@
+<div class="bkg-overlay"></div>
+<div class="intro-text container">
+  <h1 class = "row main-title text-center">DIFFERENT COURSES AVAILABLE</h1>
+  <p class = "row main-desc text-center">We provide expert teachers to improve your skills</p>
+  <div class = "row content-block-group text-center">
+    <div class = "col-sm-4 content-block text-center">
+      <span class = "block-icon-circle hidden-xs"><i class="fa fa-pencil-square-o"></i></span>
+      <h4 class = "block-text">Select Course</h4>
+      <span class = "block-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+    </div>
+    <div class = "col-sm-4 content-block text-center">
+      <span class = "block-icon-circle hidden-xs"><i class="fa fa-bookmark"></i></span>
+      <h4 class = "block-text">Apply Now</h4>
+      <span class = "block-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+    </div>
+    <div class = "col-sm-4 content-block text-center">
+      <span class = "block-icon-circle hidden-xs"><i class="fa fa-university"></i></span>
+      <h4 class = "block-text">Visit Us</h4>
+      <span class = "block-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+    </div>
+  </div>
+</div>

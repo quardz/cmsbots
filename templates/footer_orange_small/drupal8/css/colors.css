@@ -1,0 +1,24 @@
+.footer-wrap .footer-menu ul li a:hover,
+.footer-wrap .footer-menu ul li a:focus {
+   background: transparent; 
+}  
+.footer-wrap .footer-copyright-menu,
+.footer-wrap .footer-subscribe .subscribe-form-submit{
+  background-color: #d25400;
+}
+.footer-wrap .footer-subscribe {
+  background-color: #e77e23;
+}
+.footer-wrap .footer-subscribe .subscribe-form-submit{
+  border-color: #d25400;
+}  
+.footer-wrap .footer-subscribe #contact_email {
+  color: #4d4d4d;
+}
+.footer-wrap .footer-subscribe .form-control-static,
+.footer-wrap .footer-subscribe .subscribe-form-submit,
+.footer-wrap ul li a,
+.footer-wrap .footer-copyright-menu,
+.footer-wrap {
+  color: #f6f6f6;
+}

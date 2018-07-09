@@ -1,0 +1,90 @@
+.footer-green-medium {
+  font-family: 'Roboto', sans-serif;
+  padding-top: 25px;
+  padding-bottom: 52px;
+}
+
+.footer-green-medium .footer-message {
+  padding-bottom: 3px;
+}
+
+.footer-green-medium .footer-message h2.title {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 1.15em;
+  font-weight: normal;
+}
+
+.footer-green-medium .footer-message .block-content {
+  font-size: 1.2em;
+  font-weight: normal;
+  text-align: left;
+  padding-right: 60px;
+  line-height: 1.6em;
+}
+
+.footer-green-medium .footer-message .block-content h4 {
+  font-weight: normal;
+  font-size: 24px;
+  margin-bottom: 5px;
+}  
+
+.footer-green-medium .footer-blocks {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.footer-green-medium .footer-menu ul li {
+  background: transparent;
+}
+
+.footer-green-medium .footer-menu ul li a {
+  font-size: 16px;
+  background: transparent;
+  font-weight: lighter;
+  padding: 1px 0px;
+}  
+
+.footer-green-medium .footer-blocks .footer-menu .sidebar-menu {
+  padding-top: 10px;
+}
+
+.footer-green-medium .footer-menu ul li a:hover {
+  text-decoration: underline;
+}
+  
+.footer-green-medium .footer-blocks .title h2,
+.footer-green-medium .footer-blocks .block-title {
+  font-size: 1.7em;
+  font-weight: normal;
+  margin-top: 0;
+  margin-bottom: 17px;
+}
+
+.footer-green-medium .footer-copyright {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.footer-green-medium .footer-copyright h2.title  {
+  font-size: 1.2em;
+  font-weight: lighter;
+  margin-bottom: 25px;
+}  
+
+.footer-green-medium .footer-copyright .block-content {
+  line-height: 2em;
+  font-size: 1.1em;
+  font-weight: normal;
+}
+
+.footer-green-medium .footer-copyright-menu ul li a {
+  padding-right: 14px;
+  font-size: 15px;
+  padding-top: 5px;
+  font-weight: lighter;
+}
+
+.footer-green-medium .footer-copyright-menu {
+  padding-right: 0px;
+}

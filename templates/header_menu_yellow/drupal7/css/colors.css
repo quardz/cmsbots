@@ -1,0 +1,44 @@
+header#navbar.navbar-fixed-top.affix {
+  background-color: #FFF5E1;  
+}
+header#navbar,
+header#navbar  nav,
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover,
+header#navbar.navbar-default .navbar-toggle .icon-bar,
+.navbar-inverse .navbar-toggle:focus, 
+.navbar-inverse .navbar-toggle:hover {
+  background-color:#ffffff;
+}  
+header#navbar  nav{
+  border-color: #ffffff;
+}
+header#navbar .navbar-nav>li>a {
+  color: #4b4b4b;
+}  
+header#navbar li>a:focus,
+header#navbar li>a:hover,
+header#navbar li>a.acive,
+header#navbar .navbar-nav>li>a:focus,
+header#navbar .navbar-nav>li>a:hover,
+header#navbar .navbar-nav>li.active>a,
+header#navbar .dropdown a:focus, 
+header#navbar .dropdown a:hover,
+header#navbar .dropdown a.active {
+  color: #ffa800;
+}  
+header#navbar .navbar-nav>li.last>a {
+  color: #ffffff;
+}  
+.navbar-inverse .navbar-toggle,
+header#navbar.navbar-default .navbar-toggle {
+  border-color: #ffa800;
+}
+.navbar-toggle,
+.navbar-inverse .navbar-toggle:focus .icon-bar, 
+.navbar-inverse .navbar-toggle:hover .icon-bar,
+header#navbar .navbar-nav>li.last>a,
+header#navbar.navbar-default .navbar-toggle {
+  background-color: #ffa800;  
+}

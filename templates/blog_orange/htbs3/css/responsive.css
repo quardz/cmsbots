@@ -1,0 +1,51 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Blognews / Blog orange  ---------------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) {  
+
+.blog-orange {
+  padding-top: 5px;
+  padding-bottom: 70px;
+}
+
+.blog-orange  .title {
+  font-size: 28px;
+  margin-bottom: 12px;
+}
+
+.blog-orange .blog-title {
+  font-size: 1.6em;
+}
+
+.blog-orange  .author-date {
+  padding-top: 12px;
+}
+
+.blog-orange .item,
+.blog-orange .view-header h2,
+.blog-orange .view-header .blog-readmore{
+  text-align: center;
+}
+
+.blog-orange  .carousel-content .row{
+  padding-left: 0;
+}
+
+.blog-orange .carousel-inner{
+  margin: 0;
+}
+
+.blog-orange .carousel-indicators {
+  bottom: -40px;
+  left: 0;
+  margin: 0;
+  right: 0;
+  text-align: center;
+  width: auto;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Blognews / Blog orange  ------------------------------*/
+/*--------------------------------------------------------------------------*/

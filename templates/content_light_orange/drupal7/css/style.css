@@ -1,0 +1,26 @@
+.margin-top-20 {
+  margin-top: 20px;
+}
+.content-light-orange {
+  font-family: roboto;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+.content-light-orange .content-text p {
+  font-size: 1.1em;
+}
+.content-light-orange .button-list {
+  margin-bottom: 20px;
+}
+.content-light-orange h1,
+.content-light-orange h2,
+.content-light-orange h3,
+.content-light-orange h4,
+.content-light-orange h5,
+.content-light-orange h6 {
+  margin-bottom: 0px;
+}
+.content-light-orange .btn-orange {
+  font-size: 1.1em;
+  font-weight: bold;
+}

@@ -1,0 +1,104 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : PriceTable / Price table sky-blue	----------------*/
+/*--------------------------------------------------------------------------*/
+.price-pricetable-sky-blue{
+  font-family: roboto;
+  padding-top: 23px;
+  padding-bottom: 25px;
+}
+
+.price-pricetable-sky-blue h2 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+.price-pricetable-sky-blue h3 {
+  margin: 0px;
+  padding-bottom: 7px;
+  font-weight: lighter;
+  letter-spacing: 0.7px;
+}
+
+.price-pricetable-sky-blue .price-desc {
+  font-size: 14.5px;
+  margin-top: 5px;
+  font-weight: normal;
+}
+
+.price-pricetable-sky-blue .price-table {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.price-pricetable-sky-blue .price-header{
+  padding: 20px;
+  padding-top: 17px;
+  padding-bottom: 17px;
+}
+
+.price-pricetable-sky-blue .price-plan-desc {
+  font-size: 14px;
+}
+
+.price-pricetable-sky-blue .price-features {
+  padding-bottom: 5px;
+} 
+ 
+.price-pricetable-sky-blue .btn {
+  background-image: none;
+  text-shadow: none;
+  border: none;
+  font-size: 18px;
+  padding: 12px 20px;
+  float: right;
+  margin-top: 13px;
+  font-weight: lighter;
+}
+
+.price-pricetable-sky-blue .price-table .price-features .list-unstyled {
+  padding-top: 10px;
+}
+
+.price-pricetable-sky-blue .price-features-list li {
+  padding: 10px 20px;
+  font-size: 18px;
+  font-weight: lighter;
+  padding-bottom: 7px;
+}
+
+.price-pricetable-sky-blue .price-features li.price-about {
+  font-size: 18px;
+  font-weight: lighter;
+  border-top: 1px solid;
+  margin-left: 20px;
+  padding-left: 0;
+  margin-right: 20px;
+  padding-right: 0px;
+  padding-top: 15px;
+  padding-bottom: 14px;
+  margin-top: 8px;
+}
+  
+.price-pricetable-sky-blue .price-price {
+  border-bottom: none;
+  padding-top: 2px;
+  padding-left: 19px;
+  padding-bottom: 7px;
+}
+
+.price-pricetable-sky-blue .price-price .price-cost {
+  display: inline;
+  font-size: 50px;
+  font-weight: bold;
+  vertical-align: top;
+}
+
+.price-pricetable-sky-blue .price-price .price-cost span{
+  font-size: 18px;
+  vertical-align: bottom;
+  font-weight: lighter;
+}
+/*--------------------------------------------------------------------------*/
+/*------------    Ends : PriceTable / Price table sky-blue	----------------*/
+/*--------------------------------------------------------------------------*/

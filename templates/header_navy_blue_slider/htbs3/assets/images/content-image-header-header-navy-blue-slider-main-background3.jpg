@@ -1,0 +1,22 @@
+--2018-07-07 11:02:13--  http://q2test.s3.amazonaws.com/image/theme/asset/content-image-header-header-navy-blue-slider-main-background3.jpg
+Resolving q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)... 52.216.16.88
+Connecting to q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)|52.216.16.88|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 583087 (569K) [image/jpeg]
+Saving to: 'content-image-header-header-navy-blue-slider-main-background3.jpg.1'
+
+     0K .......... .......... .......... .......... ..........  8% 63.7K 8s
+    50K .......... .......... .......... .......... .......... 17% 99.0K 6s
+   100K .......... .......... .......... .......... .......... 26%  204K 4s
+   150K .......... .......... .......... .......... .......... 35%  737K 3s
+   200K .......... .......... .......... .......... .......... 43%  270K 2s
+   250K .......... .......... .......... .......... .......... 52% 12.9M 2s
+   300K .......... .......... .......... .......... .......... 61%  211K 1s
+   350K .......... .......... .......... .......... .......... 70% 5.60M 1s
+   400K .......... .......... .......... .......... .......... 79% 9.56M 1s
+   450K .......... .......... .......... .......... .......... 87%  767K 0s
+   500K .......... .......... .......... .......... .......... 96%  287K 0s
+   550K .......... .........                                  100% 3.83M=2.3s
+
+2018-07-07 11:02:16 (249 KB/s) - 'content-image-header-header-navy-blue-slider-main-background3.jpg.1' saved [583087/583087]
+

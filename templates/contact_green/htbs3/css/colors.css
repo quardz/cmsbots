@@ -1,0 +1,52 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Contact / Contact Green  --------------------------*/
+/*--------------------------------------------------------------------------*/
+.contact-green {
+  background-color: #29CB71;
+  color: #ffffff;
+}
+
+.contact-green .form-control {
+  background-color: #29CB71;
+  border-color: #ffffff;
+}
+
+.contact-green .btn {
+  background-color: #ffffff;
+  color: #29CB71;
+}
+
+.contact-green address span a,
+.contact-green address span a:hover,
+.contact-green address span a:visited,
+.contact-green h1,
+.contact-green h2,
+.contact-green h3,
+.contact-green h4,
+.contact-green h5,
+.contact-green h6 {
+  color: #ffffff;
+}
+
+.contact-green .form-control {
+  color: #ffffff;
+}
+
+.contact-green  .input-lg::-webkit-input-placeholder{
+  color: #ffffff;
+}
+
+.contact-green .input-lg:-moz-placeholder  {
+  color: #ffffff;
+}
+
+.contact-green .input-lg::-moz-placeholder {
+  color: #ffffff;
+}
+
+.contact-green .input-lg:-ms-input-placeholder {
+  color: #ffffff;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Contact / Contact Green  -----------------------------*/
+/*--------------------------------------------------------------------------*/

@@ -1,0 +1,34 @@
+
+footer#footer,
+footer#footer .contact_email,
+footer#footer .subscribe-form-submit {
+  background-color:#000000;
+}
+footer#footer,
+footer#footer .footer-menu ul li a {
+  color:#ffffff;
+}
+
+footer#footer .footer-message h2,
+footer#footer .camera-icon,
+footer#footer .subscribe-form-submit {
+  color: #f39d14;
+}
+
+footer#footer .footer-menu ul li,
+footer#footer .footer-menu ul li a {
+  background-color: transparent;
+}
+ 
+footer#footer .mainchimp-subscribe {
+  border-bottom-color: #ffffff;
+}
+@media (max-width: 767px) {
+  footer#footer .contact_email {
+    border-bottom-color: #ffffff;
+  }
+  footer#footer .subscribe-form-submit {
+    background-color: #F39D14;
+    color: #ffffff;
+  }
+}

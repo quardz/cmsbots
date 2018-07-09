@@ -1,0 +1,106 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : PriceTable / Price table orange  ------------------*/
+/*--------------------------------------------------------------------------*/
+.price-pricetable-orange{
+  font-family: roboto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.price-pricetable-orange h2 {
+  font-size: 50px;
+  font-weight: normal;
+  margin-bottom: 15px;
+}
+
+.price-pricetable-orange .price-desc {
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.price-pricetable-orange .price-table {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.price-pricetable-orange .price-header{
+  padding-bottom: 5px;
+  padding-left: 50px;
+}
+
+.price-pricetable-orange h3 {
+  padding-top:10px;
+  font-weight: lighter;
+  font-size: 24px;
+}
+
+.price-pricetable-orange .price-features {
+  padding-bottom: 25px;
+  padding-top: 20px;
+} 
+
+.price-pricetable-orange .btn {
+  background-image: none;
+  text-shadow: none;
+  border: none;
+  font-size: 18px;
+  padding: 10px 47px;
+  font-weight: lighter;
+  margin-top: 15px;
+}
+
+.price-pricetable-orange .price-price {
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+.price-pricetable-orange .price-price .price-cost {
+  font-size: 45px;
+  font-weight: bold;
+  padding-left: 50px;  
+}
+
+.price-pricetable-orange .price-price .price-cost span{
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.price-pricetable-orange .price-price .price-duration {
+  clear: both;
+  float: left;
+  text-align: center;
+  display: block;
+  width: 100%;
+}
+
+.price-pricetable-orange .price-features-list li {
+  padding-bottom: 15px;
+  font-size: 18px;
+  font-weight: lighter;
+  padding-left: 50px;
+}
+  
+.price-pricetable-orange .price-box:hover .price-features  {
+  padding-bottom: 50px;
+}
+
+.price-pricetable-orange .price-box:hover {
+  margin-top: -20px;
+  padding-bottom: 30px;
+  -webkit-transition: width 2s; /* Safari */
+  transition: width 2s;
+  -webkit-transition-timing-function: linear;
+}
+
+.price-pricetable-orange .price-box:hover .price-header{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.price-pricetable-orange .price-box:hover h3 {
+  padding: 0px;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : PriceTable / Price table orange  ---------------------*/
+/*--------------------------------------------------------------------------*/

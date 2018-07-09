@@ -1,0 +1,74 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : PriceTable / Price table light green  -------------*/
+/*--------------------------------------------------------------------------*/
+.price-pricetable-light-green{
+  font-family: roboto;
+  padding-top: 25px;
+  padding-bottom: 30px;
+}
+
+.price-pricetable-light-green h2 {
+  font-size: 33px;
+  font-weight: normal;
+  margin-bottom: 12px;
+}
+
+.price-pricetable-light-green .price-desc {
+  font-size: 17px;
+  font-weight: normal;
+}
+
+.price-pricetable-light-green .price-table {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.price-pricetable-light-green .price-header{
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-top: 15px;
+}
+
+.price-pricetable-light-green .price-cost {
+  font-size: 40px;
+  font-weight: normal;
+}
+
+.price-pricetable-light-green h3 {
+  padding-top: 10px;
+  font-weight: lighter;
+  font-size: 25px;
+  margin-top: 0px;
+}
+
+.price-pricetable-light-green .price-features {
+  padding-bottom: 1px;
+  padding-top: 0px;
+} 
+
+.price-pricetable-light-green .price-box {
+  margin-top : 20px;
+}
+
+.price-pricetable-light-green .btn {
+  background-image: none;
+  text-shadow: none;
+  border: none;
+  font-size: 18px;
+  padding: 10px 30px;
+  font-weight: normal;
+  width: 100%;
+}
+
+.price-pricetable-light-green .price-features-list li {
+  padding-bottom: 4px;
+  padding-top: 8px;
+  font-size: 17px;
+  font-weight: normal;
+  padding-left: 15px;
+  border-top: 1px dotted #EBECEE;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : PriceTable / Price table light green  ----------------*/
+/*--------------------------------------------------------------------------*/

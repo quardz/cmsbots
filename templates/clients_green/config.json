@@ -1,0 +1,19 @@
+{
+  "platform": {
+    "htbs2": true,
+    "drupal7": true
+  },
+  "author": {
+    "name": "adalarasu d",
+    "twitter": "https://twitter.com/adalquardz",
+    "facebook": "https://www.facebook.com/adalarasu",
+    "linkedin": "https://www.linkedin.com/in/adalarasu/",
+    "github": "https://github.com/quardz",
+    "website": "http://quardz.com"
+  },
+  "name": "Clients green",
+  "machine_name": "clients_green",
+  "style_id": "127",
+  "region": "Clientele",
+  "created": "1420285956"
+}

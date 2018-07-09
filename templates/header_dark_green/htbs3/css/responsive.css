@@ -1,0 +1,91 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Header / Header dark green  -----------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 767px) {
+
+.header-header1-menu .navmenu {
+  background-color: #2ecc71;
+}
+
+.header-header1-menu .navbar-nav > li > a:focus, 
+.header-header1-menu .navbar-nav > li > a:hover,
+.header-header1-menu .navbar-nav li a:focus, 
+.header-header1-menu .navbar-nav li a:hover {
+  border-left: 5px solid #ffffff;
+  color: #000000;
+}
+
+.header-header1-content .intro-text p {
+  padding-left:10%;
+  padding-right:10%;
+}
+  
+#header-header1-content .main-title {
+  margin-top: 80px;
+  font-size: 3em;
+}
+
+#header-header1-content .main-buttons-wrap .main-download {
+  margin-bottom: 30px;
+}
+
+#header-header1-content .main-buttons-wrap .main-download{ 
+  float: none;
+  width: 75%;
+} 
+
+.header-header1-menu .navbar-default .navbar-collapse, 
+.header-header1-menu  .navbar-default .navbar-form {
+border-color: transparent;
+}
+
+.header-header1-menu .nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
+ background-color: transparent;
+}
+
+.header-header1-menu .navbar-scrolled .navbar-nav > li > a:focus, 
+.header-header1-menu .navbar-scrolled .navbar-nav > li > a:hover {
+  background: none;
+  border: none;
+}
+
+.header-header1-menu .navbar-scrolled .navbar-toggle {
+  margin-right: 0px;
+  margin-top: 16px;
+  margin-bottom: 5px;
+}
+
+.header-header1-menu .navbar-scrolled .logo img {
+  margin-top: 17px;
+  margin-bottom: 0px;
+}
+
+.header-header1-menu .navbar-scrolled .navbar {
+  min-height: 0px; 
+}
+
+.header-header1-menu .navbar-scrolled  .navbar-nav > li > a:focus, 
+.header-header1-menu .navbar-scrolled  .navbar-nav > li > a:hover,
+.header-header1-menu .navbar-scrolled  .navbar-nav li a:focus, 
+.header-header1-menu .navbar-scrolled  .navbar-nav li a:hover {
+  border-left: 5px solid #ffffff;
+  color: #000000;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+
+.header-header1-menu .navbar-nav > li > a {
+  padding: 5px 8px;
+  padding-top: 19px;
+}
+
+#header-header1-content .main-buttons-wrap .main-download {
+  margin-bottom: 20px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Header / Header dark green  --------------------------*/
+/*--------------------------------------------------------------------------*/

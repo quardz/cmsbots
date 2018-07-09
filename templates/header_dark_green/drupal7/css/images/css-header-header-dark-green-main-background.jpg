@@ -1,0 +1,19 @@
+--2018-07-07 11:01:35--  http://q2test.s3.amazonaws.com/image/theme/asset/css-header-header-dark-green-main-background_0.jpg
+Resolving q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)... 52.216.97.195
+Connecting to q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)|52.216.97.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 448891 (438K) [image/jpeg]
+Saving to: 'css-header-header-dark-green-main-background_0.jpg.1'
+
+     0K .......... .......... .......... .......... .......... 11% 78.1K 5s
+    50K .......... .......... .......... .......... .......... 22%  111K 4s
+   100K .......... .......... .......... .......... .......... 34% 2.01M 2s
+   150K .......... .......... .......... .......... .......... 45%  241K 2s
+   200K .......... .......... .......... .......... .......... 57%  243K 1s
+   250K .......... .......... .......... .......... .......... 68% 4.24M 1s
+   300K .......... .......... .......... .......... .......... 79%  236K 0s
+   350K .......... .......... .......... .......... .......... 91%  255K 0s
+   400K .......... .......... .......... ........             100% 2.45M=2.0s
+
+2018-07-07 11:01:38 (223 KB/s) - 'css-header-header-dark-green-main-background_0.jpg.1' saved [448891/448891]
+

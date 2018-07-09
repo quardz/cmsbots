@@ -1,0 +1,95 @@
+body {
+  font-family: roboto;
+  padding-top: 0px !important;
+}
+header#navbar.navbar-default.affix {
+  position: relative;
+}
+.navbar-brand {
+  margin-top: 3px;
+}
+.navbar .logo img {
+  height: 40px;
+  width: auto;
+}
+header#navbar #nav.affix {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+}
+header#navbar nav{
+  max-height: 75px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+header#navbar .navbar-collapse {
+  padding-top: 10px;
+}
+header#navbar .navbar-nav>li  {
+  margin-top: 15px;
+}
+header#navbar .navbar-nav>li>a {
+  font-size: 1.1em;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-transform: none;
+}
+header#navbar  #navigation {
+  border: none;
+}
+header#navbar .dropdown-menu>li>a {
+  font-size: 1.1em;
+  font-weight: normal;
+}
+header#navbar .navbar-toggle {
+  border-radius: 0px;
+}
+body.path-innerpage header#navbar  nav{
+  border: none;
+  background-image: none;
+}
+header#navbar.scrolled  {
+  border: none;
+  background-image: none;
+  margin-top: 0px;
+  border-radius: 0px;
+}
+.inner-page header#navbar .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.active>a {
+  background-image: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.carousel-homeslider-header-yellow-slider .carousel-indicators  li{
+  border-radius: 0px;
+  width: 16px;
+  height: 16px;
+  border: none;
+}
+.carousel-homeslider-header-yellow-slider .carousel-indicators  li.active{
+  width: 20px;
+  height: 20px;
+  border: 4px solid;
+}
+.carousel-homeslider-header-yellow-slider .carousel-caption .title {
+  font-size: 4em;
+}
+.carousel-homeslider-header-yellow-slider .carousel-caption .desc {
+  font-size: 2em;
+  display: block;
+  margin-bottom: 25px;
+}
+.carousel-homeslider-header-yellow-slider .carousel-caption .cta-button {
+  border-radius: 0px;
+  padding: 8px 20px;
+  font-size: 1.5em;
+}
+.carousel-homeslider-header-yellow-slider .carousel-caption {
+  bottom: 20%;
+}
+.carousel-homeslider-header-yellow-slider .btn-warning {
+  background-image: none;
+  border-color: none;
+}

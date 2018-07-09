@@ -1,0 +1,10 @@
+{
+  "regions": [
+    {
+      "region": "content_light_green",
+      "name": "Homepage Call-to-action"
+    }
+  ],
+  "default_block_placements": [],
+  "color_settings": []
+}

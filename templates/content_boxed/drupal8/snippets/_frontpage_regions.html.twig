@@ -1,0 +1,9 @@
+    {% if page.content_boxed %}
+      <section class = "content-boxed plugin-content">
+         <div class = "{{ container }}">
+        {{ page.content_boxed }}
+          </div>
+      </section>
+    {% elseif snippet.content_boxed %}
+        {{ snippet.content_boxed }}
+    {% endif %}

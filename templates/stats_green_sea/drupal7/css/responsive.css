@@ -1,0 +1,27 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Stats / stats green sea ---------------------------*/
+/*--------------------------------------------------------------------------*/
+/* CSS from jquery-asProgress.js library*/
+@media (max-width: 768px) { 
+ 
+ .stat-stats-green-sea {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+ 
+ 
+.stat-stats-green-sea .stat-stat{
+  margin-right: 0px;
+  margin-left: 5px;
+}
+
+.stat-stats-green-sea .title,
+.stat-stats-green-sea .stat-desc {
+  text-align: center;
+}
+
+ }
+/*--------------------------------------------------------------------------*/
+/*--------------  Ends : Stats / stats green sea ---------------------------*/
+/*--------------------------------------------------------------------------*/

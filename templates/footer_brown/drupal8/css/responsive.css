@@ -1,0 +1,45 @@
+@media (min-width: 768px) and (max-width: 1169px) {
+  .footer-wrap .footer-subscribe .form-control-static {
+    font-size: 1em;
+  }
+  .footer-wrap .footer-subscribe .subscribe-form-submit {
+    float: right;
+  }
+}
+
+@media (max-width: 767px) {
+  .footer-wrap .footer-subscribe {
+    padding-top: 12px;
+    padding-bottom: 32px;
+  }
+  .footer-wrap .footer-subscribe .form-control-static {
+    font-size: 1.2em;
+  }
+  .footer-wrap .footer-subscribe #contact_email {
+    width: 90%;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 30px;
+    margin-top: 0px;
+    height: 40px;
+  }
+  .footer-wrap .footer-copyright .footer-copyright-content {
+    margin-bottom: 10px;
+  }
+  .footer-wrap .footer-social .follow-link-wrapper i{
+    height: 47px;
+  }
+  .footer-wrap .footer-subscribe .subscribe-form-submit {
+    width: 90%;
+    text-align: center;
+    height: 40px;
+    margin-bottom: 0px;
+  }
+  .footer-wrap .footer-subscribe .subscribe-form-submit {
+    float: center;
+  }
+  .footer-wrap .footer-copyright,
+  .footer-wrap .footer-follow-wrap {
+    text-align: center;
+  }
+}

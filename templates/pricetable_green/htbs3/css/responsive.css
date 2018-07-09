@@ -1,0 +1,71 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : PriceTable / Price table green  -------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px){ 
+
+.price-pricetable-green{
+  padding-top: 5px;
+  padding-bottom: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.price-pricetable-green h2 {
+  font-size: 34px;
+}
+
+.price-pricetable-green .price-desc {
+  margin-top: 10px;
+}
+
+.price-pricetable-green .price-table {
+  margin-top: 18px;
+  margin-bottom: 0px;
+}
+
+.price-pricetable-green .price-header {
+  padding: 20px 17px 4px;
+}
+
+.price-pricetable-green .price-features {
+  padding-top: 0px;
+  font-size: 14px;
+} 
+
+.price-pricetable-green .price-buy {
+  padding-bottom: 20px;
+  padding-top: 0;
+  text-align: center;
+}
+
+.price-pricetable-green .btn {
+  margin: 0 auto;
+  padding: 6px 65px;
+  width: 100%;
+}
+
+}
+
+@media (min-width: 769px) and (max-width: 992px) { 
+ 
+.price-pricetable-green .price-features {
+  font-size: 14px;
+}
+
+.price-pricetable-green .btn {
+  padding: 6px 35px;
+}
+
+}
+
+@media (min-width: 992px) and (max-width: 1200px){ 
+
+.price-pricetable-light-green .price-cost {
+  font-size: 30px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : PriceTable / Price table green  ----------------------*/
+/*--------------------------------------------------------------------------*/

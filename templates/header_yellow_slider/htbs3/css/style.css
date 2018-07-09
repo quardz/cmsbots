@@ -1,0 +1,119 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Header / Header Yellow Slider  --------------------*/
+/*--------------------------------------------------------------------------*/
+.carousel-inner>.item>img {
+  width: 100%;
+}
+.header-yellow-slider-menu {
+  font-family: roboto;
+  background: transparent;
+}
+
+.header-yellow-slider-menu .site-logo-name {
+  margin-top: 20px
+}
+ 
+.header-yellow-slider-menu #nav.affix {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+}
+
+.header-yellow-slider-menu  nav{
+  max-height: 75px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: transparent;
+}
+
+.header-yellow-slider-menu .navbar-nav>li  {
+  margin-top: 15px;
+}
+
+.header-yellow-slider-menu .navbar-nav>li>a {
+  font-size: 1.2em;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.header-yellow-slider-menu  #navigation {
+  border: none;
+}
+
+.header-yellow-slider-menu .site-name-logo {
+  margin-top: 20px;
+}
+
+.header-yellow-slider-menu .dropdown-menu>li>a {
+  font-size: 1.1em;
+  font-weight: normal;
+}
+
+.header-yellow-slider-menu .navbar-nav {
+  margin-top: 10px;
+}
+
+.header-yellow-slider-menu  .navbar-toggle {
+  border-radius: 0px;
+}
+
+.inner-page .header-yellow-slider-menu  nav{
+  border: none;
+  background-image: none;
+}
+
+.inner-page .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+  background-color: transparent;
+}
+
+.carousel-homeslider-header-yellow-slider .carousel-indicators  li{
+  border-radius: 0px;
+  width: 16px;
+  height: 16px;
+  border: none;
+}
+
+.carousel-homeslider-header-yellow-slider .carousel-indicators  li.active{
+  width: 20px;
+  height: 20px;
+  border: 4px solid;
+}
+
+.carousel-homeslider-header-yellow-slider .carousel-caption .title {
+  font-size: 4em;
+}
+
+.carousel-homeslider-header-yellow-slider .carousel-caption .desc {
+  font-size: 2em;
+  display: block;
+  margin-bottom: 25px;
+}
+
+.carousel-homeslider-header-yellow-slider .carousel-caption .cta-button {
+  border-radius: 0px;
+  padding: 8px 20px;
+  font-size: 1.5em;
+}
+
+.carousel-homeslider-header-yellow-slider .carousel-caption {
+  bottom: 20%;
+}
+
+.carousel-homeslider-header-yellow-slider .btn-warning {
+  background-image: none;
+  border-color: none;
+}
+
+.header-yellow-slider-menu .navbar-scrolled  {
+  border: none;
+  background-image: none;
+  background: #171717;
+  margin-top: 0px;
+  border-radius: 0px;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Header / Header Yellow Slider  -----------------------*/
+/*--------------------------------------------------------------------------*/

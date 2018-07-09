@@ -1,0 +1,50 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Contact / Contact Yellow  -------------------------*/
+/*--------------------------------------------------------------------------*/
+.contact-yellow {
+  background-image: url(http://q2test.s3.amazonaws.com/image/theme/asset/contact-contact-yellow-background-image.jpg);
+  background-size: cover;
+  font-family: "roboto";
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.contact-yellow .contact-adddress h3 {
+  font-size: 25px;
+  font-weight: normal;
+  margin: 0;
+  margin-bottom: 5px;
+}  
+
+.contact-yellow .contact-adddress  .info {
+  line-height: 200%;
+  font-size: 18px;
+  font-weight: normal;
+}  
+
+.contact-yellow .follow-links a {
+  font-size: 29px;
+}
+
+.contact-yellow  .form-control,
+.contact-yellow  .form-control:focus {
+  border: 1px solid;
+}
+
+.contact-yellow.form-group {
+  margin-bottom: 8px;
+}
+
+.contact-yellow  .contact-form .btn {
+  padding: 6px 26px;
+  font-size: 21px;
+}
+
+.contact-yellow  .input-lg {
+  font-size: 17px;
+  font-weight: normal;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Contact / Contact Yellow  ----------------------------*/
+/*--------------------------------------------------------------------------*/

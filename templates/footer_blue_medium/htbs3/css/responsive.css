@@ -1,0 +1,31 @@
+@media (max-width: 767px) {
+
+.footer-blue-medium .footer-message { 
+  padding-top: 5px;
+  padding-bottom: 24px;
+}
+
+.footer-blue-medium .footer-message .block-content {
+  font-size: 1.2em;
+  line-height: 1.5em;
+}
+
+.footer-blue-medium .footer-copyright-menu {
+  padding-bottom: 26px;  
+  padding-top: 26px;
+}
+
+.footer-blue-medium  .footer-copyright .block-content {
+  text-align: center;
+}
+
+.footer-blue-medium  .footer-menu {
+  text-align: center;
+  display: inline-block;
+}
+
+.footer-blue-medium .footer-menu ul li a{
+  border-right: none;
+}
+
+}

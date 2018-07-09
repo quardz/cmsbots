@@ -1,0 +1,39 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Clients / Clients orange  -------------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) { 
+
+.clients-orange {
+ margin-bottom: 0px;
+}
+
+.clients-orange .title h2{
+  font-size: 1.8em;
+  margin-top: 24px;
+  margin-bottom: 4px;
+  line-height: 34px;
+}
+
+.clients-orange .clients-orange-item {
+  margin-bottom: 20px;
+}
+
+.clients-orange .clients-orange-item img{
+  width: 205px;
+  height: 69px;
+}
+
+}
+
+@media (min-width: 769px) and (max-width: 992px) {  
+
+.clients-orange .clients-orange-item img{
+  width: 205px;
+  height: 69px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Clients / Clients orange  ----------------------------*/
+/*--------------------------------------------------------------------------*/

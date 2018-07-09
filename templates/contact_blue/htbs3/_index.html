@@ -1,0 +1,44 @@
+      <section id="contact-blue" class="contact-section contact-blue">
+         <form class="contact-blue-form contact-form container" action="contact.php" method="post" id="contact-blue-form" accept-charset="UTF-8" role="form" >
+            <div class = "contact-wrap row">
+               <div class = "col-sm-5 contact-adddress">
+                  <h2>
+                  CONTACT US</h3>
+                  <span class = "desc">
+                  It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout
+                  </span>
+                  <address>
+                     <div class = "row">
+                        <span class = "phone col-xs-3">Phone </span> 
+                        <span class = "info col-xs-9"> : <a href="tel:"> +44(0)999 999 9999 </a>
+                     </div>
+                     <div class = "row">
+                        <span class ="address col-xs-3">Address </span> 
+                        <span class = "info col-xs-9"> : 162 Edward Street <br> 
+                        &nbsp; London, JC1V 4SR
+                        </span>
+                     </div>
+                  </address>
+               </div>
+               <div class = "col-sm-6 col-sm-offset-1 contact-form">
+                  <div class="form-group">
+                     <input type="text" class="form-control input-lg" id="contact-name" name = "name" placeholder="Name" required data-minlength="3" data-error="Minimum 3 letters and required">
+                     <span class="help-block with-errors"></span>
+                  </div>
+                  <div class="form-group">
+                     <input type="email" class="form-control input-lg" id="contact-email" name = "email"  placeholder="Email" required>
+                     <span class="help-block with-errors"></span>
+                  </div>
+                  <div class="form-group">
+                     <textarea class="form-control input-lg" id="contact-message" rows="3"  name = "message"  placeholder="Message" required></textarea>
+                     <span class="help-block with-errors"></span>
+                  </div>
+                  <div class = "row">
+                     <div class="form-message col-xs-12"></div>
+                  </div>
+                  <input class="btn btn-lg form-submit" type="submit" id="edit-submit" name="op" value="Send Message" />
+               </div>
+               <div class = "submitted-message col-sm-6 hidden"><span class = "text-center">Thank You! Your message has been sent. Click here to submit once more.</span></div>
+            </div>
+         </form>
+      </section>

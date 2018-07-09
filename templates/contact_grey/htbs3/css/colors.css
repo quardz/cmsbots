@@ -1,0 +1,58 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Contact / Contact Grey  ---------------------------*/
+/*--------------------------------------------------------------------------*/
+.contact-grey {
+  background-color: #2d3e50;
+  color: #ffffff;
+}
+.contact-grey h2,
+.contact-grey h3,
+.contact-grey h4,
+.contact-grey h5,
+.contact-grey h6 {
+  color: #ffffff;
+}
+
+.contact-grey .form-control {
+  background-color: #364656;
+  border-color: #364656;
+  color: #ffffff;
+}
+
+.contact-grey .btn {
+  background-color: #139F86;
+  color: #ffffff;
+}
+
+.contact-grey address {
+  border-bottom-color: #B0BCC8;
+}
+
+.contact-grey address span {
+  color: #139F86;  
+}
+
+.contact-grey address span a,
+.contact-grey address span a:hover,
+.contact-grey address span a:visited {
+  color: #139F86;
+}
+
+.contact-grey  .input-lg::-webkit-input-placeholder{
+  color: #ffffff;
+}
+
+.contact-grey .input-lg:-moz-placeholder  {
+  color: #ffffff;
+}
+
+.contact-grey .input-lg::-moz-placeholder {
+  color: #ffffff;
+}
+
+.contact-grey .input-lg:-ms-input-placeholder {
+  color: #ffffff;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Contact / Contact Grey  -----------------------------*/
+/*--------------------------------------------------------------------------*/

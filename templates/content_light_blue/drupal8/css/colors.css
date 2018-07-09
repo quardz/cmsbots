@@ -1,0 +1,24 @@
+.content-light-blue {
+  background-color: #ffffff;
+}
+
+.content-light-blue .content-boxes .top-header .title {
+  color: #3a3d41;
+}
+
+.content-light-blue .content-boxes .top-header .description {
+  color: #3a3d41;
+}
+
+.content-light-blue .content-box ul li {
+  color: #3a3d41;
+}
+
+.content-light-blue  .content-boxes .content-box {
+  border-top-color: #ebebeb;
+}
+
+.content-light-blue  .content-boxes  .content-box  .icon-circle {
+  background-color: #43b8c2;
+  color: #ffffff;
+}

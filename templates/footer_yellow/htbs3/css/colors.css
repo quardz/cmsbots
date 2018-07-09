@@ -1,0 +1,22 @@
+footer#footer {
+  background-color: #f6bb43;
+}  
+footer#footer .footer-follow-wrap {
+  background-color: #fde5a2;
+}
+footer#footer .footer-social .block-title,
+footer#footer .footer-social .block-content {
+  background-color:#fcd055;  
+}
+footer#footer .footer-social .follow-link-wrapper {
+  border-left-color: #fde5a2;
+}
+footer#footer .footer-social .follow-link-wrapper:hover a{
+  color: #ffffff;
+}
+footer#footer .footer-social .follow-link-wrapper a:before{
+  color: #524a33;
+}
+footer#footer .footer-message {
+  color: #2c2c2c;
+}

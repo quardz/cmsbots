@@ -1,0 +1,121 @@
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Portfolio / portfolio hexagon  ----------*/
+/*--------------------------------------------------------------------------*/
+.portfolio-hexagon {
+  font-family: roboto;
+  padding-top: 45px; 
+  padding-bottom: 5px;
+}
+
+.portfolio-hexagon  h2{
+  font-size: 36px;
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-weight: lighter;
+}
+
+.portfolio-hexagon  .desc {
+  font-size: 17px;
+  font-weight: lighter;
+  padding-bottom: 40px;
+}
+
+.portfolio-hexagon  .honeycombs {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  text-align: center;
+}
+
+.portfolio-hexagon  .honeycombs .inner_span {
+  display: block;
+  height: 100%;
+  width: 100%;
+  font-family: sans-serif;
+}
+
+.portfolio-hexagon  .honeycombs .inner-text {
+  padding-top: 40%;
+}
+
+.portfolio-hexagon .inner-text a {
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+.portfolio-hexagon  .honeycombs .honeycombs-inner-wrapper {
+  display: inline-block;
+  overflow: hidden;
+  width: 700px;
+  position: relative;
+  height: 1200px;
+}
+
+.portfolio-hexagon  .honeycombs .comb{
+  position: absolute;
+  display: inline-block;
+}
+
+.portfolio-hexagon  .honeycombs .hex_l,
+.portfolio-hexagon  .honeycombs .hex_r{
+  overflow: hidden;
+  position: absolute;
+  /* -webkit-backface-visibility: hidden; */
+}
+
+.portfolio-hexagon  .honeycombs .hex_l{
+  visibility: hidden;
+  -moz-transform: rotate(60deg);
+  -ms-transform: rotate(60deg);
+  -o-transform: rotate(60deg);
+  -webkit-transform: rotate(60deg);
+  transform: rotate(60deg);
+}
+
+.portfolio-hexagon  .honeycombs .hex_r{
+  visibility: hidden;
+  -moz-transform: rotate(-120deg);
+  -ms-transform: rotate(-120deg);
+  -o-transform: rotate(-120deg);
+  -webkit-transform: rotate(-120deg);
+  transform: rotate(-120deg);
+}
+
+.portfolio-hexagon  .honeycombs .hex_inner{
+  display: block;
+  visibility: visible;
+  -moz-transform: rotate(60deg);
+  -ms-transform: rotate(60deg);
+  -o-transform: rotate(60deg);
+  -webkit-transform: rotate(60deg);
+  transform: rotate(60deg);
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  cursor: pointer;	
+}
+
+.portfolio-hexagon  .portfolio-green .carousel-inner {
+  width: auto;
+}
+
+.portfolio-hexagon  .mobile-carousel-controls {
+  padding: 15px;
+  padding-bottom: 30px;
+}
+
+.portfolio-hexagon  .mobile-carousel-controls span {
+  width: 50%;
+  float: left;
+  font-size: 25px;
+  text-align: center;
+  font-weight: lighter;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Portfolio / portfolio hexagon  -------------*/
+/*--------------------------------------------------------------------------*/

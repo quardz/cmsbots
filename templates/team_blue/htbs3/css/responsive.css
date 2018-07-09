@@ -1,0 +1,60 @@
+
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Team / Team blue   ----------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) { 
+
+.team-blue {
+  padding-top: 25px;
+  padding-bottom: 0px;
+}
+
+.team-blue .team-header h2 {
+  font-size: 25px;
+  font-size: normal;
+  padding-left: 5px;
+}
+
+.team-blue .team-header .desc {
+  font-size: 15px;
+  padding: 9px 5px;
+}
+
+.team-blue .team-header .desc p {
+  margin: 0px 0px 11px;
+}
+ 
+.team-blue .carousel-inner {
+  width: 100%;
+  margin: 0;
+}
+
+.mobile-carousel-controls {
+  padding: 20px;
+  padding-top: 0px;
+}
+
+.team-red  .carousel-inner .item {
+  margin: 0;
+}
+
+.team-red .team-name {
+  font-size: 23px;
+}
+
+.team-red .team-designation{
+  font-size: 17px;
+}
+
+.team-red .team-header {
+  margin-bottom: 0px;
+}
+
+.team-red .team-inner {
+  padding: 0;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Team / Team blue   -------------------------*/
+/*--------------------------------------------------------------------------*/

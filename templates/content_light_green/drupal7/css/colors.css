@@ -1,0 +1,25 @@
+.content-light-green {
+  background-color: #ffffff;
+}
+
+.content-light-green .content-box .title {
+  color: #000000;
+}
+
+.content-light-green .content-box .description {
+  color: #4b4b4b;
+}
+
+.content-light-green .content-box {
+  background-color: #f7f7f7;
+  border-right-color: #cdcdcd;
+  border-bottom-color: #cdcdcd;
+  border-top-color: #cdcdcd;
+  border-left-color: #a5C63b;
+}
+
+.content-light-green .content-box .buynow-button a {
+  background-color: #a4c63b;
+  border-color: #a4c63b;
+  color: #ffffff;
+}

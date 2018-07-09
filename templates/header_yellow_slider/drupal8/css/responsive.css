@@ -1,0 +1,52 @@
+@media (max-width: 767px) {
+  body.navbar-is-fixed-top {
+    padding-top: 50px !important;
+  }
+  header#navbar .navbar-toggle {
+    border: 1px solid;
+  }
+  header#navbar .navbar-toggle {
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+  .carousel-homeslider-header-yellow-slider .carousel-caption {
+    bottom: 10%;
+  }
+  .carousel-homeslider-header-yellow-slider .carousel-caption .desc {
+    font-size: 1em;
+    margin-bottom: 10px;
+  }
+  .carousel-homeslider-header-yellow-slider .carousel-caption .title {
+    font-size: 1.1em;
+    margin-bottom: 5px;
+  }
+  .carousel-homeslider-header-yellow-slider .carousel-caption .cta-button {
+    padding: 5px 15px;
+    font-size: 1em;
+  }
+  .carousel-homeslider-header-yellow-slider .carousel-indicators {
+    bottom: 0px;
+  }
+  header#navbar nav {
+    max-height: 10px;
+  }
+  header#navbar .navbar-scrolled .navbar-nav>.open>a, 
+  header#navbar .navbar-scrolled.navbar-nav>.active>a {
+    background-image: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+}
+@media (min-width: 768px) and (max-width: 992px) {
+  .carousel-homeslider-header-yellow-slider .carousel-caption .title {
+    font-size: 2.5em;
+  }
+  .carousel-homeslider-header-yellow-slider .carousel-caption .desc {
+    font-size: 1.5em;
+  }
+}
+@media (min-width: 768px) {
+  body.path-frontpage {
+    padding-top: 0px !important;
+  }
+}

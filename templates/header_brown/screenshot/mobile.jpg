@@ -1,0 +1,12 @@
+--2018-07-07 11:06:00--  http://q2test.s3.amazonaws.com/img/mobilescreens/header_coffee_mobile.jpg
+Resolving q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)... 52.216.230.171
+Connecting to q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)|52.216.230.171|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 87440 (85K) [image/jpeg]
+Saving to: 'header_coffee_mobile.jpg'
+
+     0K .......... .......... .......... .......... .......... 58% 61.0K 1s
+    50K .......... .......... .......... .....                100% 73.0K=1.3s
+
+2018-07-07 11:06:02 (65.5 KB/s) - 'header_coffee_mobile.jpg' saved [87440/87440]
+

@@ -1,0 +1,6 @@
+    <div class = "block-content footer-message-logo col-xs-12">
+      <img class="responsive-image" alt = "logo" src="<<path-to-theme>>/assets/images/footer-yellow-footer-logo.png" />
+    </div>
+    <div class = "block-content footer-message-content col-xs-12">
+      <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent a sem sem.<br> Nunc mattis felis quis velit maximus consectetur.<br></p>
+    </div>

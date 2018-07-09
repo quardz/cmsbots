@@ -1,0 +1,7 @@
+<ul class="links nav pull-right">
+  <li class="first leaf"><a href="#" title="About us">About us</a></li>
+  <li class="leaf"><a href="#" title="Blog">Blog</a></li>
+  <li class="leaf"><a href="#" title="Legal Terms">Legal Terms</a></li>
+  <li class="leaf"><a href="#" title="Contact us">Contact us</a></li>
+  <li class="last leaf"><a href="#" title="Help">Help</a></li>
+</ul>

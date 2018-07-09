@@ -1,0 +1,27 @@
+.content-orange {
+  background-color: #ffffff;
+}
+
+.content-orange .top-header .title {
+  color: #e9573e;
+} 
+
+.content-orange .top-header .description {
+  color: #4d4d4d;
+}
+
+.content-orange .content-boxes .content-box .title {
+  color: #e9573e;
+}
+
+.content-orange .content-boxes .content-box .description {
+  color: #4b4b4b;
+}
+
+.content-orange .content-boxes .content-box .icon-circle {
+  background-color: #e9573e;
+}
+
+.content-orange .content-boxes .content-box .icon-circle i {
+  color: #ffffff;
+}

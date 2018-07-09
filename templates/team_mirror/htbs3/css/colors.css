@@ -1,0 +1,45 @@
+ 
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Team / Team Mirror ----------------------*/
+/*--------------------------------------------------------------------------*/
+.team-mirror {
+  background-color: #ffffff;
+}
+
+.team-mirror .team-header {
+  color: #ffffff;
+}
+
+.team-mirror .team-header h2 {
+  color: #e9573e;
+}
+
+.team-mirror .team-header .desc {
+  color: #333333;
+}
+
+.team-mirror .team-image  img {
+  border-color: #E9583E;
+}
+
+.team-mirror .team-name {
+  color: #E9583E;
+}
+
+.team-mirror .team-social a {
+  background-color: #E8563E;
+  color: #ffffff;
+}
+
+.mobile-carousel-controls span {
+  color: #ffffff;
+  background-color: #E8563E;
+}
+
+.mobile-carousel-controls span:hover {
+  background-color: #353535;
+  color: #ffffff;
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Team / Team Mirror  ------------------------*/
+/*--------------------------------------------------------------------------*/

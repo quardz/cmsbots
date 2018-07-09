@@ -1,0 +1,43 @@
+.content-blue {
+  font-family: 'Roboto', sans-serif;
+  padding-top: 26px;
+  padding-bottom: 26px;
+}
+
+.content-blue .top-header .title {
+  font-size: 2em;
+  font-weight: normal;
+  margin-bottom: 1px;
+}
+  
+.content-blue .top-header .description {
+  font-size: 1.2em;
+  margin-bottom: 46px;
+}
+
+.content-blue .content-boxes .content-box i {
+  font-size: 3.70em;
+  margin: auto;
+  padding-top: 5px;
+}
+
+.content-blue .content-boxes .content-box .icon-circle {
+  border-radius: 48px;
+  display: inline-flex;
+  height: 96px;
+  width: 96px;
+  border: 2px solid;
+  margin-bottom: 6px;
+}
+
+.content-blue .content-boxes .content-box .title {
+  font-size: 1.50em;
+  font-weight: normal;
+  margin-top: 10px;
+  margin-bottom: 13px; 
+}
+
+.content-blue .content-boxes .content-box .description {
+  font-size: 1em;
+  line-height: 170% ;
+}

@@ -1,0 +1,20 @@
+.content-pink .top-header .title {
+  color: #db4453;
+} 
+
+.content-pink .top-header .description {
+  color: #4d4d4d;
+}
+
+.content-pink .content-boxes .content-box .title {
+  color: #db4453;
+ }
+
+.content-pink .content-boxes .download-links .download-buttons {
+  background-color: #db4453;
+  color: #ffffff;
+}
+
+.content-pink .content-boxes .content-pink-video {
+  color: #db4453;
+}

@@ -1,0 +1,118 @@
+.footer-light-orange {
+  font-family: 'Roboto', sans-serif;
+}
+
+.footer-light-orange .footer-message {
+  padding-top: 15px;
+  padding-bottom: 18px;
+}
+
+.footer-light-orange .footer-message .block-content .title {
+  font-size: 1.2em;
+  font-weight: lighter;
+  text-align: left;
+  margin-left: 10px;
+  vertical-align: middle;
+  margin-top: 20px;
+}
+
+.footer-light-orange .footer-message .block-content .info-icon {
+  text-align: center;
+  font-size: 7em;
+  vertical-align: middle;
+  display: table-cell;
+}
+
+.footer-light-orange .footer-message .block-content .info-description {
+  display: table-cell;
+  float: none;
+}
+
+.footer-light-orange .footer-blocks {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.footer-light-orange .footer-menu ul li a {
+  font-size: 1.3em;
+  background: transparent;
+  font-weight: lighter;
+  padding: 1px 0px;
+} 
+ 
+.footer-light-orange .footer-menu ul li a:hover {
+  text-decoration: underline;
+}  
+
+.footer-light-orange .footer-blocks .title h2,
+.footer-light-orange .footer-blocks .block-title {
+  font-size: 1.7em;
+  font-weight: lighter;
+  margin-top: 0;
+  margin-bottom: 27px;
+}
+
+.footer-light-orange .footer-copyright {
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+.footer-light-orange .footer-copyright h2.title  {
+  font-size: 1.2em;
+  font-weight: lighter;
+  margin-bottom: 25px;
+} 
+ 
+.footer-light-orange .footer-copyright .block-content {
+  line-height: 1.2em;
+  font-size: 1.1em;
+  font-weight: lighter;
+}
+
+.footer-light-orange .footer-copyright-title {
+  line-height: 2em;
+  font-size: 1.1em;
+  font-weight: lighter;
+  margin-bottom: 21px;
+}
+
+.footer-light-orange .footer-social .block-content .follow-link-wrapper a {
+  padding-left: 0;
+  display: inline-block;
+  width: 40px;
+  text-align: center;
+  padding-top: 6px;
+  background: none;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 4px;
+}
+
+.footer-light-orange .footer-social .block-content .follow-link-wrapper a:hover {
+  text-decoration: none;
+}
+
+.footer-light-orange .footer-social .block-content .follow-link-wrapper a:before {
+  font-size: 1.5em;
+  font-weight: bold;
+  font-family: FontAwesome;
+}
+
+.footer-light-orange .footer-social .block-content .follow-link-wrapper-facebook a:before {
+  content: "\f09a";
+}
+
+.footer-light-orange .footer-social .block-content .follow-link-wrapper-googleplus a:before {
+  content: "\f0d5";
+}
+
+.footer-light-orange .footer-social .block-content .follow-link-wrapper-twitter a:before {
+  content: "\f099";
+}
+
+.footer-light-orange .footer-social .block-content .follow-link-wrapper-linkedin a:before {
+  content: "\f0e1";
+}
+
+
+

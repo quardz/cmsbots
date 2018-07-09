@@ -1,0 +1,3 @@
+  if (_mbase_setting('section_home_welcome_visibility', $theme, NULL)) {
+   $variables['snippet_home_welcome']['#markup'] = _mbase_setting('section_home_welcome_code', $theme, NULL);
+  }

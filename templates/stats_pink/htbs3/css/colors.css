@@ -1,0 +1,53 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Stats / stats pink --------------------------------*/
+/*--------------------------------------------------------------------------*/
+/* CSS from jquery-asProgress.js library*/
+.progress {
+  background-color: #f7f7f7;
+  border-color: #eeeeee;
+}
+
+.progress__bar {
+  background: #5bc0de;
+}
+
+.progress__label {
+  color: #ffffff;
+}
+
+.progress--success .progress__bar {
+  background-color: #43ac6a;
+}
+
+.progress--alert .progress__bar {
+  background-color: #f04124;
+}
+
+.stat-stats-pink h2.title {
+  color: #DB4453;
+}
+
+.stat-stats-pink .stat-label {  
+  color: #ffffff;
+  background-color: #424242;
+}  
+
+.stat-stats-pink .progress {
+  background-color: #FCF0F2;
+}
+
+.stat-stats-pink  .progress__bar {
+  background-color: #DB4453;
+}
+
+.stat-stats-pink  .stat-inner {
+  background-color: #FCF0F2;
+}
+
+.stat-stats-pink  .stat-desc {
+  color: #4b4b4b;
+}
+/*--------------------------------------------------------------------------*/
+/*--------------------  Ends : Stats / stats pink---------------------------*/
+/*--------------------------------------------------------------------------*/

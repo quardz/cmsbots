@@ -1,0 +1,17 @@
+.content-light-orange .btn-orange,
+.content-light-orange,
+.content-light-orange .content-text p {
+  color: #4c4c4c;
+}
+.content-light-orange h1,
+.content-light-orange h2,
+.content-light-orange h3,
+.content-light-orange h4,
+.content-light-orange h5,
+.content-light-orange h6 {
+  color: #e9573e;
+
+}
+.content-light-orange .btn-orange {
+  border-color: #e9573e;
+}

@@ -1,0 +1,68 @@
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Portfolio / Portfolio purple  -----------*/
+/*--------------------------------------------------------------------------*/
+.portfolio-purple {
+  background-color: #202932;
+}
+
+.portfolio-purple .portfolio-header {
+  color: #ffffff;
+}
+
+.portfolio-purple h3 {
+  color: #ffffff;
+}
+.portfolio-purple h2,
+.portfolio-purple  .desc {
+  color: #ffffff;
+}
+.portfolio-purple h2,
+.portfolio-purple #mixitup-options ul.option-set li {
+  color: #ffffff;
+}
+
+.portfolio-purple #mixitup-options ul.option-set li.active,
+.portfolio-purple #mixitup-options ul.option-set li:hover {
+  color: #7E6F97;
+}
+
+.portfolio-purple .mix:hover .portf-hover{
+  background-color: #6D5C92;
+}
+ 
+.portfolio-purple   .portf-hover-inner  a{
+  text-align: center;
+  border-color: #ffffff;
+  color: #ffffff;
+}
+
+.mobile-carousel-controls span {
+  color: #ffffff;
+  background-color: #6D5C92;
+}
+
+.mobile-carousel-controls span:hover {
+  background-color: #ffffff;
+  color: #6D5C92;
+}
+
+.inner-page.portfolio .portfolio-purple {
+  background-color: #ffffff; 
+}
+.inner-page.portfolio .portfolio-purple h2,
+.inner-page.portfolio .portfolio-purple h3,
+.inner-page.portfolio .portfolio-purple h4,
+.inner-page.portfolio .portfolio-purple h5,
+.inner-page.portfolio .portfolio-purple #mixitup-options ul.option-set li,
+.inner-page.portfolio .portfolio-purple .desc,
+.inner-page.portfolio .portfolio-purple {
+  color: #000000;
+}
+.inner-page.portfolio .portfolio-purple #mixitup-options ul.option-set li.active, 
+.inner-page.portfolio .portfolio-purple #mixitup-options ul.option-set li:hover {
+  color: #202932;
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Portfolio / Portfolio purple  --------------*/
+/*--------------------------------------------------------------------------*/
+ 

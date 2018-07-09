@@ -1,0 +1,135 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Header / Header dark green  -----------------------*/
+/*--------------------------------------------------------------------------*/
+#header-header1-content {
+  background-image: url(
+  "images/css-header-header-dark-green-main-background.jpg"); 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 580px;
+}  
+
+.header-header1-menu .dropdown-menu {
+  min-width: 200px;
+  border: 1px solid;
+  border: 1px solid;
+}
+
+.header-header1-menu .dropdown-menu .dropdown-menu {
+ border-left: 4px solid transparent;
+}
+
+.header-header1-menu .dropdown-menu > li > a {
+  font-size: 1.2em;
+  padding: 2px 20px;
+}
+
+.header-header1-menu .navbar-nav > li > a:focus, 
+.header-header1-menu .navbar-nav > li > a:hover {
+  background: transparent;
+  border: 1px solid #2DCA6E;
+}
+
+.header-header1-menu .navbar-nav > li > a {
+  font-family: roboto;
+  font-size: 1.2em;
+  font-weight: normal;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  text-transform: uppercase;
+  border: 1px solid transparent;
+}
+
+.header-header1-menu .navbar-toggle {
+  border-radius: 0px;
+  border: 1px solid;
+  margin-top: 0px;
+}
+
+.header-header1-menu nav {
+  margin-top: 15px;
+}
+
+.header-header1-menu #nav.affix {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index:10;
+}
+
+#header-header1-content  .main-title {
+  margin-top: 145px;
+  font-size: 6.5em;
+}
+
+#header-header1-content  .main-desc {
+  margin-top: 5px;
+  font-size: 1.6em;
+}
+
+#header-header1-content  .main-buttons-wrap {
+  margin-top: 35px;
+}
+
+#header-header1-content .main-buttons-wrap .main-download {
+  margin-bottom: 110px;
+  border-radius: 0px;
+  text-align: left;
+  margin-right: 15px;
+  padding: 5px 8px;
+}
+
+#header-header1-content .main-buttons-wrap .main-download span {
+  float: left;
+  font-size: 1.3em;
+  letter-spacing: .04em;
+  margin-top: 4px;
+  margin-left: 15px;
+}  
+
+#header-header1-content .main-buttons-wrap .main-download .fa {
+  float: right;
+  text-align: right;
+  margin-left: 10px;
+  padding-top: 3px;
+  font-size: 1.8em;
+  margin-right: 15px;
+}
+
+#header-header1-content .btn-success {
+  background-image: none;
+  text-shadow: none;
+}
+
+.header-header1-menu .navbar-scrolled  {
+  border: none;
+  background-image: none;
+  margin-top: 0px;
+  border-radius: 0px;
+  margin-bottom: 0px;
+}
+
+.header-header1-menu .navbar-scrolled  .navbar  {
+  min-height: 0px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.header-header1-menu .navbar-scrolled .logo img{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.header-header1-menu .navbar-scrolled .navbar-nav > li > a:focus, 
+.header-header1-menu .navbar-scrolled .navbar-nav > li > a:hover,
+.header-header1-menu .navbar-scrolled .navbar-nav > li > a.active {
+  background: transparent;
+  border: 1px solid #ffffff;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Header / Header dark green  --------------------------*/
+/*--------------------------------------------------------------------------*/

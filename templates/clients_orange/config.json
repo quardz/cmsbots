@@ -1,0 +1,19 @@
+{
+  "platform": {
+    "htbs2": true,
+    "drupal7": true
+  },
+  "author": {
+    "name": "adalarasu d",
+    "twitter": "https://twitter.com/adalquardz",
+    "facebook": "https://www.facebook.com/adalarasu",
+    "linkedin": "https://www.linkedin.com/in/adalarasu/",
+    "github": "https://github.com/quardz",
+    "website": "http://quardz.com"
+  },
+  "name": "Clients orange",
+  "machine_name": "clients_orange",
+  "style_id": "128",
+  "region": "Clientele",
+  "created": "1420286000"
+}

@@ -1,0 +1,62 @@
+
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Team / Team Mirror ----------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) {  
+
+.team-mirror {
+  padding-top: 28px;
+  padding-bottom: 10px;
+}
+
+.team-mirror .team-header .desc {
+  padding-top: 10px;
+  padding-bottom: 7px;
+}
+
+.team-mirror .team-inner {
+  padding-bottom: 0px;
+}
+
+.team-mirror  .carousel-inner {
+  padding-bottom: 10px;
+}
+
+.team-mirror  .carousel-inner .item {
+  margin: 0;
+}
+
+.team-mirror .right-side,
+.team-mirror .left-side,
+.team-mirror .right-side .team-image,
+.team-mirror .left-side .team-image {
+  text-align: center;
+  float: none;
+}
+
+.team-mirror .team-header {
+  margin-bottom: 0px;
+}
+
+}
+
+@media (min-width: 769px) and (max-width: 992px) {  
+
+.team-mirror .team-image  img {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+}
+
+.team-mirror .team-content {
+  padding-left: 25px;
+}
+
+.team-mirror .team-header .desc {
+  padding-bottom: 0px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Team / Team Mirror  ------------------------*/
+/*--------------------------------------------------------------------------*/

@@ -1,0 +1,75 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Testimonial / Testimonial grey black  -------------*/
+/*--------------------------------------------------------------------------*/
+.testimonial-grey-black {
+  font-family: roboto;
+  padding-top: 28px;
+  padding-bottom: 28px;
+}
+
+.testimonial-grey-black h2 { 
+  font-size: 25px;
+  font-weight: normal;
+  padding-bottom: 20px;
+} 
+ 
+.testimonial-grey-black .carousel-indicators {
+  display: none;
+}
+
+.testimonial-grey-black .testi-body {
+  display: block;
+  padding: 13px;
+  font-weight: normal;
+  float: left;
+  width: 97%;
+  font-size: 17px;
+  line-height: 160%;
+}
+
+.testimonial-grey-black .testi-name {
+  font-size: 23px;
+  font-weight: normal;
+}
+
+.testimonial-grey-black .testi-arrow {
+  float: left;
+  margin-left: -2px;
+  padding-top: 25px;
+  font-size: 150%;
+}  
+
+.testimonial-grey-black .testi-name-designation {
+  padding-top: 28px;
+  text-align: right;
+  padding-right: 25px;
+}
+
+.testimonial-grey-black .testi-designation {
+  font-style: italic;
+  font-size: 13px;
+}
+
+.testimonial-grey-black .carousel-control  {
+  margin-top: -9px;
+  text-shadow: none;
+  font-size: 21px;
+}
+
+.testimonial-grey-black  .carousel-control.right {
+  right: 0px;
+  left: auto;
+  width: 15px;
+  text-align: center;
+}
+
+.testimonial-grey-black  .carousel-control.left {
+  right: 10px;
+  left: auto;
+  width: 15px;
+  text-align: center;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Testimonial / Testimonial grey black  ----------------*/
+/*--------------------------------------------------------------------------*/

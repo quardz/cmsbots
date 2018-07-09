@@ -1,0 +1,12 @@
+--2018-07-07 11:05:23--  http://q2test.s3.amazonaws.com/img/style/screenshots/content_purple.jpg
+Resolving q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)... 52.216.101.91
+Connecting to q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)|52.216.101.91|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88352 (86K) [image/jpeg]
+Saving to: 'content_purple.jpg'
+
+     0K .......... .......... .......... .......... .......... 57% 54.7K 1s
+    50K .......... .......... .......... ......               100%  118K=1.2s
+
+2018-07-07 11:05:25 (70.6 KB/s) - 'content_purple.jpg' saved [88352/88352]
+

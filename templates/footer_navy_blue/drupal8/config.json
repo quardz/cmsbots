@@ -1,0 +1,40 @@
+{
+  "regions": [
+    {
+      "region": "footer",
+      "name": "Footer"
+    },
+    {
+      "region": "footer_menu",
+      "name": "Footer Menu"
+    },
+    {
+      "region": "footer_copyright",
+      "name": "Footer Copyright"
+    }
+  ],
+  "default_block_placements": [
+    {
+      "label": "notvisible",
+      "bundle": "main",
+      "region": "footer_menu"
+    }
+  ],
+  "color_settings": [
+    {
+      "label": "Footer Text color",
+      "colors": "default || Default || #f6f6f6",
+      "region": "footer_text"
+    },
+    {
+      "label": "Footer Base color",
+      "colors": "default || Default || #2c3e50",
+      "region": "footer_base"
+    },
+    {
+      "label": "Footer Headings",
+      "colors": "default || Default || #0898a1",
+      "region": "footer_headings"
+    }
+  ]
+}

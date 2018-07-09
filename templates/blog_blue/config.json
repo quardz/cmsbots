@@ -1,0 +1,19 @@
+{
+  "platform": {
+    "htbs2": true,
+    "drupal7": true
+  },
+  "author": {
+    "name": "adalarasu d",
+    "twitter": "https://twitter.com/adalquardz",
+    "facebook": "https://www.facebook.com/adalarasu",
+    "linkedin": "https://www.linkedin.com/in/adalarasu/",
+    "github": "https://github.com/quardz",
+    "website": "http://quardz.com"
+  },
+  "name": "Blog blue",
+  "machine_name": "blog_blue",
+  "style_id": "134",
+  "region": "News / Blog",
+  "created": "1420451965"
+}

@@ -1,0 +1,69 @@
+@media (max-width: 767px) {
+
+.footer-white {
+  padding-top: 25px;
+  padding-bottom: 27px;
+}
+
+.footer-white .footer-message h2.title {
+  margin-bottom: 13px;
+}
+
+.footer-white .footer-message-content .camera-icon i {
+  margin-top: 15px;
+}
+
+.footer-white .footer-message {
+  padding-bottom: 6px;
+}
+
+.footer-white .footer-message .block-content {
+  padding-left: 2%;
+  padding-right: 2%;
+  font-size: 15px;
+}
+
+.footer-white .footer-menus-signup {
+  text-align: center;
+}
+
+.footer-white .footer-menus-signup .title h2 {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+.footer-white .footer-menus-signup .footer-signup-title {
+  margin-bottom: 20px;
+}
+
+.footer-white #mainchimp-subscribe {
+  border-bottom: 0px;
+}
+
+.footer-white #contact_email {
+  border: none;
+  width: 90%;
+  border-bottom: 1px solid #ffffff;
+  display: inline;
+  border-radius: 0px;
+  text-align: center
+}
+
+.footer-white .subscribe-form-submit {
+  background: #F39D14;
+  color: #ffffff;
+  display: inline;
+  width: 90%;
+  text-align: center;
+  margin-top: 30px;
+  float: none; 
+  border-radius: 0px;
+  height: 45px;
+  font-style: normal;
+}
+
+.footer-white .footer-copyright {
+  text-align: center;
+}
+
+}

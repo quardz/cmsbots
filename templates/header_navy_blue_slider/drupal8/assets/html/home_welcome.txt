@@ -1,0 +1,64 @@
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-welcome-slider" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-welcome-slider" data-slide-to="1" class=""></li>
+    <li data-target="#carousel-welcome-slider" data-slide-to="2" class=""></li>
+    <li data-target="#carousel-welcome-slider" data-slide-to="3" class=""></li>
+    <li data-target="#carousel-welcome-slider" data-slide-to="4" class=""></li>
+  </ol>
+  <div class="view-content carousel-inner" >
+    <div class="active views-row item" >
+      <img src="<<path-to-theme>>/assets/images/content-image-header-header-navy-blue-slider-main-background2.jpg" data-src="" alt="">
+      <div class="container">
+        <div class="carousel-caption">
+          <div class="slider-content">
+            <h2 class="title">Save your time and effort</h2>
+            <a href="#" class="btn cta-button btn-warning btn-lg" role="button">Get it now</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="views-row item" >
+      <img src="<<path-to-theme>>/assets/images/content-image-header-header-navy-blue-slider-main-background3.jpg" data-src="" alt="">
+      <div class="container">
+        <div class="carousel-caption">
+          <div class="slider-content">
+            <h2 class="title">Save your time and effort</h2>
+            <a href="#" class="btn cta-button btn-warning btn-lg" role="button">Get it now</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="views-row item" >
+      <img src="<<path-to-theme>>/assets/images/content-image-header-header-navy-blue-slider-main-background1.jpg" data-src="" alt="Navyblue  Silder 1">
+      <div class="container">
+        <div class="carousel-caption">
+          <div class="slider-content">
+            <h2 class="title">An innovative Product</h2>
+            <a href="#" class="btn cta-button btn-warning btn-lg" role="button">Get it now</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="views-row item" >
+      <img src="<<path-to-theme>>/assets/images/content-image-header-header-navy-blue-slider-main-background4.jpg" data-src="" alt="">
+      <div class="container">
+        <div class="carousel-caption">
+          <div class="slider-content">
+            <h2 class="title">Keep your clients happy</h2>
+            <a href="#" class="btn cta-button btn-warning btn-lg" role="button">Sign up now</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="views-row item" >
+      <img src="<<path-to-theme>>/assets/images/content-image-header-header-navy-blue-slider-main-background5.jpg" data-src="" alt="">
+      <div class="container">
+        <div class="carousel-caption">
+          <div class="slider-content">
+            <h2 class="title">Instant security Update</h2>
+            <a href="#" class="btn cta-button btn-warning btn-lg" role="button">Sign up now</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

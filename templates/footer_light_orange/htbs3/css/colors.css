@@ -1,0 +1,24 @@
+footer#footer,
+footer#footer .footer-menu ul li a,
+footer#footer .follow-link-wrapper a:before {
+  color: #ffffff;
+}
+footer#footer .footer-message {
+  background-color: #e5986a;
+}
+footer#footer .footer-blocks,
+footer#footer .footer-menu ul li {
+  background-color: #e28854;
+}
+
+footer#footer .footer-copyright {
+  background-color: #dd7538;
+}
+footer#footer .footer-social .follow-link-wrapper {
+  background-color: #eaa67f;
+}
+footer#footer .footer-social .follow-link-wrapper:hover ,
+footer#footer .footer-social .follow-link-wrapper a,
+footer#footer .footer-menu ul li a{
+  background-color: transparent;
+}

@@ -1,0 +1,10 @@
+{
+  "regions": [
+    {
+      "region": "hpc_features_orange",
+      "name": "Homepage Features Orange"
+    }
+  ],
+  "default_block_placements": [],
+  "color_settings": []
+}

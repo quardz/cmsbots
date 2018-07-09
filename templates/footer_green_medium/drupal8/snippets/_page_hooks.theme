@@ -1,0 +1,32 @@
+  $footer_regions = array (
+    'footer',
+    'footer_menu1',
+    'footer_menu2',
+    'footer_menu3',
+    'footer_menu',
+    'footer_copyright',
+  );
+  $tags = array (
+    'div',
+    'h2',
+    'p',
+    'span',
+    'a',
+    'ul',
+    'aside',
+    'ol',
+    'li',
+    'img',
+    'i',
+    'form',
+    'input',
+    'button',
+    'aside',
+  );
+  foreach ($footer_regions as $footer_region) {
+    if (_mbase_setting('section_' . $footer_region . '_visibility', $theme, NULL)) {
+      $section_content = _mbase_setting('section_' . $footer_region . '_code', $theme, NULL);
+      $snippet_variable = 'snippet_' . $footer_region;
+      $variables[$snippet_variable] = \Drupal\Component\Utility\SafeMarkup::xssFilter($section_content, $tags);
+    }
+  }

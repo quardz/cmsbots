@@ -1,0 +1,19 @@
+{
+  "platform": {
+    "htbs2": true,
+    "drupal7": true
+  },
+  "author": {
+    "name": "adalarasu d",
+    "twitter": "https://twitter.com/adalquardz",
+    "facebook": "https://www.facebook.com/adalarasu",
+    "linkedin": "https://www.linkedin.com/in/adalarasu/",
+    "github": "https://github.com/quardz",
+    "website": "http://quardz.com"
+  },
+  "name": "stats white",
+  "machine_name": "stats_white",
+  "style_id": "57",
+  "region": "Stats",
+  "created": "1419600375"
+}

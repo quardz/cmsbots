@@ -1,0 +1,115 @@
+.footer-wrap {
+  font-family: 'Roboto', sans-serif;
+}
+.footer-wrap .footer-message {
+  padding-top: 15px;
+  padding-bottom: 18px;
+}
+.footer-wrap .footer-message .title,
+.footer-wrap .footer-message .block-title,
+.footer-wrap .footer-message h2,
+.footer-wrap .footer-message h3 {
+  font-size: 1.2em;
+  font-weight: lighter;
+  text-align: left;
+  margin-left: 10px;
+  vertical-align: middle;
+  margin-top: 20px;
+}
+.footer-wrap .footer-message .info-icon {
+  text-align: center;
+  font-size: 7em;
+  vertical-align: middle;
+  display: table-cell;
+}
+
+.footer-wrap .footer-message .info-description {
+  display: table-cell;
+  float: none;
+}
+
+.footer-wrap .footer-blocks {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.footer-wrap .footer-menu ul li a {
+  font-size: 1.3em;
+  background: transparent;
+  font-weight: lighter;
+  padding: 1px 0px;
+} 
+
+.footer-wrap .footer-menu ul li a:hover {
+  text-decoration: underline;
+}  
+
+.footer-wrap .footer-blocks .title h2,
+.footer-wrap .footer-blocks .block-title {
+  font-size: 1.7em;
+  font-weight: lighter;
+  margin-top: 0;
+  margin-bottom: 27px;
+}
+
+.footer-wrap .footer-copyright {
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+.footer-wrap .footer-copyright h2.title  {
+  font-size: 1.2em;
+  font-weight: lighter;
+  margin-bottom: 25px;
+} 
+ 
+.footer-wrap .footer-copyright {
+  line-height: 1.2em;
+  font-size: 1.1em;
+  font-weight: lighter;
+}
+
+.footer-wrap .footer-copyright-title {
+  line-height: 2em;
+  font-size: 1.1em;
+  font-weight: lighter;
+  margin-bottom: 21px;
+}
+
+.footer-wrap .footer-social .follow-link-wrapper a {
+  padding-left: 0;
+  display: inline-block;
+  width: 40px;
+  text-align: center;
+  padding-top: 6px;
+  background: none;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 4px;
+}
+
+.footer-wrap .footer-social .follow-link-wrapper a:hover {
+  text-decoration: none;
+}
+
+.footer-wrap .footer-social .follow-link-wrapper a:before {
+  font-size: 1.5em;
+  font-weight: bold;
+  font-family: FontAwesome;
+}
+
+.footer-wrap .footer-social .follow-link-wrapper-facebook a:before {
+  content: "\f09a";
+}
+
+.footer-wrap .footer-social .follow-link-wrapper-googleplus a:before {
+  content: "\f0d5";
+}
+
+.footer-wrap .footer-social .follow-link-wrapper-twitter a:before {
+  content: "\f099";
+}
+
+.footer-wrap .footer-social .follow-link-wrapper-linkedin a:before {
+  content: "\f0e1";
+}

@@ -1,0 +1,1 @@
+<?php print render($page['content_dark_navy_blue']); ?>	

@@ -1,0 +1,32 @@
+footer#footer {
+  background-color:#000000;
+}
+footer#footer .footer-message a,
+footer#footer .footer-menu ul li a:hover {
+  color: #a5c63b;
+}
+footer#footer .footer-menu ul li,
+footer#footer .footer-menu ul li a {
+  background-color: transparent;
+}
+footer#footer,
+footer#footer .footer-menu ul li a,
+footer#footer .footer-signup,
+footer#footer .subscribe-form-submit {
+  color: #ffffff;
+}
+footer#footer .footer-signup {
+  background-color: #a5c63b;
+}
+footer#footer .contact_email {
+  background-color: #ffffff;
+}
+footer#footer .subscribe-form-submit {
+  background-color: #8fb021;
+}  
+@media (max-width: 767px) {
+  footer#footer .footer-signup {
+    background-color: #A5C63B;
+    color: #ffffff;
+  }
+}

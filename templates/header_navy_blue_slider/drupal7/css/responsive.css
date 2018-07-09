@@ -1,0 +1,80 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Header / Header navy blue slider  -----------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 767px) {
+
+.header-navyblue-slider-menu .site-logo-name {
+  margin-top: 10px;
+}
+
+.carousel-homeslider-header-navyblue-slider .carousel-caption {
+  bottom: auto;
+  top: 0px;
+}
+
+.carousel-homeslider-header-navyblue-slider .carousel-indicators {
+  bottom: auto;
+  top: 20%;
+}
+
+.carousel-homeslider-header-navyblue-slider .carousel-caption .desc {
+  font-size: 1em;
+  margin-bottom: 10px;
+}
+
+.carousel-homeslider-header-navyblue-slider .carousel-caption .title {
+  font-size: 2.3em;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.carousel-homeslider-header-navyblue-slider .carousel-caption .cta-button {
+  padding: 5px 15px;
+  font-size: 1em;
+}
+
+.view-q-homeslider-header-navyblue-slider {
+  margin-top: 60px;
+}
+
+.header-navyblue-slider-menu  nav{
+  opacity: 1 !important;
+}
+
+.header-navyblue-menu .navbar-nav > li > a {
+  border-right: none;
+  padding: 10px;
+}
+
+.header-navyblue-slider-menu .dropdown-menu>li>a,
+.header-navyblue-slider-menu .dropdown-menu>li>a:hover,
+.header-navyblue-slider-menu .dropdown-menu>li>a.active,
+.header-navyblue-menu #navigation ul > li .active {
+  padding: 10px; 
+}
+
+.nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
+  border-color: none;
+}
+
+.carousel-homeslider-header-navyblue-slider .carousel-indicators  li{
+  width: 13px;
+  height: 13px;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+
+.carousel-homeslider-header-navyblue-slider .carousel-indicators {
+  bottom: 17%;
+}
+
+.carousel-homeslider-header-navyblue-slider .carousel-caption {
+  top: 18%;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Header / Header navy blue slider  --------------------*/
+/*--------------------------------------------------------------------------*/

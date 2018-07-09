@@ -1,0 +1,18 @@
+footer#footer {
+  background-color: #e84c3d;
+}
+footer#footer .footer-menu ul li a:hover,
+footer#footer .footer-menu ul li a:focus {
+  background-color: transparent;
+}
+footer#footer .follow-link-wrapper{
+  background-color: #ec7c70;
+}
+footer#footer,
+footer#footer .footer-menu ul li a,
+footer#footer .follow-link-wrapper a:before{
+  color: #ffffff;
+}
+footer#footer .follow-link-wrapper a:hover:before {
+  color: #e84c3d;
+}

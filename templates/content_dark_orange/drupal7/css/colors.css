@@ -1,0 +1,37 @@
+.content-dark-orange {
+  background-color: #ffffff;
+}
+
+.content-dark-orange .top-header .title {
+  color: #4b4b4b;
+}
+
+.content-dark-orange .top-header .description {
+  color: #4b4b4b;
+}
+
+.content-dark-orange .content-boxes .content-box{
+  color: #4b4b4b;
+}
+
+.content-dark-orange .content-box:hover {
+  color: #e77e23;
+}
+
+.content-dark-orange .content-box .icon-box {
+  border-color: #898989;
+  color: #ffffff;
+}
+
+.content-dark-orange .content-box:hover .icon-box {
+  border-color: #e77e23;
+  color: #ffffff;
+}
+
+.content-dark-orange .content-box .icon-inner-box {
+  background-color: #898989;
+}
+
+.content-dark-orange .content-box:hover .icon-inner-box {
+  background-color: #e77e23;
+}

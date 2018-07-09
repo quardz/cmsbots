@@ -1,0 +1,31 @@
+{
+  "regions": [
+    {
+      "region": "home_welcome",
+      "name": "Homepage Welcome"
+    }
+  ],
+  "default_block_placements": [],
+  "color_settings": [
+    {
+      "label": "Base color",
+      "colors": "default || Default || #1E967D",
+      "region": "base"
+    },
+    {
+      "label": "Background",
+      "colors": "default || Default || #ffffff",
+      "region": "background"
+    },
+    {
+      "label": "Text color",
+      "colors": "default || Default || #000000",
+      "region": "text"
+    },
+    {
+      "label": "Link",
+      "colors": "default || Default || #1d967d",
+      "region": "link"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "regions": [
+    {
+      "region": "content_blue",
+      "name": "Homepage Blue content"
+    }
+  ],
+  "default_block_placements": [],
+  "color_settings": []
+}

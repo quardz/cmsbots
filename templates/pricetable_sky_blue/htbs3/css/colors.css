@@ -1,0 +1,58 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : PriceTable / Price table sky-blue	----------------*/
+/*--------------------------------------------------------------------------*/
+.price-pricetable-sky-blue {
+  background-color: #ffffff;
+}
+
+.price-pricetable-sky-blue .price-header {
+  background-color: #242424;
+}  
+
+.price-pricetable-sky-blue .price-features {
+  background-color: #F5F5F5;
+} 
+
+.price-pricetable-sky-blue h2 {
+  color: #3498db;
+}
+
+.price-pricetable-sky-blue h3,
+.price-pricetable-sky-blue .price-header span {
+  color: #ffffff;
+}
+
+.price-pricetable-sky-blue .price-box:hover .price-header{
+  background-color: #3698D9;
+  color: #ffffff;
+}
+
+.price-pricetable-sky-blue .btn {
+  background-color: #242424;
+  color: #ffffff;
+}
+
+.price-pricetable-sky-blue .price-box:hover .btn {
+  background-color: #3698D9;
+  color: #ffffff;
+}  
+
+.price-pricetable-sky-blue .price-features-list li {
+  border-bottom-color: #E0E0E0 ;
+}
+
+.price-pricetable-sky-blue .price-price {
+  background-color: #E5E5E5;
+}
+
+.price-pricetable-sky-blue .price-price .price-cost span{
+  color: #000000;
+}
+
+.price-pricetable-sky-blue .price-price .price-cost {
+  color: #4B4B4B;
+}
+/*--------------------------------------------------------------------------*/
+/*------------    Ends : PriceTable / Price table sky-blue	----------------*/
+/*--------------------------------------------------------------------------*/

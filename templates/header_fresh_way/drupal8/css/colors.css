@@ -1,0 +1,94 @@
+header#navbar .navbar-inverse .navbar-toggle,
+header#navbar .navbar-inverse .navbar-toggle:hover,
+.header-freshway-content .subscribe-button {
+  border-color: #1e967d;
+}
+header#navbar.navbar-fixed-bottom,
+header#navbar .navbar-toggle .icon-bar {
+  background-color:#ffffff;
+}
+header#navbar .navbar-inverse .navbar-toggle:focus,
+header#navbar .navbar-inverse,
+body.path-frontpage header#navbar.scroll-top,
+header#navbar .navbar-toggle,
+header#navbar .navbar-inverse .navbar-nav>.open>a,
+.navbar-inverse .navbar-nav>.open>a:hover,
+body.path-frontpage header#navbar.navbar-fixed-top .navbar-toggle,
+.navbar-inverse .navbar-nav>.open>a:focus {
+  background-color: transparent;
+}
+header#navbar .navbar-toggle,
+header#navbar .navbar-toggle:hover,
+header#navbar .navbar-inverse .navbar-toggle:hover,
+header#navbar nav.affix,
+header#navbar .navbar-inverse #navigation,
+.header-freshway-content .subscribe-button,
+header#navbar .navbar-collapse,
+body.path-innerpage header#navbar.scrolled,
+header#navbar .dropdown-menu,
+header#navbar.navbar-inverse  {
+  background-color:#1e967d;
+}
+header#navbar .navbar-inverse {
+  border-color: transparent;
+  background-image: none;
+}
+.header-freshway-content .main-desc,
+.header-freshway-content .main-title,
+header#navbar .navbar-nav>li>a,
+.header-freshway-content .subscribe-button,
+header#navbar  .navbar-toggle,
+.navbar-brand,
+.navbar-inverse .navbar-brand,
+header#navbar .dropdown-menu li a,
+header#navbar .dropdown-menu li a:hover,
+header#navbar.navbar-inverse .navbar-brand,
+body.path-frontpage header#navbar.navbar-fixed-top .navbar-brand,
+header#navbar.scrolled.navbar-fixed-top .navbar-brand{
+  color: #ffffff;
+}
+.header-freshway-content .email-field {
+  border-color: #ffffff;
+}
+header#navbar  .navbar-nav>li>a:focus, 
+header#navbar  .navbar-nav>li>a:hover,
+header#navbar .navbar-inverse .navbar-nav>.open>a,
+.navbar-inverse .navbar-nav>.open>a:hover,
+.navbar-inverse .navbar-nav>.open>a:focus {
+  color: #000000;
+}
+header#navbar .navbar-brand,
+header#navbar  .navbar-nav .dropdown li a:hover {
+  color: #1e967d;
+}
+header#navbar.scrolled {
+  background-color:  #1d967d;
+}
+@media (max-width: 767px) {
+  dis.header#navbar .navbar-toggle {
+    border-color: transparent;
+    background-color: transparent;
+  }
+  header#navbar .navbar-nav > li > a:hover,
+  header#navbar .dropdown-menu>li>a,
+  header#navbar .dropdown-menu>li>a:hover,
+  header#navbar .dropdown-menu>li>a.active,
+  header#navbar #navigation ul > li .active{
+    color:#ffffff; 
+  }
+  header#navbar .navbar-nav>li>a:focus, 
+  header#navbar .navbar-nav>li>a:hover {
+    color: #000000;
+  }
+  header#navbar .nav .open>a, 
+  .nav .open>a:hover, 
+  .nav .open>a:focus {
+    background-color: #eeeeee;
+    border-color: #ffffff;
+  }
+  header#navbar .navbar-inverse .navbar-toggle:focus,
+  header#navbar ul.navbar-nav {
+    background-color: #1e967d;
+    border-color: #1e967d;
+  }
+}

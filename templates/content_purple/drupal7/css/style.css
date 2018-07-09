@@ -1,0 +1,27 @@
+.content-purple {
+  font-family: 'Roboto', sans-serif;
+  padding-top: 26px;
+  padding-bottom: 26px;
+}
+
+.content-purple .top-header .title {
+  font-size: 2.34em;
+  font-weight: normal;
+  margin-bottom: 5px;
+}
+
+.content-purple .top-header .description {
+  font-size: 1.30em;
+  margin-bottom: 21px;
+}
+
+.content-purple .content-boxes .content-box .title {
+  font-size: 1.83em;
+  font-weight: normal;
+  margin-bottom: 16px;
+}
+
+.content-purple .content-boxes .content-box .description {
+  font-size: 1.20em;
+  margin-bottom: 28px;
+}

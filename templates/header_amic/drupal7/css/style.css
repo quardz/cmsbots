@@ -1,0 +1,150 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Header / Header Amin  -----------------------------*/
+/*--------------------------------------------------------------------------*/
+.header-amic-content {
+  background-image: url(
+  "images/css-header-header-amic-main-background.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-height: 650px;
+  font-family: roboto;
+}  
+ 
+.header-amic-content .main-title{
+  margin-top: 145px;
+  font-size: 3.7em;
+}
+
+.header-amic-content .main-desc{
+  margin-top: 5px;
+  font-size: 1.7em;
+  letter-spacing: .04em;
+}
+ 
+.header-amic-content .block-icon-circle {
+  display: inline-block;
+  font-size: 4em;
+  border-radius: 50%;
+  width: 90px;
+  height: 90px;
+}
+
+.header-amic-content .block-icon-circle i {
+  vertical-align: middle;
+  font-size: 0.80em;
+}
+
+.header-amic-content .block-icon-circle:hover  {
+  opacity: 0.9;
+} 
+ 
+.header-amic-content .block-text{
+  display: block;
+  font-size: 2em;
+  font-weight: normal; 
+}
+
+.header-amic-content .block-desc{
+  display: block;
+}
+
+.header-amic-content .content-block-group {
+  margin-top: 50px;
+}
+
+.header-amic-menu {
+  font-family: roboto;
+}
+
+.header-amic-menu .site-logo-name {
+  margin-top: 20px
+}
+ 
+.header-amic-menu #nav.affix {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+}
+
+.header-amic-menu {
+  font-family: roboto;
+}
+
+.header-amic-menu  nav{
+  max-height: 75px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  opacity: 0.90;
+}
+
+.header-amic-menu .navbar-nav>li  {
+  margin-top: 15px;
+}
+
+.header-amic-menu .navbar-nav>li>a {
+  text-transform: uppercase;
+  font-size: 1.1em;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 9px;
+  padding-right: 9px;
+}
+
+.header-amic-menu .navbar-nav>li>a:focus, 
+.header-amic-menu .navbar-nav>li>a:hover,
+.header-amic-menu .navbar-nav>li>a.active, 
+.header-amic-menu .navbar-nav a:focus, 
+.header-amic-menu .navbar-nav a:hover,
+.header-amic-menu .navbar-nav a.active {
+  background: transparent;
+}
+
+.header-amic-menu .navbar-nav>li>a.menu-highlight {
+  font-size: 1em;
+  text-transform: none;
+}
+
+.header-amic-menu  #navigation {
+  border: none;
+}
+
+.header-amic-menu .site-name-logo {
+  margin-top: 20px;
+}
+
+.header-amic-menu .navbar-nav {
+  margin-top: 10px;
+}
+
+.header-amic-menu   .navbar-nav .request-early {
+  padding: 5px 5px;
+  display: block;
+  margin-top: 8px;
+}
+
+.header-amic-menu   .navbar-nav .request-early a {
+  font-size: 1.18em;
+  text-transform: none;
+  text-shadow: none;
+  font-weight: normal;
+}
+
+.header-amic-menu  .navbar-toggle {
+  border-radius: 0px;
+}
+
+.header-amic-menu .navbar-scrolled {
+  border: none;
+  background-image: none;
+  border-radius: 0px;
+  opacity: 0.90;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Header / Header Amin  --------------------------------*/
+/*--------------------------------------------------------------------------*/

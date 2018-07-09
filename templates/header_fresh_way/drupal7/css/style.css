@@ -1,0 +1,167 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Header / Header Fresh way  ------------------------*/
+/*--------------------------------------------------------------------------*/ 
+.header-freshway-content {
+  background-image: url(
+  "images/css-header-header-fresh-way-main-background.jpg"); 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 580px;
+}  
+
+.header-freshway-menu nav .icon-text {
+  float: left;
+  font-size: 1.36em;
+  margin-right: 10px;
+}
+
+.header-freshway-menu nav .icon-bars {
+  float: right;
+  padding-top: 6px;
+}
+
+.header-freshway-menu .dropdown-menu {
+  display:none !important;
+}
+
+.header-freshway-menu .navbar-inverse .navbar-toggle {
+  display: block;
+  visibility: visible;
+  border-radius: 0px;
+}
+
+.header-freshway-menu .navbar-collapse.collapse {
+  display: none !important;
+  visibility: visible;
+}
+
+.header-freshway-menu .navbar-collapse.in,
+.navbar-collapse.in .navbar-collapse{
+  display: block !important; 
+  border: none;
+  border-radius: 0px;
+  visibility: visible;
+}
+
+.header-freshway-content .main-block {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.header-freshway-menu .site-name-logo {
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.header-freshway-menu nav.affix{
+  margin-top: 0px !important;
+  height: 70px;
+}
+
+.header-freshway-menu nav.affix #navigation disable{
+  margin-top: 10px;
+}
+.header-freshway-menu #nav {
+  max-height: 64px;
+}
+.inner-page .header-freshway-menu #nav {
+  margin-bottom:0px;
+}
+
+.header-freshway-menu .navbar-inverse #navigation {
+  min-width: 300px;
+  width: auto;
+  float: right;
+  padding-left: 0px;
+  z-index:10000;
+}
+
+.header-freshway-content  .main-block-inner {
+  width: 100%;
+  display: block;
+  text-align: center;
+}
+
+.header-freshway-content  .main-desc{
+  margin-top: 50px;
+  font-size: 1.5em;
+  font-weight: lighter;
+}
+ 
+.header-freshway-content  .main-title {
+  font-size: 3em;
+  font-weight: normal;
+  border: 5px solid;
+  display: inline-block;
+  text-align: center;
+  margin: 0 auto;
+  padding: 0px 50px;
+}
+
+.header-freshway-content  .email-field {
+  border-radius: 0px;
+  width: 30%;
+  margin-right: 0px;
+  border: 2px solid;
+  box-shadow: none;
+  font-size: 1.4em;
+  font-weight: normal;
+}
+
+.header-freshway-content  .subscribe-button {
+  border-radius: 0px;
+  border: 2px solid;
+  margin-left: -5px; 
+  text-shadow: none;
+  letter-spacing: .05em;
+  box-shadow: none;
+  height: 46px;
+}  
+
+.header-freshway-content  .main-signup-form-wrap {
+  margin-top: 20px;
+}
+
+.header-freshway-menu #navigation{
+  margin-top; 10px;
+}
+
+.header-freshway-menu .navbar-nav>li  {
+  margin-top: 15px;
+  float: none;
+}
+
+.header-freshway-menu .navbar-nav {
+  margin-top: 0px;
+  float: none !important;
+}
+
+.header-freshway-menu .navbar-nav>li>a {
+  text-transform: uppercase;
+  font-size: 1.1em;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.header-freshway-menu  .navbar-toggle {
+  border: 0;
+  border-radius: 0px;
+}
+
+.header-freshway-menu .navbar-inverse .navbar-scrolled  {
+  border: none;
+  background-image: none;
+  background: #1d967d;
+  margin-top: 0px;
+  border-radius: 0px;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Header / Header Fresh way  ---------------------------*/
+/*--------------------------------------------------------------------------*/

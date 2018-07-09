@@ -1,0 +1,51 @@
+ 
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Portfolio / Portfolio yellow  -----------*/
+/*--------------------------------------------------------------------------*/
+.portfolio-yellow {
+  background-color: #ffffff;
+}
+
+.portfolio-yellow  #mixitup-options {
+  background-color: #ffffff;
+}
+
+.portfolio-yellow #mixitup-options ul.option-set li {
+  border-color: #EFB94F;
+  color: #4b4b4b;
+}
+
+.portfolio-yellow #mixitup-options ul.option-set li.active,
+.portfolio-yellow #mixitup-options ul.option-set li:hover {
+  background-color: #EFB94F;
+  color: #ffffff;
+  border-color: #EFB94F;
+}
+
+.portfolio-yellow  .mix:hover  .portf-hover{
+  background-color: #EFB950;
+}
+ 
+.portfolio-yellow   .portf-hover-inner  a{
+  border-color: #ffffff;
+  color: #ffffff;
+}
+
+.portfolio-yellow   .portf-hover-inner  a:hover{
+  background-color: #ffffff;
+  border-color: #ffffff;
+  color: #EFB94F;
+}  
+
+.mobile-carousel-controls span {
+  color: #ffffff;
+  background-color: #EFB94F;
+}
+
+.mobile-carousel-controls span:hover {
+  background-color: #353535;
+  color: #ffffff;
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Portfolio / Portfolio yellow  --------------*/
+/*--------------------------------------------------------------------------*/

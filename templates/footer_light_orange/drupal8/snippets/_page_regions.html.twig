@@ -1,0 +1,83 @@
+<footer id="footer-wrap" class="footer-section section footer-wrap">
+  {% if page.footer %}
+  <div class="footer-message">
+    <div class="{{ container }}">
+      {{ page.footer }}
+    </div>
+  </div>
+  {% elseif snippet.footer %}
+  <div class="footer-message">
+    <div class="{{ container }}">
+      {{ snippet.footer }}
+    </div>
+  </div>
+  {% endif %}
+  
+  {% if page.footer_menu1 or page.footer_menu2 or page.footer_menu3 or page.footer_social or 
+  snippet.footer_menu1 or snippet.footer_menu2 or snippet.footer_menu3 or snippet.footer_social  %}
+  <div class="footer-blocks">
+    <div class="container">
+      <div class="row">
+        {% if page.footer_menu1 %}
+        <div class = "col-sm-3 footer-menu footer-menu-1">
+          {{ page.footer_menu1 }}
+        </div>
+        {% elseif snippet.footer_menu1 %}
+        <div class = "col-sm-3 footer-menu footer-menu-1">
+          {{ snippet.footer_menu1 }}
+        </div>
+        {% endif %}
+
+        {% if page.footer_menu2 %}
+        <div class = "col-sm-3 footer-menu footer-menu-2">
+          {{ page.footer_menu2 }}
+        </div>
+          {% elseif snippet.footer_menu2 %}
+        <div class = "col-sm-3 footer-menu footer-menu-2">
+          {{ snippet.footer_menu2 }}
+        </div>
+        {% endif %}
+
+        {% if page.footer_menu3 %}
+        <div class = "col-sm-3 footer-menu footer-menu-3">
+          {{ page.footer_menu3 }}
+        </div>
+          {% elseif snippet.footer_menu3 %}
+        <div class = "col-sm-3 footer-menu footer-menu-3">
+          {{ snippet.footer_menu3 }}
+        </div>
+        {% endif %}        
+
+        {% if page.footer_social %}
+        <div class="col-sm-3 footer-menu footer-social">
+          <div class="footer-follow-wrap">
+            {{ page.footer_social }}
+          </div>
+        </div>
+        {% elseif snippet.footer_social %}
+        <div class="col-sm-3 footer-menu footer-social">
+          <div class="footer-follow-wrap">
+            {{ snippet.footer_social }}
+          </div>
+        </div>
+        {% endif %}
+        
+      </div>
+    </div>
+  </div>
+  {% endif %}
+  
+  {% if page.footer_copyright %}
+  <div class = "footer-copyright text-center">
+    <div class="{{ container }}">
+      {{ page.footer_copyright }}
+    </div>
+  </div>
+  {% elseif snippet.footer_copyright %}
+  <div class = "footer-copyright text-center">
+    <div class="{{ container }}">  
+      {{ snippet.footer_copyright }}
+    </div>
+  </div>
+  {% endif %}
+</footer>

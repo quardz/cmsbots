@@ -1,0 +1,53 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : PriceTable / Price table orange  ------------------*/
+/*--------------------------------------------------------------------------*/
+.price-pricetable-orange {
+  background-color:#ffffff;
+}
+
+.price-pricetable-orange .price-price {
+  background-color: #E5E5E5;
+}
+
+.price-pricetable-orange .price-features {
+  background-color: #F5F5F5;
+} 
+
+.price-pricetable-orange h2{ 
+  color: #E74B3D;
+}
+
+.price-pricetable-orange .price-header{
+  background-color: #242424;
+}
+
+.price-pricetable-orange h3 {
+  color:#ffffff;
+}
+
+.price-pricetable-orange .price-box:hover .price-header{
+  background-color:#E74B3D;
+}
+
+.price-pricetable-orange .price-box:hover h3 {
+  color:#ffffff;
+}
+
+.price-pricetable-orange .btn {
+  background-color: #242424;
+  color: #ffffff;
+}
+  
+.price-pricetable-orange .price-price .price-cost {
+  color: #4b4b4b; 
+}
+
+.price-pricetable-orange .price-box:hover .btn {
+  background-color: #E74B3D;
+  color: #ffffff;
+}  
+/*--------------------------------------------------------------------------*/
+/*------------  End : PriceTable / Price table orange  ---------------------*/
+/*--------------------------------------------------------------------------*/
+  

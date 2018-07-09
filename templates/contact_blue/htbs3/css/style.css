@@ -1,0 +1,56 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Contact / Contact Blue  ---------------------------*/
+/*--------------------------------------------------------------------------*/
+section.contact-blue {
+  font-family: "roboto";
+  padding-top: 60px;
+  padding-bottom: 68px;
+}  
+
+.contact-blue h2 {
+  margin: 0;
+  font-weight: lighter;
+  font-size: 41px;
+  padding-bottom: 28px;
+}
+
+.contact-blue  .contact-adddress .desc {
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+.contact-blue  .contact-adddress address {
+  padding-top: 15px;
+  font-size: 25px;
+  font-weight: lighter;
+}
+
+.contact-blue  .contact-adddress address > div {
+  margin-bottom: 15px;
+}
+
+.contact-blue  .form-control,
+.contact-blue  .form-control:focus {
+  border: 1px solid;
+}  
+
+.contact-blue  .contact-form .btn {
+  width: 100%;
+  font-size: 19px;
+}
+
+.contact-blue  .contact-form {
+  padding-top: 7px;
+}
+
+.contact-blue .form-group {
+  margin-bottom: 25px;
+}
+
+.contact-blue  .input-lg {
+  font-size: 17px;
+} 
+/*--------------------------------------------------------------------------*/
+/*------------  End : Contact / Contact Blue  ------------------------------*/
+/*--------------------------------------------------------------------------*/

@@ -1,0 +1,35 @@
+.content-red {
+  background-color: #ffffff;
+}
+
+.content-red .top-header .title {
+  color: #333333;
+} 
+
+.content-red .top-header .title  span {
+  color: #ef4836;
+}
+
+.content-red .top-header .description {
+  color: #4d4d4d;
+}
+
+.content-red .content-boxes .content-box .icon {
+  color: #333333;
+}
+
+.content-red .content-boxes .content-box .icon:hover {
+  color: #ef4836;
+}
+
+.content-red .content-boxes .content-box .title {
+  color: #333333;
+}
+
+.content-red .content-boxes .content-box .title:hover {
+  color: #ef4836;
+}
+
+.content-red .content-boxes .content-box .description {
+  color: #4d4d4d;
+}

@@ -1,0 +1,26 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Testimonial / Testimonial light blue --------------*/
+/*--------------------------------------------------------------------------*/
+.testimonial-light-blue {
+  color: #ffffff;
+  background-color: #227784;
+}
+.testimonial-light-blue h2 {
+  color:#ffffff;
+}
+.testimonial-light-blue .testi-name {
+  color: #48C66D;
+}
+
+.testimonial-light-blue  .carousel-indicators li {
+  background-color: #227784;
+  border-color: #ffffff;
+}
+
+.testimonial-light-blue  .carousel-indicators li.active{
+  background-color: #ffffff;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Testimonial / Testimonial light blue -----------------*/
+/*--------------------------------------------------------------------------*/
+ 

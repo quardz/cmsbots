@@ -1,0 +1,5 @@
+<ul class="links nav navbar-nav">
+  <li class="first leaf"><a href="#" title="Description of Terms & Conditions.">Terms & Conditions</a></li>
+  <li class="leaf"><a href="#" title="Description of Site map.">Site map</a></li>
+  <li class="last leaf"><a href="#" title="Description of Privacy Policy .">Privacy Policy </a></li>
+</ul>

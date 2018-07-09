@@ -1,0 +1,12 @@
+--2018-07-07 11:04:49--  http://q2test.s3.amazonaws.com/img/mobilescreens/price_table_6m.jpg
+Resolving q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)... 52.216.98.27
+Connecting to q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)|52.216.98.27|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51265 (50K) [image/jpeg]
+Saving to: 'price_table_6m.jpg'
+
+     0K .......... .......... .......... .......... .......... 99% 50.9K 0s
+    50K                                                       100% 1.27K=1.0s
+
+2018-07-07 11:04:51 (51.0 KB/s) - 'price_table_6m.jpg' saved [51265/51265]
+

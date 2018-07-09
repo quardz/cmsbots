@@ -1,0 +1,49 @@
+header#navbar .dropdown-menu,
+header#navbar,
+header#navbar  nav {
+  background-color:#5E7182;
+}
+header#navbar .navbar-nav>li>a,
+header#navbar li>a:focus, 
+header#navbar li>a:hover,
+header#navbar li>a.active, 
+header#navbar li a:focus, 
+header#navbar li a:hover,
+header#navbar li a.active,
+header#navbar .dropdown-menu>li>a:focus,
+header#navbar .dropdown-menu>li>a:hover,
+header#navbar .dropdown-menu>li>a.active,
+header#navbar .dropdown-menu>li>a,
+.carousel-homeslider-header-navyblue-slider .carousel-caption .cta-button {
+  color: #ffffff;
+}
+header#navbar  .navbar-toggle .icon-bar {
+  background-color: #ffffff;
+}
+header#navbar  .navbar-toggle,
+.carousel-homeslider-header-navyblue-slider .carousel-indicators  li.active {
+  background-color: #34495E;  
+}
+.carousel-homeslider-header-navyblue-slider .carousel-indicators  li{
+  background-color: #9DADBC;
+}
+.carousel-homeslider-header-navyblue-slider .carousel-caption .title {
+  color:#33495E;
+}
+.carousel-homeslider-header-navyblue-slider .carousel-caption .cta-button {
+  background-color: #33495E;
+  border-color:#ffffff;
+}
+@media (max-width: 767px) {
+  ul.navbar-nav {
+    background-color:#5E7182;
+    border-color:#5E7182;
+  }
+  .dropdown-menu>li>a,
+  .dropdown-menu>li>a:hover,
+  .dropdown-menu>li>a.active,
+  header#navbar #navigation ul > li .active,
+  header#navbar .navbar-nav > li > a:hover  {
+    color: #ffffff;
+  }  
+}

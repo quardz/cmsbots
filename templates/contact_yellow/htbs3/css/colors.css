@@ -1,0 +1,50 @@
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Contact / Contact Yellow  -------------------------*/
+/*--------------------------------------------------------------------------*/
+
+.contact-yellow ,
+.contact-yellow a,
+.contact-yellow a:hover,
+.contact-yellow a:visited,
+.contact-yellow  h2,
+.contact-yellow  h3,
+.contact-yellow  h4,
+.contact-yellow  h5,
+.contact-yellow .follow-links li a {
+  color: #ffffff;
+}
+
+.contact-yellow .follow-links a:hover {  
+  color: #B24036;
+}
+
+.contact-yellow  .form-control,
+.contact-yellow  .form-control:focus {
+  background-color: #F0C875;
+  border-color: #ffffff;
+  color: #ffffff;
+}
+
+.contact-yellow  .contact-form .btn {
+  background-color: #B24036;
+  color: #FCC048;
+}
+
+.contact-yellow  .input-lg::-webkit-input-placeholder{
+  color: #ffffff;
+}
+
+.contact-yellow .input-lg:-moz-placeholder  {
+  color: #ffffff;
+}
+
+.contact-yellow .input-lg::-moz-placeholder {
+  color: #ffffff;
+}
+
+.contact-yellow .input-lg:-ms-input-placeholder {
+  color: #ffffff;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Contact / Contact Yellow  ----------------------------*/
+/*--------------------------------------------------------------------------*/

@@ -1,0 +1,108 @@
+header#navbar {
+  border-width: 0px !important;
+}
+.navbar-header {
+  width: 100%;
+}
+.logo img {
+  height: 40px;
+  width: auto;
+}
+header#navbar .icon-text {
+  float: left;
+  font-size: 1.36em;
+  margin-right: 10px;
+}
+header#navbar .container {
+  position: relative;
+}
+header#navbar .icon-bars {
+  float: right;
+}
+header#navbar .navbar-toggle {
+  display: block;
+  visibility: visible;
+  border-radius: 0px;
+  float: right;
+}
+header#navbar .navbar-collapse.collapse {
+  display: none !important;
+  visibility: visible;
+}
+header#navbar .navbar-collapse,
+header#navbar .navbar-collapse.in,
+.navbar-collapse.in .navbar-collapse{
+  display: inline-block !important;
+  border: none;
+  border-radius: 0px;
+  visibility: visible;
+  margin-top: 0px;
+  top: 100%;
+  position: absolute;
+  right: 30px;
+  min-width: 250px;
+}
+header#navbar.navbar-fixed-bottom .navbar-collapse, 
+header#navbar.navbar-fixed-bottom .navbar-collapse.in, 
+.navbar-collapse.in .navbar-collapse {
+  top: auto;
+  bottom: 100%;
+}
+header#navbar nav.affix{
+  margin-top: 0px !important;
+}
+header#navbar nav.affix #navigation disable{
+  margin-top: 10px;
+}
+header#navbar #nav {
+  max-height: 64px;
+}
+header#navbar.navbar-inverse #navigation {
+  min-width: 300px;
+  width: auto;
+  float: right;
+  padding-left: 0px;
+  z-index:10000;
+}
+header#navbar #navigation{
+  margin-top; 10px;
+}
+header#navbar .navbar-nav>li  {
+  margin-top: 15px;
+  float: none;
+}
+header#navbar .navbar-nav {
+  margin-top: 0px;
+  float: none !important;
+}
+header#navbar .navbar-nav>li>a {
+  text-transform: uppercase;
+  font-size: 1.1em;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+header#navbar  .navbar-toggle {
+  border: 0;
+  border-radius: 0px;
+  float: right;
+}
+header#navbar.scrolled.navbar-inverse {
+  border: none;
+  background-image: none;
+  background-color: #1d967d;
+  margin-top: 0px;
+  border-radius: 0px;
+}
+header#navbar.scrolled {
+  background-image: none;
+  height: 60px;
+  border-radius: 0px;
+}
+header#navbar.navbar-inverse .navbar-nav>.open>a,
+.navbar-inverse .navbar-nav>.active>a {
+  background-image: none;
+ -webkit-box-shadow: none;
+  box-shadow: none;
+}

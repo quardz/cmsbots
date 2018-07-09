@@ -1,0 +1,30 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Stats / stats orange  -----------------------------*/
+/*--------------------------------------------------------------------------*/
+/* CSS from jquery-asProgress.js library*/
+@media (max-width: 768px) { 
+
+.stat-stats-orange {
+  font-family: roboto;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.stat-stats-orange  h2.title {
+  font-size: 1.9em;
+  padding-bottom: 8px;
+}
+
+.stat-stats-orange .stat-stats {
+  margin-top: 8px;
+}
+
+.stat-stats-orange .stat-stats .stat-stat {
+   margin: 15px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Stats / stats orange  --------------------------------*/
+/*--------------------------------------------------------------------------*/

@@ -1,0 +1,3 @@
+  if (_mbase_setting('section_content_purple_visibility', $theme, NULL)) {
+    $variables['snippet_content_purple']['#markup'] = _mbase_setting('section_content_purple_code', $theme, NULL);
+  }

@@ -1,0 +1,11 @@
+--2018-07-07 11:04:29--  http://q2test.s3.amazonaws.com/img/style/screenshots/footer_dark_orange_0_0.jpg
+Resolving q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)... 52.216.102.27
+Connecting to q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)|52.216.102.27|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6294 (6.1K) [image/jpeg]
+Saving to: 'footer_dark_orange_0_0.jpg'
+
+     0K ......                                                100% 2.38M=0.003s
+
+2018-07-07 11:04:30 (2.38 MB/s) - 'footer_dark_orange_0_0.jpg' saved [6294/6294]
+

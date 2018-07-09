@@ -1,0 +1,13 @@
+    {% if page.content_red %}
+      <section class = "content-red plugin-content">
+         <div class = "{{ container }}">
+        {{ page.content_red }}
+          </div>
+      </section>
+    {% elseif snippet.content_red %}
+      <section class = "content-red plugin-content">
+         <div class = "{{ container }}">
+        {{ snippet.content_red }}
+          </div>
+      </section>
+    {% endif %}

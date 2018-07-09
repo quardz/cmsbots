@@ -1,0 +1,76 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Blognews / Blog blue  -----------------------------*/
+/*--------------------------------------------------------------------------*/
+.blog-blue {
+  font-family: roboto;
+  padding-top: 45px;
+  padding-bottom: 45px;
+}
+
+.blog-blue  h2 {
+  font-size: 42px;
+  margin: 0;
+}
+
+.blog-blue .view-header .desc {
+  padding: 10px 15px;
+  font-size: 17px;
+  font-weight: normal;
+  padding-bottom: 18px;
+}
+
+.blog-blue .view-header .blog-readmore {
+  padding-top: 11px;
+}
+
+.blog-blue .view-header .blog-readmore a{
+  font-size: 1.2em;
+}
+
+.blog-blue .view-content .blog-image img {
+  width: 100%;
+  height: auto;
+  padding-bottom: 9px;
+}
+
+.blog-blue .view-content .blog-title,
+.blog-blue .view-content .meta-info {
+  padding-top: 9px;
+}
+
+.blog-blue .view-content .blog-title a {
+  font-size: 21px;
+  font-weight: lighter;
+  text-decoration: none;
+}
+
+.blog-blue .view-content .comments-count {
+  font-size: 15px;
+  padding-left: 0px;
+}
+
+.blog-blue .view-content .posted-date {
+  font-size: 16px;
+}
+
+.blog-blue .mobile-carousel-controls {
+  padding: 15px;
+}
+
+.blog-blue .mobile-carousel-controls span {
+  width: 50%;
+  float: left;
+  font-size: 25px;
+  text-align: center;
+  font-weight: lighter;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.blog-blue .carousel-inner {
+  width: auto;
+}
+/*--------------------------------------------------------------------------*/
+/*--------------  Ends : Blognews / Blog blue  -----------------------------*/
+/*--------------------------------------------------------------------------*/

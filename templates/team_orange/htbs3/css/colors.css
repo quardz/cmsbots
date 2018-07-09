@@ -1,0 +1,38 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Testimonial / Testimonial orange  -----------------*/
+/*--------------------------------------------------------------------------*/
+.testimonial-orange {
+  background: #ffffff;
+}
+
+.testimonial-orange h2 { 
+  color: #4b4b4b;
+}  
+ 
+.testimonial-orange .testi-body {
+  color: #494949;
+}
+
+.testimonial-orange .testi-name {
+  color: #1FA287;
+}
+
+.testimonial-orange .carousel-inner {
+  border-color: #dddddd;
+}  
+
+.testimonial-orange .testi-name-designation {
+  color: #d35400;
+}
+ 
+.testimonial-orange .carousel-control .fa {
+  color: #909090;
+}
+
+.testimonial-orange .carousel-control:hover .fa {
+  color: #d35400;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Testimonial / Testimonial orange  --------------------*/
+/*--------------------------------------------------------------------------*/

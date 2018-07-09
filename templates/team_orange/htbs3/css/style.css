@@ -1,0 +1,67 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Testimonial / Testimonial orange  -----------------*/
+/*--------------------------------------------------------------------------*/
+.testimonial-orange {
+  font-family: roboto;
+  padding-top: 28px;
+  padding-bottom: 30px;
+}
+
+.testimonial-orange h2 { 
+  font-size: 31px;
+  font-weight: normal;
+  padding-bottom: 17px;
+}  
+ 
+.testimonial-orange .testi-body {
+  display: block;
+  padding: 15px;
+  font-weight: lighter;
+  float: left;
+  width: 100%;
+  font-size: 18px;
+  line-height: 160%;
+}
+
+.testimonial-orange .testi-name {
+  font-size: 25px;
+  font-weight: normal;
+}
+
+.testimonial-orange .carousel-inner {
+  border: 1px solid;
+}  
+
+.testimonial-orange .testi-name-designation {
+  font-size: 25px;
+  padding-bottom: 18px;
+}
+ 
+.testimonial-orange .carousel-control .fa {
+  font-sizE: 21px;
+  text-shadow: none;
+}
+
+.testimonial-orange  .carousel-control.right {
+  right: 20%;
+  left: auto;
+  width: 15px;
+  text-align: center;
+  bottom: 5px;
+  top: auto;
+  padding-bottom: 18px;
+}
+
+.testimonial-orange  .carousel-control.left {
+  right: 80%;
+  left: auto;
+  width: 15px;
+  text-align: center;
+  bottom: 5px;
+  top: auto;
+  padding-bottom: 18px;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Testimonial / Testimonial orange  --------------------*/
+/*--------------------------------------------------------------------------*/

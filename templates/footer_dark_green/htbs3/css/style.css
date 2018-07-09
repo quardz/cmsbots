@@ -1,0 +1,103 @@
+.footer-dark-green {
+  font-family: 'Roboto', sans-serif;
+  padding-top: 14px;
+  padding-bottom: 38px;
+}
+
+.footer-dark-green .footer-message,
+.footer-dark-green .footer-menus,
+.footer-dark-green .footer-signup {
+  padding: 15px;
+}
+ 
+.footer-dark-green .footer-message .block-content {
+  font-size: 1.15em;
+  font-weight: lighter;
+  line-height: 1.5em;
+  padding-right: 20%;
+}
+
+
+.footer-dark-green .footer-menus-signup {
+  padding-left: 0;
+  padding-right: 0;
+}  
+
+.footer-dark-green .footer-menus-signup .title h2,
+.footer-dark-green .footer-message h2.title,
+.footer-dark-green .footer-signup .title h2 {
+  padding-left: 0;
+  font-size: 1.8em;
+  padding-bottom: 5px;
+  font-weight: normal;
+  margin-top: 16px;
+}
+
+.footer-dark-green .footer-signup .title h2 {
+  padding-bottom: 0px;  
+}
+
+.footer-dark-green .footer-menu ul li {
+  background: transparent;
+}
+
+.footer-dark-green .footer-menu ul li a {
+  font-size: 1.15em;
+  background: transparent;
+  font-weight: normal;
+  padding: 1px 0px;
+  margin-bottom: 18px;
+}  
+ 
+.footer-dark-green .footer-menu ul li a:hover {
+  text-decoration: underline;
+} 
+
+.footer-dark-green .footer-signup-content .form-control-static {
+  font-size: 1.1em;
+  font-weight: normal;
+  padding-top: 0px;
+  padding-bottom: 15px;
+}
+
+.footer-dark-green .footer-signup {
+  text-align: center;
+  padding-top: 0px;
+  margin-top: 35px;
+}
+  
+.footer-dark-green #mainchimp-subscribe {
+  display: inline-block;
+  height: auto;
+  min-height: 20px;
+  width: 100%;
+  padding-left: 18px;
+  padding-right: 18px;
+}
+  
+.footer-dark-green #contact_email {
+  text-align:center;
+  font-size: 1em;
+  font-weight: normal;
+  width: 100%;
+  border-radius: 0px;
+  height: 42px;
+}
+  
+.footer-dark-green .subscribe-form-submit {
+  display: inline-block;
+  width: 100%;
+  float: none;
+  text-align: center;
+  font-weight: lighter;
+  margin-top: 20px;
+  margin-bottom: 8px;
+  border-radius: 0px;
+  font-size: 1.2em;
+  font-weight: normal;
+  height: 42px;
+}  
+
+.footer-dark-green .footer-copyright {
+  margin-top: 20px;
+}

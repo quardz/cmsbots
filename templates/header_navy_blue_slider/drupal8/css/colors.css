@@ -1,0 +1,90 @@
+header#navbar,
+header#navbar .dropdown-menu,
+header#navbar  nav,
+header#navbar.scrolled {
+  background-color: #5e7182;
+}
+
+header#navbar .dropdown-menu {
+  border-color: #5e7182;
+}
+
+header#navbar .navbar-nav>li>a, 
+header#navbar .dropdown-menu > li > a,
+.carousel-welcome-slider .carousel-caption .cta-button,
+.navbar-brand,
+.name.navbar-brand,
+.navbar-inverse .navbar-brand,
+.navbar-brand:hover {
+  color: #ffffff;
+}
+
+header#navbar .navbar-nav>li>a:focus, 
+header#navbar .navbar-nav>li>a:hover,
+header#navbar .navbar-nav>li>a.active,
+header#navbar .navbar-nav>li.open,
+header#navbar .navbar-nav .dropdown a:focus, 
+header#navbar .navbar-nav .dropdown a:hover,
+header#navbar .navbar-nav .dropdown a.active {
+  color: #98adc1;
+  background: transparent;
+}
+
+header#navbar  .navbar-toggle .icon-bar {
+  background-color: #ffffff;
+}
+
+header#navbar  .navbar-toggle,
+.carousel-welcome-slider .carousel-indicators  li.active {
+  background-color: #34495E;
+}
+
+.carousel-welcome-slider .carousel-indicators  li{
+  background-color: #9dadbc;
+}
+
+.carousel-welcome-slider .carousel-caption .title {
+  color: #33495e;
+}
+
+.carousel-welcome-slider .carousel-caption .cta-button {
+  background-color: #33495e;
+  border-color: #ffffff;
+}
+
+@media (max-width: 767px) {
+  header#navbar ul.navbar-nav {
+    border-color: #5e7182;
+  }
+  header#navbar .navbar-nav > li > a:hover,
+  header#navbar .dropdown-menu>li>a,
+  header#navbar .dropdown-menu>li>a:hover,
+  header#navbar .dropdown-menu>li>a.active,
+  header#navbar #navigation ul > li .active,
+  header#navbar.scrolled .navbar-nav .open .dropdown-menu>li>a {
+    color: #ffffff;  
+  }
+  header#navbar ul.navbar-nav,
+  header#navbar .nav .open>a,
+  .nav .open>a:hover,
+  .nav .open>a:focus {
+    background-color: #5e7182;
+    border-color: #ffffff;
+  }
+  header#navbar .navbar-nav .dropdown a:focus, 
+  header#navbar .navbar-nav .dropdown a:hover, 
+  header#navbar .navbar-nav .dropdown a.active,
+  header#navbar .navbar-nav > li > a:hover,
+  header#navbar.scrolled .navbar-nav .open .dropdown-menu>li>a:hover {
+    color: #98adc1;
+  }
+  .navbar-default .navbar-collapse, 
+  .navbar-default .navbar-form,
+  header#navbar .navbar-toggle {
+    border-color: transparent;
+  }
+  header#navbar.scrolled .navbar-toggle:hover, 
+  header#navbar.scrolled .navbar-toggle:focus {
+    background-color: #34495e;
+  }
+}

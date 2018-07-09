@@ -1,0 +1,3 @@
+  if (_mbase_setting('section_hpc_features_orange_visibility', $theme, NULL)) {
+   $variables['snippet_hpc_features_orange']['#markup'] = _mbase_setting('section_hpc_features_orange_code', $theme, NULL);
+  }

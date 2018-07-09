@@ -1,0 +1,11 @@
+footer#footer {
+  background-color: #2dcc70;
+}
+footer#footer .footer-menu ul li,
+footer#footer .footer-menu ul li a {
+  background-color: transparent;
+}
+footer#footer,
+footer#footer .footer-menu ul li a {
+  color: #ffffff;
+}

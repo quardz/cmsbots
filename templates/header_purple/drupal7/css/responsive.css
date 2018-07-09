@@ -1,0 +1,95 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Header / Header purple  ---------------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 767px) {
+
+.header-purple-content {
+  height: 480px;
+}
+
+.header-purple-menu .navbar-nav > li > a {
+  border-right:none;
+  padding: 10px;
+}
+
+.header-purple-menu .dropdown-menu>li>a,
+.header-purple-menu .dropdown-menu>li>a:hover,
+.header-purple-menu .dropdown-menu>li>a.active,
+.header-purple-menu #navigation ul > li .active {
+  padding: 10px;
+  text-transform: uppercase;
+}
+
+.header-purple-content .main-title {
+  font-size: 2.5em;
+}
+
+.header-purple-content .main-desc {
+  font-size: 1.3em;
+}
+  
+.header-purple-content  .email-field {
+  width: 90%;
+  margin-top: 0px;
+  margin-left: 0px;
+  display: inline;
+  text-align: center;
+}
+
+.header-purple-content  .subscribe-button {
+  width: 90%;
+  margin-top: 25px;
+  margin-left: 0px;
+  padding: 0px 0px;
+}
+
+.header-purple-menu .dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+  background-image: none;
+}
+
+.header-purple-menu .navbar-scrolled .navbar {
+  min-height: 0px; 
+}
+
+.header-purple-menu .navbar-scrolled .navbar-toggle {
+  margin-right: 0px;
+  margin-top: 16px;
+  margin-bottom: 5px;
+}
+
+.header-purple-menu .navbar-scrolled .logo img {
+  margin-top: 17px;
+  margin-bottom: 0px;
+}
+
+.header-purple-menu .navbar-scrolled .dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+  background-image: none;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+
+.header-purple-menu .navbar-nav > li > a {
+  padding: 0px 15px;
+  margin-top: 7px;
+}
+
+.header-purple-menu .logo img {
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+.header-purple-menu #navigation {
+  margin-top: 0px;
+}
+
+.header-purple-menu  .navbar-scrolled  .navbar-nav > li > a {
+  margin-top: 21px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Header / Header purple  ------------------------------*/
+/*--------------------------------------------------------------------------*/

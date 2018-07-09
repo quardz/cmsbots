@@ -1,0 +1,24 @@
+<footer id = "footer-wrap" class = "footer-section section footer-wrap text-center">
+  <div class = "{{ container }}">
+    <div class = "row">
+      {% if page.footer_menu %}
+      <div class = "footer-menu col-sm-8">
+        {{ page.footer_menu }}
+      </div>
+        {% elseif snippet.footer_menu %}
+      <div class = "footer-menu col-sm-8">
+        {{ snippet.footer_menu }}
+      </div>
+      {% endif %}
+      {% if page.footer_social %}
+      <div class = "col-sm-4 footer-social">
+        {{ page.footer_social }}
+      </div>
+      {% elseif snippet.footer_social %}
+      <div class = "col-sm-4 footer-social">
+        {{ snippet.footer_social }}
+      </div>
+      {% endif %}       
+    </div>
+  </div>
+</footer>

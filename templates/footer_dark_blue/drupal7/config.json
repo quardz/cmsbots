@@ -1,0 +1,38 @@
+{
+  "regions": [
+    {
+      "region": "footer",
+      "name": "Footer"
+    },
+    {
+      "region": "footer_menu1",
+      "name": "Footer Menu 1"
+    },
+    {
+      "region": "footer_menu3",
+      "name": "Footer Menu 3"
+    },
+    {
+      "region": "footer_menu2",
+      "name": "Footer menu 2"
+    },
+    {
+      "region": "footer_menu",
+      "name": "Footer Menu"
+    },
+    {
+      "region": "footer_copyright",
+      "name": "Footer Copyright"
+    },
+    {
+      "region": "footer_social",
+      "name": "Footer Social"
+    },
+    {
+      "region": "footer_signup",
+      "name": "Footer Signup"
+    }
+  ],
+  "default_block_placements": [],
+  "color_settings": []
+}

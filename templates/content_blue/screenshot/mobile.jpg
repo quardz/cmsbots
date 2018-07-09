@@ -1,0 +1,12 @@
+--2018-07-07 11:04:57--  http://q2test.s3.amazonaws.com/img/mobilescreens/content_mobile_7_0.jpg
+Resolving q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)... 52.216.98.27
+Connecting to q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)|52.216.98.27|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74288 (73K) [image/jpeg]
+Saving to: 'content_mobile_7_0.jpg'
+
+     0K .......... .......... .......... .......... .......... 68% 43.0K 1s
+    50K .......... .......... ..                              100% 88.9K=1.4s
+
+2018-07-07 11:04:59 (51.3 KB/s) - 'content_mobile_7_0.jpg' saved [74288/74288]
+

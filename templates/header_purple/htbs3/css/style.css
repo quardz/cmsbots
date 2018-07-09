@@ -1,0 +1,132 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Header / Header purple  ---------------------------*/
+/*--------------------------------------------------------------------------*/
+.header-purple-content {
+  background-image: url(
+  http://q2test.s3.amazonaws.com/image/theme/asset/css-header-header-purple-main-background.jpg); 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 580px;
+}  
+
+.header-purple-content  .main-block {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.header-purple-menu  nav.affix{
+  margin-top: 0px !important;
+  padding-top: 15px;
+  height: 70px;
+}
+
+.header-purple-menu  nav.affix #navigation {
+  margin-top: 10px;
+}
+
+.header-purple-content  .main-block-inner {
+  width: 100%;
+  display: block;
+}
+
+.header-purple-content  .main-desc{
+  margin-top: 5px;
+  font-size: 1.7em;
+}
+ 
+.header-purple-content  .main-title {
+  font-size: 4.5em;
+  font-weight: bold;
+}
+
+.header-purple-content  .email-field {
+  border-radius: 0px;
+  width: 40%;
+  margin-right: 0px;
+  border: 2px solid;
+  font-size: 1em;
+}
+
+.header-purple-content  .subscribe-button {
+  border-radius: 0px;
+  background: #AC92ED;
+  border: 2px solid;
+  margin-left: -5px;
+  font-size: 1.4em;
+  font-weight: lighter;
+  letter-spacing: .05em;
+  height: 46px;
+  padding: 0px 10px;
+}  
+
+.header-purple-content  .main-signup-form-wrap {
+  margin-top: 50px;
+}
+
+.header-purple-menu #navigation{
+  margin-top: 10px;
+}
+
+.header-purple-menu nav {
+  margin-top: 15px;
+}
+
+.header-purple-menu .navbar-nav > li > a:focus, 
+.header-purple-menu .navbar-nav > li > a:hover {
+   background: transparent;
+}
+
+.header-purple-menu .navbar-nav > li > a {
+  font-family: roboto;
+  font-size: .95em;
+  font-weight: bold;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  text-transform: uppercase;
+  border-right: 1px solid;
+}
+
+.header-purple-menu .navbar-nav > li > a.last {
+  border-right: 0px;
+}
+
+.header-purple-menu  .navbar-toggle {
+  border-radius: 0px;
+}
+
+.header-purple-menu .dropdown-menu>li>a {
+  font-size: 0.85em;
+  font-weight: normal;
+}
+
+.header-purple-menu  .navbar-scrolled  {
+  border: none;
+  background-image: none;
+  background: #ac92ed;
+  margin-top: 0px;
+  border-radius: 0px;
+}
+
+.header-purple-menu  .navbar-scrolled  .navbar  {
+  min-height: 0px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.header-purple-menu  .navbar-scrolled .logo img{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.header-purple-menu  .navbar-scrolled  .navbar-nav > li > a {
+  margin-top: 12px;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Header / Header purple  ------------------------------*/
+/*--------------------------------------------------------------------------*/

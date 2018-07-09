@@ -1,0 +1,103 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Stats / stats orange  -----------------------------*/
+/*--------------------------------------------------------------------------*/
+/* CSS from jquery-asProgress.js library*/
+.pie_progress {
+  text-align: center;
+  position: relative;
+  transform-style: preserve-3d;
+}
+
+.pie_progress svg {
+  margin: 0 auto;
+}
+
+.pie_progress__content,
+.pie_progress__number,
+.pie_progress__label,
+.pie_progress__icon {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+}
+
+.pie_progress__number {
+  font-size: 42px;
+}
+
+.pie_progress__label {
+  margin-top: 32px;
+  font-size: 12px;
+}
+
+/*custom*/
+.stat-stats-orange {
+  font-family: roboto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.stat-stats-orange .stat-stats {
+  display: -webkit-flexbox;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  -ms-flex-flow: row wrap;
+  flex-flow: row wrap;
+  -webkit-flex-pack: justify;
+  -ms-flex-pack: justify;
+  -webkit-justify-content: center;
+  justify-content: center;
+  margin: -5px;
+  text-align:center;
+  margin-top: 38px;
+}
+
+.stat-stats-orange .stat-stats .stat-stat {
+  -webkit-flex: 0 0 180px;
+  -ms-flex: 0 0 180px;
+  flex: 0 0 180px;
+   margin: 20px;
+}
+ 
+.stat-stats-orange  h2.title {
+  text-align: center;
+  font-size: 2.4em;
+  padding-bottom: 7px;
+  margin-bottom: 0px;
+} 
+
+.stat-stats-orange .pie_progress {
+  text-align:center;
+}
+
+.stat-stats-orange .stat-desc {
+  font-size: 1.1em;
+  font-weight: normal;
+  padding-left: 0%;
+  padding-right: 0%;
+}
+ 
+.stat-stats-orange .stat-stats .inner-box {
+  overflow:hidden;
+  width: 180px;  
+  margin: 0 auto;
+}
+
+.stat-stats-orange .stat-stat .pie_progress__number {
+  font-size: 2.5em;
+}
+
+.stat-stats-orange .stat-label {
+  font-size: 1.1em;
+  font-weight: normal;
+  display: block;
+  margin-top: 10px;
+} 
+/*--------------------------------------------------------------------------*/
+/*------------  End : Stats / stats orange  --------------------------------*/
+/*--------------------------------------------------------------------------*/

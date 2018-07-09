@@ -1,0 +1,44 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Blognews / Blog pink   ----------------------------*/
+/*--------------------------------------------------------------------------*/
+.blog-pink {
+  background-color: #EEEEEE;
+}
+
+.blog-pink  h2{
+  color: #e54c4c;
+}
+
+.blog-pink  .view-content{
+  background-color: #ffffff;
+}
+
+.blog-pink  .view-header a{
+  color: #131313;
+}
+
+.blog-pink  .posted-date {
+  color: #4b4b4b;
+}
+
+.blog-pink  .author {
+  color: #4b4b4b;
+}
+
+.blog-pink  .blog-title {
+  color: #222222;
+}
+
+.blog-pink  .descrip {
+  color: #4b4b4b;
+}
+
+.blog-pink  .view-more a{
+  border-color: #e54c4c;
+  color: #e54c4c;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Blognews / Blog pink   -------------------------------*/
+/*--------------------------------------------------------------------------*/
+ 

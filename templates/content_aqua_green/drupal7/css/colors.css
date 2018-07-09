@@ -1,0 +1,27 @@
+.content-aqua-green {
+  background-color: #ffffff;
+}
+
+.content-aqua-green .top-header .title {
+  color: #333333;
+} 
+
+.content-aqua-green .top-header .description {
+  color: #333333;
+}
+
+.content-aqua-green .content-boxes .content-box i {
+  color: #ffffff;
+}
+
+.content-aqua-green .content-boxes .content-box .title {
+  color: #333333;
+}
+
+.content-aqua-green .content-boxes .content-box .description {
+  color: #333333;
+}
+
+.content-aqua-green .content-boxes .content-box .icon-circle {
+  background-color: #1cbd9c;
+}

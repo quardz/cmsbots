@@ -1,0 +1,33 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Testimonial / Testimonial dark blue----------------*/
+/*--------------------------------------------------------------------------*/
+.testimonial-dark-blue {
+  background-color: #F3F3F3;
+  color: #2D3B48;
+}
+
+.testimonial-dark-blue h2{
+  color: #2f4255;
+}
+
+.testimonial-dark-blue .inner-box {
+  background-color: #ffffff;
+}
+
+.testimonial-dark-blue .testi-name-designation {
+  color: #2f4255;
+}
+
+.mobile-carousel-controls span {
+  color: #ffffff;
+  background-color: #2F4155;
+}
+
+.mobile-carousel-controls span:hover {
+  background: #353535;
+}
+/*--------------------------------------------------------------------------*/
+/*------------    Ends : Testimonial / Testimonial dark blue----------------*/
+/*--------------------------------------------------------------------------*/
+ 

@@ -1,0 +1,30 @@
+{
+  "regions": [
+    {
+      "region": "footer",
+      "name": "Footer"
+    },
+    {
+      "region": "footer_social",
+      "name": "Footer Social"
+    }
+  ],
+  "default_block_placements": [],
+  "color_settings": [
+    {
+      "label": "Footer Base color",
+      "colors": "default || Default || #f6bb43",
+      "region": "footer_base"
+    },
+    {
+      "label": "Footer Secondary",
+      "colors": "default || Default || #fcd055",
+      "region": "footer_secondary"
+    },
+    {
+      "label": "Footer Text color",
+      "colors": "default || Default || #2c2c2c",
+      "region": "footer_text"
+    }
+  ]
+}

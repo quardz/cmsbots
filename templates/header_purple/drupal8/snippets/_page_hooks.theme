@@ -1,0 +1,5 @@
+  if (_mbase_setting('section_home_welcome_visibility', $theme, NULL)) {
+    $section_content = _mbase_setting('section_home_welcome_code', $theme, NULL);
+    $tags = array('div', 'form', 'p', 'span', 'input', 'h2', 'button');
+    $variables['snippet_home_welcome'] = \Drupal\Component\Utility\SafeMarkup::xssFilter($section_content, $tags);
+  }

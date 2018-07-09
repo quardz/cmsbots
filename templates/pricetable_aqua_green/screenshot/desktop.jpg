@@ -1,0 +1,13 @@
+--2018-07-07 11:04:41--  http://q2test.s3.amazonaws.com/img/style/screenshots/price_table_6_0.jpg
+Resolving q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)... 52.216.97.243
+Connecting to q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)|52.216.97.243|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 118405 (116K) [image/jpeg]
+Saving to: 'price_table_6_0.jpg'
+
+     0K .......... .......... .......... .......... .......... 43% 48.5K 1s
+    50K .......... .......... .......... .......... .......... 86%  227K 0s
+   100K .......... .....                                      100% 90.9M=1.3s
+
+2018-07-07 11:04:43 (92.4 KB/s) - 'price_table_6_0.jpg' saved [118405/118405]
+

@@ -1,0 +1,92 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Header / Header menu green ------------------------*/
+/*--------------------------------------------------------------------------*/
+.header-menu-green .dropdown-menu {
+  display: none !important;
+}
+
+.header-menu-green {
+  height: 80px;
+}
+
+.header-menu-green {
+  font-family: roboto;
+}
+
+.header-menu-green .navbar-inverse .navbar-toggle {
+  display: block;
+  visibility: visible;
+  border-radius: 0px;
+}
+
+.header-menu-green .navbar-inverse {
+  background-image: none;
+}
+
+.navbar-collapse.collapse {
+  display: none !important;
+  visibility: visible;
+}
+
+.navbar-collapse.in,
+.navbar-collapse.in .navbar-collapse{
+  display: block !important; 
+  border: none;
+  border-radius: 0px;
+  visibility: visible;
+}
+
+.header-menu-green  nav{
+  max-height: 80px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.header-menu-green  .navbar-nav>li  {
+  margin-top:15px;
+  float: none;
+}
+
+.header-menu-green   .navbar-nav>li>a {
+  text-transform: uppercase;
+  font-size: 1.1em;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.header-menu-green #navigation {
+  border: none;
+  width: 300px;
+  float: right;
+  padding: 15px;
+  margin-right: 15px;
+  padding-top: 0px;
+  margin-top: -20px;
+}
+
+.header-menu-green .site-name-logo {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.header-menu-green  .navbar-nav {
+  margin-top: 10px;
+  float: left !important;
+}
+
+.header-menu-green  .navbar-default .navbar-toggle {
+  border-radius: 0px;
+}
+
+.header-menu-green .navbar-scrolled  {
+  border: none;
+  background-image: none;
+  margin-top: 0px;
+  border-radius: 0px;
+}
+/*--------------------------------------------------------------------------*/
+/*---------------  End : Header / Header menu green ------------------------*/
+/*--------------------------------------------------------------------------*/

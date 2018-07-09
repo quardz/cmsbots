@@ -1,0 +1,138 @@
+
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Team / Team red   -----------------------*/
+/*--------------------------------------------------------------------------*/
+.team-red {
+  background-color: #ffffff;
+  font-family: roboto;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.team-red .team-header {
+  color: #333333;
+  margin-bottom: 20px;
+}
+
+.team-red .team-header h2 {
+  color: #EC5563;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 29px;
+  font-weight: normal;
+}
+
+.team-red .team-header .desc {
+  padding: 3px 0px;
+  color: #4b4b4b;
+  font-size: 17px;
+  font-weight: normal;
+  padding-bottom: 8px;
+}
+
+.team-red .team-inner {
+  padding: 30px;
+  display: flex;
+  padding-top: 23px;
+}
+ 
+.team-red .team-image {
+  padding: 0px;
+} 
+
+.team-red .team-image  img{
+  width: 100%;
+}
+
+.team-red .team-content {
+  background: #F5F5F5;
+  width: 58%;
+}
+
+.team-red .team-name {
+  color: #EC5563;
+  font-size: 25px;
+  font-weight: normal;
+  display: inline-block;
+  text-transform: uppercase;
+  padding-top: 10px;
+}
+
+.team-red .team-designation{
+  display: inline-block;
+  font-size: 16px;
+  font-weight: lighter;
+  padding-left: 10px;
+  color: #4b4b4b;
+}
+
+.team-red .team-body{
+  display: block;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 170%;
+  padding-top: 7px;
+  color: #4b4b4b;
+}
+
+.team-red .team-social {
+  display: flex;
+  background: #EB565E;
+  padding: 0;
+  padding-right: 50px;
+}
+
+.team-red .team-social-inner {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0;
+  padding: 0;
+}
+
+.team-red .team-social .team-social-inner div {
+  width: 100%;
+  display: block;
+  height: 25%;
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 8px;
+}
+
+.team-red .team-social .team-social-inner div:hover {
+  background: #DA4452;
+}
+
+.team-red .team-social a{
+  color: #ffffff;
+  font-size: 25px;
+}
+
+.team-mirror .carousel-inner {
+  width: auto;
+}
+
+.mobile-carousel-controls {
+  padding: 15px;
+  padding-bottom: 26px;
+}
+
+.mobile-carousel-controls span {
+  color: #ffffff;
+  background: #DA4452;
+  width: 50%;
+  float: left;
+  font-size: 25px;
+  text-align: center;
+  font-weight: lighter;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.mobile-carousel-controls span:hover {
+  background: #353535;
+  color: #ffffff;
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Team / Team red   --------------------------*/
+/*--------------------------------------------------------------------------*/

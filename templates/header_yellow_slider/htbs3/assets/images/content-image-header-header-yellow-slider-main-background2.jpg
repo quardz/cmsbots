@@ -1,0 +1,20 @@
+--2018-07-07 11:01:24--  http://q2test.s3.amazonaws.com/image/theme/asset/content-image-header-header-yellow-slider-main-background2.jpg
+Resolving q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)... 52.216.162.43
+Connecting to q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)|52.216.162.43|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 483198 (472K) [image/jpeg]
+Saving to: 'content-image-header-header-yellow-slider-main-background2.jpg.1'
+
+     0K .......... .......... .......... .......... .......... 10% 59.2K 7s
+    50K .......... .......... .......... .......... .......... 21%  103K 5s
+   100K .......... .......... .......... .......... .......... 31%  206K 3s
+   150K .......... .......... .......... .......... .......... 42% 5.26M 2s
+   200K .......... .......... .......... .......... .......... 52%  211K 2s
+   250K .......... .......... .......... .......... .......... 63% 7.32M 1s
+   300K .......... .......... .......... .......... .......... 74%  535K 1s
+   350K .......... .......... .......... .......... .......... 84%  345K 0s
+   400K .......... .......... .......... .......... .......... 95% 7.56M 0s
+   450K .......... .......... .                               100% 8.26M=2.1s
+
+2018-07-07 11:01:27 (228 KB/s) - 'content-image-header-header-yellow-slider-main-background2.jpg.1' saved [483198/483198]
+

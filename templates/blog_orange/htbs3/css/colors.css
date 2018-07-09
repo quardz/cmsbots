@@ -1,0 +1,36 @@
+ 
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Blognews / Blog orange  ---------------------------*/
+/*--------------------------------------------------------------------------*/
+.blog-orange  .title {
+  color: #333333;
+}
+
+.blog-orange  .view-header a {
+  color: #4b4b4b;
+}
+
+.blog-orange  .blog-title  {
+  color: #e9573e;
+}
+
+.blog-orange  .view-more a{
+  background-color: #e9573e;
+  color: #ffffff;
+}
+
+.blog-orange  .descrip{
+  color: #4b4b4b;
+}
+
+.blog-orange  .carousel-indicators li{
+  background-color: #ffffff;
+  border-color: #e9573e;
+}
+
+.blog-orange  .carousel-indicators .active{
+ background-color: #e9573e;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Blognews / Blog orange  ------------------------------*/
+/*--------------------------------------------------------------------------*/

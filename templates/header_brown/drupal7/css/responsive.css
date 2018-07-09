@@ -1,0 +1,47 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Header / Header brown  ----------------------------*/
+/*--------------------------------------------------------------------------*/ 
+@media (max-width: 767px) {
+
+.header-brown-content .main-title-second {
+  font-size: 4em;
+ }
+
+.header-brown-content  .main-title-first {
+  line-height: 1em;
+  font-size: 2em;
+}
+
+.header-brown-content .main-block-inner .main-desc {
+  padding: 0px 10%;
+}
+
+.header-brown-menu .navbar-scrolled .navbar {
+  min-height: 0px; 
+}
+
+.header-brown-menu .navbar-scrolled .navbar-toggle {
+  margin-right: 0px;
+  margin-top: 16px;
+  margin-bottom: 5px;
+}
+
+.header-brown-menu .navbar-scrolled .logo img {
+  margin-top: 17px;
+  margin-bottom: 0px;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+
+.header-brown-menu .navbar-scrolled .navbar-nav > li > a {
+  padding: 5px 8px;
+  padding-top: 19px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Header / Header brown  -------------------------------*/
+/*--------------------------------------------------------------------------*/

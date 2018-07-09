@@ -1,0 +1,70 @@
+.content-light-blue {
+  font-family: 'Roboto', sans-serif;
+  padding-top: 26px;
+  padding-bottom: 26px;
+}
+
+.content-light-blue  .content-boxes .top-header {
+  margin-right: 15px;
+}
+
+.content-light-blue .content-boxes .top-header .title {
+  font-size: 2.3em;
+  font-weight: normal;
+}
+
+.content-light-blue .content-boxes .top-header .description {
+  font-size: 1.1em;
+  font-weight: normal;
+}
+
+.content-light-blue  .content-boxes .content-box {
+  border-top: 1px solid;
+  margin-right: 15px;
+  margin-top: 18px;
+  padding-top: 15px;
+}
+
+.content-light-blue  .content-boxes  .content-box  .icon-circle {
+  border-radius: 39px;
+  display: inline-block;
+  font-size: 2.6em;
+  height: 78px;
+  line-height: 80px;
+  text-align: center;
+  width: 78px;
+  margin-top: 10px;
+  margin-bottom: 6px;
+}
+
+.content-light-blue .content-box  .title {
+  font-size: 1.5em;
+  font-weight: normal;
+  margin-bottom: 3px;
+}
+
+.content-light-blue .content-box  .description {
+  font-size: 1.05em;
+  font-weight: normal;
+}
+
+.content-light-blue  .content-boxes  .content-lists  .icon-circle {
+  border-radius: 15px;
+  font-size: 1em;
+  height: 28px;
+  line-height: 30px;
+  margin-right: 10px;
+  width: 28px;
+}
+
+.content-light-blue .content-box ul {
+  margin: 0;
+  padding: 0;
+}
+
+.content-light-blue .content-box ul li {
+  font-size: 1.3em;
+  font-weight: normal;
+  list-style: outside none none;
+  padding-bottom: 20px;
+}

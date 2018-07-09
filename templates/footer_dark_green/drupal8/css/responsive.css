@@ -1,0 +1,76 @@
+@media (min-width: 768px) and (max-width: 1169px) {
+  .footer-wrap .footer-message h2 {
+    padding-left: 15px;
+  }
+  .footer-wrap .footer-message .footer-message-content {
+    padding-left: 15px;
+  }
+}
+
+@media (max-width: 767px) {
+  .footer-wrap {
+    padding-top: 5px;
+    padding-bottom: 30px;
+  }
+  .footer-wrap .footer-message .block-content {
+    padding-left: 2%;
+    padding-right: 2%;
+    font-size: 1.15em;
+  }
+  .footer-wrap .footer-menus-signup {
+    text-align: center;
+  }
+  .footer-wrap .footer-menu ul li a {
+    line-height: 1.6em;
+    margin-bottom: 0px;
+  }  
+  .footer-wrap .footer-signup {
+    text-align: center;
+    padding-top: 0px;
+    margin-top: 30px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+  }
+  .footer-wrap .footer-signup-title {
+   padding-top: 1px;
+  }
+  .footer-wrap .footer-menus-signup h2 {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+  }
+  .footer-wrap .footer-message .block-content {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .footer-wrap #mainchimp-subscribe {
+    border-bottom: 0px;
+  }
+  .footer-wrap #contact_email {
+    border: none;
+    width: 90%;
+    display: inline;
+  }
+  .footer-wrap .subscribe-form-submit {
+    display: inline;
+    width: 90%;
+    text-align: center;
+    margin-bottom: 25px;
+  }
+  .footer-wrap .footer-copyright {
+    text-align: center; 
+  }
+  .footer-wrap .footer-menus-signup .title h2,
+  .footer-wrap .footer-message h2.title,
+  .footer-wrap .footer-signup .title h2 {
+    padding-bottom: 3px;
+  }
+  .footer-wrap .footer-message, 
+  .footer-wrap .footer-menus,
+  .footer-wrap .footer-signup {
+    padding-bottom: 0px;
+    padding-top: 0px;
+  }
+
+}

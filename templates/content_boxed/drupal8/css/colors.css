@@ -1,0 +1,30 @@
+.content-boxed h2,
+.content-boxed .intro-text,
+.content-boxed h2.block-title,
+.content-boxed h2.title,
+.content-boxed .content-box-inner .cta a {
+	color: #4F5458;
+}
+.content-boxed .content-box-inner{
+	background-color: #f0f0f0;
+}
+.content-boxed .content-box-inner .title,
+.content-boxed .content-box-inner .cta a:hover {
+	background-color: #4F5458;
+}
+.content-boxed .content-box-inner .title {
+ 	color: #ffffff;
+ }
+.content-boxed .content-box-inner:hover {
+	background-color: #e1e1e1;
+}
+.content-boxed .content-box-inner .cta {
+	border-top-color: #cccccc;
+}
+.content-boxed .content-box-inner .cta a:hover {
+	color: #e1e1e1;
+}
+.cb-bordered-2 {
+	border-color: #4F5458;
+}
+

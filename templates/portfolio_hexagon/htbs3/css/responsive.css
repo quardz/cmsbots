@@ -1,0 +1,65 @@
+/*--------------------------------------------------------------------------*/
+/*----------------------  Begins : Portfolio / portfolio hexagon  ----------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) {  
+
+.portfolio-hexagon {
+  padding-top: 30px; 
+  padding-bottom: 20px;
+}
+.portfolio-hexagon .honeycombs .honeycombs-inner-wrapper {
+  height: auto !important;
+}
+.portfolio-hexagon .honeycombs .hex_l {
+  display: none !important;
+}
+.portfolio-hexagon  h2{
+  font-size: 30px;
+}
+
+.portfolio-hexagon .desc {
+  padding-bottom: 8px;
+}
+
+.portfolio-hexagon  .carousel-inner {
+  padding: 0px;
+  margin: 0;
+}
+.portfolio-hexagon  .carousel-inner .item {
+  margin: 0;
+}
+
+.portfolio-hexagon .team-inner {
+  padding: 0;
+}
+
+.portfolio-hexagon .porti-demo a {
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+.portfolio-hexagon .honeycombs .item {
+  position: relative !important;
+  display: none;
+  width: 100% !important;
+  height: auto !important;
+  top: 0 !important;
+  left: 0 !important;
+}
+
+.portfolio-hexagon .honeycombs .item.active {
+  display: block;
+}
+
+.portfolio-hexagon .honeycombs .item img{
+  width: 100% !important;
+  height: auto !important;
+  display: inline-block !important;
+  padding-bottom: 10px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*----------------------  End : Portfolio / portfolio hexagon  -------------*/
+/*--------------------------------------------------------------------------*/

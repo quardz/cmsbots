@@ -1,0 +1,36 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Contact / Contact Blue  ---------------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 767px) {
+
+section.contact-blue {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}  
+
+.contact-blue h2 {
+  font-size: 36px;
+  padding-bottom: 8px;
+}
+
+.contact-blue  .contact-adddress .desc {
+  font-size: 15px;
+}
+
+.contact-blue  .contact-adddress address {
+  font-size: 22px;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+
+.contact-blue  .contact-adddress address {
+  font-size: 20px;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Contact / Contact Blue  ------------------------------*/
+/*--------------------------------------------------------------------------*/

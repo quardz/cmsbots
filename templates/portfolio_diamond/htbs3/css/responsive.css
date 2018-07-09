@@ -1,0 +1,35 @@
+
+/*--------------------------------------------------------------------------*/
+/*--------------- Begins : portfolio / portfolio  diamond ------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) {  
+
+.portfolio-diamond {
+  padding-top: 30px; 
+  padding-bottom: 30px;
+}
+
+.portfolio-diamond  .diamond-menu {
+  padding-bottom: 10px;
+}
+
+.portfolio-diamond  .desc {
+  margin-bottom: 11px;
+}
+
+.portfolio-diamond  .diamond-menu span {
+  font-size: 13px;
+  padding-right: 0px;
+  padding-left: 3px;
+}
+
+.portfolio-diamond  .diamond-menu span.filteritem .fa {
+  font-size: 5px;
+  padding-right: 6px;
+  vertical-align: middle;
+}
+
+}
+/*--------------------------------------------------------------------------*/
+/*--------------- End : portfolio / portfolio  diamond  --------------------*/
+/*--------------------------------------------------------------------------*/

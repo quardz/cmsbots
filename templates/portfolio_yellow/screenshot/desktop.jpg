@@ -1,0 +1,17 @@
+--2018-07-07 11:00:52--  http://q2test.s3.amazonaws.com/img/style/screenshots/portfolio_3.jpg
+Resolving q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)... 52.216.96.19
+Connecting to q2test.s3.amazonaws.com (q2test.s3.amazonaws.com)|52.216.96.19|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 307243 (300K) [image/jpeg]
+Saving to: 'portfolio_3.jpg'
+
+     0K .......... .......... .......... .......... .......... 16% 77.7K 3s
+    50K .......... .......... .......... .......... .......... 33%  156K 2s
+   100K .......... .......... .......... .......... .......... 49%  233K 1s
+   150K .......... .......... .......... .......... .......... 66%  313K 1s
+   200K .......... .......... .......... .......... .......... 83%  234K 0s
+   250K .......... .......... .......... .......... .......... 99%  236K 0s
+   300K                                                       100%  860 =1.8s
+
+2018-07-07 11:00:54 (170 KB/s) - 'portfolio_3.jpg' saved [307243/307243]
+

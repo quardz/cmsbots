@@ -1,0 +1,4 @@
+          <ul id="secondary-menu" class="links nav navbar-nav">
+            <li class="first leaf"><a href="#" title="Terms & Conditions">Terms & Conditions</a></li>
+            <li class="last leaf"><a href="#" title="Privacy Policy">Privacy Policy</a></li>
+          </ul>

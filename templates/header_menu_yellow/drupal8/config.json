@@ -1,0 +1,21 @@
+{
+  "regions": [],
+  "default_block_placements": [],
+  "color_settings": [
+    {
+      "label": "Text",
+      "colors": "default || Default || #4b4b4b\t",
+      "region": "text"
+    },
+    {
+      "label": "Base color",
+      "colors": "default || Default || #ffa800\t",
+      "region": "base"
+    },
+    {
+      "label": "Link",
+      "colors": "default || Default || #ffa801",
+      "region": "link"
+    }
+  ]
+}

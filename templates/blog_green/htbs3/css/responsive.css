@@ -1,0 +1,49 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Blognews / Blog Green  ----------------------------*/
+/*--------------------------------------------------------------------------*/
+@media (max-width: 768px) {  
+
+.blog-green {
+  padding-top: 8px;
+  padding-bottom: 10px;
+}
+
+
+.blog-green .blog-title {
+  font-size: 15px;
+}
+
+.blog-green .posted-date {
+  font-size: 1em;
+}
+
+.blog-green .descrip {
+  font-size: 15px;
+}
+
+.blog-green .meta-info {
+  font-size: 15px;
+}
+
+.blog-blue .view-header,
+.blog-blue .blog-readmore {
+  text-align:center;
+}
+
+}
+ 
+ @media (min-width: 769px) and (max-width: 992px) { 
+
+.blog-green .blog-title {
+  font-size: 17px;
+}
+
+.blog-green .posted-date {
+  font-size: 1.1em;
+}
+
+} 
+/*--------------------------------------------------------------------------*/
+/*------------  End : Blognews / Blog Green  -------------------------------*/
+/*--------------------------------------------------------------------------*/

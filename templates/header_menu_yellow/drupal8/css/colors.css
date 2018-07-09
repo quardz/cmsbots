@@ -1,0 +1,43 @@
+header#navbar,
+header#navbar .navbar-toggle .icon-bar {
+  background-color: #ffffff;
+}
+header#navbar .navbar-toggle,
+header#navbar.navbar-inverse,
+header#navbar .form-type-search .btn {
+  background-color: #ffa800;
+}
+header#navbar .form-type-search .btn,
+header#navbar.navbar-inverse .navbar-nav>li>a,
+header#navbar.navbar-inverse .navbar-nav>li>a:hover,
+header#navbar.navbar-inverse .navbar-brand {
+  color: #ffffff;
+}
+header#navbar .navbar-nav>li>a {
+  color: #2c2c2c;
+}
+header#navbar .navbar-nav>li>a:focus, 
+header#navbar .navbar-nav>li:hover>a,
+header#navbar .navbar-nav>li>a.active {
+  border-bottom-color: #ffa800;
+}
+header#navbar .navbar-nav>li>a:focus, 
+header#navbar .navbar-nav>li:hover>a,
+header#navbar .navbar-nav>li>a.active,
+header#navbar .dropdown-menu>li>a:hover, 
+header#navbar .dropdown-menu>li>a:focus,
+.navbar-brand {
+  color: #ffa800;
+}
+header#navbar .navbar-toggle {
+  border-color: #ffa800;
+}
+header#navbar .navbar-nav>li>a:focus, 
+header#navbar .navbar-nav>li:hover>a, 
+header#navbar .navbar-nav>li>a.active,
+header#navbar .navbar-nav>.open>a,
+header#navbar .navbar-nav>.open>a:hover, 
+header#navbar .navbar-nav>.open>a:focus {
+  background-color: transparent; 
+}
+

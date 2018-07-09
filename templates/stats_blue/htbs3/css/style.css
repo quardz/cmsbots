@@ -1,0 +1,52 @@
+
+/*--------------------------------------------------------------------------*/
+/*------------  Begins : Stats / stats blue  -------------------------------*/
+/*--------------------------------------------------------------------------*/
+/* CSS from jquery-asProgress.js library*/
+.stats-blue {
+  font-family: 'Roboto', sans-serif;
+  padding-top: 26px;
+  padding-bottom: 26px;
+}
+
+.stats-blue .top-header .title {
+  font-size: 1.8em;
+  font-weight: normal;
+  border-bottom: 1px solid;
+  display: inline-block;
+  padding-bottom: 16px;
+}
+  
+.stats-blue .top-header .description {
+  font-size: 1.1em;
+  margin-bottom: 49px;
+  margin-top: 5px;
+}
+
+.stats-blue .content-boxes .content-box .fa {
+  font-size: 5.5em;
+  margin: auto;
+  padding-top: 5px;
+}
+
+.stats-blue .content-boxes .content-box .icon-border {
+  display: inline-flex;
+  height: 140px;
+  width: 140px;
+  border: 1px solid;
+  margin-bottom: 6px;
+}
+
+.stats-blue .content-boxes .content-box .title {
+  font-size: 2.4em;
+  font-weight: normal;
+  margin-top: 7px;
+  margin-bottom: 1px; 
+}
+
+.stats-blue .content-boxes .content-box .description {
+  font-size: 1.2em;
+}
+/*--------------------------------------------------------------------------*/
+/*------------  End : Stats / stats blue  ----------------------------------*/
+/*--------------------------------------------------------------------------*/

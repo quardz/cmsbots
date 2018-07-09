@@ -1,0 +1,44 @@
+<footer id = "footer-wrap" class = "footer-section section footer-wrap">
+
+  {% if page.footer %}
+  <div class = "footer-message">
+    <div class = "{{ container }}">  
+    {{ page.footer }}
+    </div>    
+  </div>
+  {% elseif snippet.footer %}
+  <div class = "footer-message">
+    <div class = "{{ container }}">  
+    {{ snippet.footer }}
+    </div>    
+  </div>
+  {% endif %}
+  
+  <div class = "footer-copyright-menu text-center">
+    <div class = "{{ container }}">
+      <div class = "row">
+
+      {% if page.footer_copyright %}
+        <div class = "col-sm-6 footer-copyright text-left">
+        {{ page.footer_copyright }}
+        </div>
+        {% elseif snippet.footer_copyright %}
+        <div class = "col-sm-6 footer-copyright text-left">
+        {{ snippet.footer_copyright }}
+        </div>
+        {% endif %}
+        
+        {% if page.footer_menu %}
+        <div class = "col-sm-6 footer-menu text-right">
+            {{ page.footer_menu }}
+        </div>
+        {% elseif snippet.footer_menu %}
+        <div class = "col-sm-6 footer-menu text-right">
+            {{ snippet.footer_menu }}
+        </div>
+        {% endif %}
+
+      </diV>
+    </div>
+  </div>
+</footer>

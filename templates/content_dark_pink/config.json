@@ -1,0 +1,20 @@
+{
+  "platform": {
+    "htbs2": true,
+    "drupal8": true,
+    "drupal7": true
+  },
+  "author": {
+    "name": "adalarasu d",
+    "twitter": "https://twitter.com/adalquardz",
+    "facebook": "https://www.facebook.com/adalarasu",
+    "linkedin": "https://www.linkedin.com/in/adalarasu/",
+    "github": "https://github.com/quardz",
+    "website": "http://quardz.com"
+  },
+  "name": "Content dark pink",
+  "machine_name": "content_dark_pink",
+  "style_id": "111",
+  "region": "Content",
+  "created": "1420197389"
+}

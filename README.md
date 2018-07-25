@@ -1,2 +1,2 @@
 # cmsbots
-Open sourcing the cmsbots.com theme generator.
+Open sourcing the http://cmsbots.com theme generator platform.
